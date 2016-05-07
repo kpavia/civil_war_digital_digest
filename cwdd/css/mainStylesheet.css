@@ -1,0 +1,20 @@
+/* ==== HEADER ==== */
+#mainBanner {
+    display: block;
+    margin:  0px auto 5px auto;
+}
+
+/* ==== MAIN SECTION ==== */
+#main p {
+    text-align: center;
+}
+
+#main {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+/* ==== FOOTER ==== */
+footer p {
+    text-align: center;
+}
