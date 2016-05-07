@@ -23,6 +23,7 @@
                    Be sure to check back here regularly (and after about June 15) as we will be rolling out new ways to enjoy the history of the American Civil War.
                 </p>
                  
+                
             </section>
             <footer>
                 <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php';?>
