@@ -10,12 +10,12 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <title>Civil War Digital Digest</title>
   <script>
-    $(document).ready(function() {
+      $(document).ready(function() {
+            $("#affiliations").removeClass("active");
             $("#home").removeClass("active");
-            $("#episodes").removeClass("active");
             $("#research").removeClass("active");
             $("#store").removeClass("active");
-            $("#affiliations").removeClass("active");
+            $("#episodes").removeClass("active");
             $("#communicate").removeClass("active");
             
             $("#support").addClass("active");
@@ -43,15 +43,17 @@
             
             <div class="container-fluid" id="navbar-container">
                 <div class="collapse navbar-collapse" id="myNavbar">
-                    <ul class="nav navbar-nav">
-                        <li class="active" id="home"><a href="http://kspavia.com/bootstrap.php">Home</a></li>
-                        <li id="episodes"><a href="http://civilwardigitaldigest.com/pages/episodes.php">Episodes</a></li>
-                        <li id="research"><a href="http://civilwardigitaldigest.com/pages/research.php">Research</a></li>
-                        <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
-                        <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
-                        <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>
-                        <li id="affiliations"><a href="http://civilwardigitaldigest.com/pages/affiliations.php">Affiliations</a></li>
-                    </ul>
+                    <div id="nav-div-center">
+                        <ul class="nav navbar-nav" id="nav-ul">
+                            <li class="active" id="home"><a href="http://kspavia.com/bootstrap.php">Home</a></li>
+                            <li id="episodes"><a href="http://civilwardigitaldigest.com/pages/episodes.php">Episodes</a></li>
+                            <li id="research"><a href="http://civilwardigitaldigest.com/pages/research.php">Research</a></li>
+                            <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
+                            <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
+                            <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>
+                            <li id="affiliations"><a href="http://civilwardigitaldigest.com/pages/affiliations.php">Affiliations</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
             
@@ -64,7 +66,7 @@
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Welcome to the Civil War Digital Digest</h1>
-                    <p>This is the support page. It is currently under construction.</p><br>
+                    <p>This is the support page. It is currently under construction.</p>
                         <div id="intro-video-div">
                             <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
                         </div>
@@ -88,10 +90,7 @@
         </div>
 
         <footer class="container-fluid text-center">
-            <p>&copy; 2016, Look Around You Ventures, LLC<br>
-                Site built by Crow Design Studios<br>
-                Last updated 7 May 2016
-            </p>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
         </footer>
 
     </body>
