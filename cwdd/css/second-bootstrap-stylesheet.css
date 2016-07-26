@@ -40,7 +40,7 @@ footer {
 }
     
 header {
-    background-color: #394650; /* background color of header */
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
 }
 
 /* === NAV BAR === */
@@ -86,6 +86,11 @@ nav {
 
     section p {
         font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
     }
 }
 
