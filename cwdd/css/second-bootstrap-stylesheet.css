@@ -146,6 +146,30 @@ nav {
         margin-left: auto;
         margin-right: auto;
     }
+    
+    /* GRID MENU */
+
+    #grid-menu-ul {
+        list-style-type: none;
+        margin: 0px auto;
+    }
+
+    #grid-episodes, #grid-research, #grid-support, #grid-communicate, #grid-links, #grid-store {
+        float: left;
+        display: table;
+        
+        width: 125px;
+        height: 22px;
+        
+        padding: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #grid-episodes {
+        margin-left: 15px;
+    }
+    /* END GRID MENU */
 
 } /* END LAPTOP SCREENS */
 
@@ -180,6 +204,29 @@ nav {
         margin-left: auto;
         margin-right: auto;
     }
+    /* GRID MENU */
+    #grid-menu-ul {
+        list-style-type: none;
+        margin: 0px auto;
+    }
+
+    #grid-episodes, #grid-research, #grid-support, #grid-communicate, #grid-links, #grid-store {
+        float: left;
+        display: table;
+        
+        /* PIC SIZE*/
+        width: 180px;
+        height: 32px;
+        
+        padding: 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #grid-episodes {
+        margin-left: 38px;
+    }
+    /* END GRID MENU */
 
 } /* END BIG DESKTOP SCREENS */
   
@@ -211,43 +258,6 @@ section a {
     height: 100px;
     width: 160px;
 }
-
-/* GRID MENU */
-
-#episodes {
-    float: left;
-}
-
-#research {
-    float: left;
-}
-
-#store {
-    float: left;
-    margin-left: 5px;
-    margin-right: 0px;
-}
-
-#support {
-    float: left;
-}
-
-#communicate {
-    float: left;
-}
-
-#links {
-    float: left;
-}
-
-.menu img {
-    width: 400px;
-    height: 72px;
-}
-
-/* END GRID MENU */
-
-
 
 #left-side-aside p {
     margin-top: auto;
