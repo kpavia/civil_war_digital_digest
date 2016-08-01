@@ -10,14 +10,14 @@
 /* Set gray background color and 100% height */
 .sidenav {
     padding-top: 20px;
-    background-color: #f1f1f1;
+    background-color: #394650; /*#f1f1f1;*/
     height: 100%;
 }
     
 /* Set black background color, white text and some padding */
 footer {
-    background-color: #555;
-    color: white;
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
     padding: 15px;
     font-family: "IM Fell DW Pica", serif;
     font-size: 18px;
@@ -31,6 +31,10 @@ footer {
     }
     .row.content {
         height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
     }
 }
     
@@ -49,8 +53,19 @@ nav {
     font-size: 23px;  /* font size of nav bar */
 }
     
-#myNavBar ul li {
+#myNavBar ul li{
     text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
 }
 
 /* CENTERS NAV BAR */
@@ -92,10 +107,16 @@ nav {
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
-}
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 320px;
+        height: 100px;
+    }
+    
+}  /* END SMALL SCREENS */
 
-/* FOR BIG SCREENS */
-@media screen and (min-width: 768px) {
+/* FOR LAPTOP SCREENS */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
     
     /* sets dimensions for embedded video on larger screens */
     #intro-video-div {
@@ -113,15 +134,55 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 750px;
+        height: 950px;
     }
-    
     .img-responsive {
         margin: auto;
     }
     
-}
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 160px;
+        height: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+} /* END LAPTOP SCREENS */
+
+/* FOR BIG DESKTOP SCREENS */
+@media screen and (min-width: 1367px) {
     
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 850px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 160px;
+        height: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+} /* END BIG DESKTOP SCREENS */
+  
 section, h1, p {
     font-family: "IM Fell DW Pica", serif;
     text-align: center;
@@ -137,12 +198,61 @@ section, h1, p {
 #intro-video {
     width: 100%;
     height: 100%;
+    margin-top: 30px;
 }
 
+#youtube-logo {
+    margin: 10px auto 0px auto;
+    width: 160px;
+    height: 100px;
+}
+
+section a {
+    height: 100px;
+    width: 160px;
+}
+
+/* GRID MENU */
+
+#episodes {
+    float: left;
+}
+
+#research {
+    float: left;
+}
+
+#store {
+    float: left;
+    margin-left: 5px;
+    margin-right: 0px;
+}
+
+#support {
+    float: left;
+}
+
+#communicate {
+    float: left;
+}
+
+#links {
+    float: left;
+}
+
+.menu img {
+    width: 400px;
+    height: 72px;
+}
+
+/* END GRID MENU */
 
 
 
-
+#left-side-aside p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
 
 /*
 To change this license header, choose License Headers in Project Properties.

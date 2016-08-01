@@ -10,11 +10,7 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <title>Civil War Digital Digest</title>
   <script>
-      $(document).ready(function() {
-            
-            $("#home").addClass("active");
-            
-    }); //end ready function
+      
   </script>
 </head>
     <body>
@@ -23,43 +19,11 @@
                 <img src="images/cwddBanner.jpg" class="img-responsive" id="banner-img">
             </div>
         </header>
-        <nav class="navbar navbar-inverse" >
-            <!-- this does the mobile device/smaller screen menu button -->
-            <div class="container-fluid">
-                <div class="navbar-header">
-                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                  </button>
-                </div>
-            </div>
-            
-            <div class="container-fluid" id="navbar-container">
-                <div class="collapse navbar-collapse" id="myNavbar">
-                    <div id="nav-div-center">
-                        <ul class="nav navbar-nav" id="nav-ul">
-                            <li class="active" id="home"><a href="http://kspavia.com/bootstrap.php">Home</a></li>
-                            <li id="episodes"><a href="http://civilwardigitaldigest.com/pages/episodes.php">Episodes</a></li>
-                            <li id="research"><a href="http://civilwardigitaldigest.com/pages/research.php">Research</a></li>
-                            <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
-                            <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
-                            <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>
-                            <li id="links"><a href="http://civilwardigitaldigest.com/pages/affiliations.php">Links</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            
-        </nav>
+        
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <p>
-                           <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="images/vict-needle-ad.jpg" class="img-responsive" id="vict-needle-ad">
-                           </a>
-                       </p>        
+                               
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Welcome to the Civil War Digital Digest</h1>
@@ -71,21 +35,37 @@
                     <br><br>
                     
                     <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank"><img src="images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" /></a>
+                    <br><br>
+                    <div class="menu container-fluid" >
+                        <a href="http://civilwardigitaldigest.com/pages/episodes.php">
+                        <img class="img-responsive" id="episodes" src="images/episodes-button.jpg" alt="episodes menu button">
+                        </a>
+                        <a href="http://civilwardigitaldigest.com/pages/research.php">
+                        <img class="img-responsive" id="research" src="images/research-button.jpg" alt="research menu button">
+                        </a>
+                        <a href="http://civilwardigitaldigest.com/pages/store.php">
+                        <img class="img-responsive" id="store" src="images/store-button.jpg" alt="store menu button" >
+                        </a>
+                        <a href="http://civilwardigitaldigest.com/pages/support.php">
+                        <img class="img-responsive" id="support" src="images/support-button.jpg" alt="support menu button" >
+                        </a>
+                        <a href="http://civilwardigitaldigest.com/pages/communicate.php">
+                        <img class="img-responsive" id="communicate" src="images/communicate-button.jpg" alt="communicate menu button" >
+                        </a>
+                        <a href="http://civilwardigitaldigest.com/pages/links.php">
+                        <img class="img-responsive" id="links" src="images/links-button.jpg" alt="links menu button" >
+                        </a>
+                    </div>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    
-                        <p>
-                            <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                                <img src="images/wambaugh-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
-                            </a>
-                        </p>
-                    
+   
                 </aside>
             </div>
         </div>
 
         <footer class="container-fluid text-center">
-            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            <?php include $_SERVER['DOCUMENT_ROOT'].'php_modules/footer/footer.php'; ?>
+            
             <!-- Google Analytics Code -->
             <script>
                 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
