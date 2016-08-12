@@ -1,0 +1,259 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #394650; /*#f1f1f1;*/
+    height: 100%;
+}
+    
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
+    padding: 15px;
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 18px;
+}
+    
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {
+        height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
+    }
+}
+    
+/* centers banner img */
+#banner-img {
+    margin: 0px auto;
+}
+    
+header {
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
+}
+
+/* === NAV BAR === */
+nav {
+    font-family: "IM Fell DW Pica", serif;  /* font style of nav bar */
+    font-size: 23px;  /* font size of nav bar */
+}
+    
+#myNavBar ul li{
+    text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
+}
+
+/* CENTERS NAV BAR */
+#nav-div-center, #nav-ul {
+    margin: 0px auto;
+}
+
+/* CENTERS NAV BAR */
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin: 0px auto;
+        float: none;
+        display: table;
+    }
+}
+
+/* === END NAV BAR === */
+
+/* FOR SMALL SCREENS */
+@media screen and (max-width: 767px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 320px;
+        height: 100px;
+    }
+    
+}  /* END SMALL SCREENS */
+
+/* FOR LAPTOP SCREENS */
+@media screen and (min-width: 768px) and (max-width: 1366px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1400px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    .menu-buttons {
+        width: 350px;
+        height: 47px;
+      
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #main-content {
+        text-align: center;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 160px;
+        height: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+} /* END LAPTOP SCREENS */
+
+/* FOR BIG DESKTOP SCREENS */
+@media screen and (min-width: 1367px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1410px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    .menu-buttons {
+        width: 450px;
+        height: 62px;
+      
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #main-content {
+        text-align: center;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        width: 160px;
+        height: 600px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #store-menu-button {
+        margin: 0px auto;
+    }
+} /* END BIG DESKTOP SCREENS */
+  
+section, h1, p {
+    font-family: "IM Fell DW Pica", serif;
+    text-align: center;
+    position: static;
+}
+
+#intro-video-div {
+    margin: 0px auto;
+    position: static;
+    text-align: center;
+}
+
+#intro-video {
+    width: 100%;
+    height: 100%;
+    margin-top: 30px;
+}
+
+#youtube-logo {
+    margin: 10px auto 0px auto;
+    width: 160px;
+    height: 100px;
+}
+
+section a {
+    height: 100px;
+    width: 160px;
+}
+
+#left-side-aside p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 6, 2016, 7:10:41 PM
+    Author     : Kenneth
+*/
+

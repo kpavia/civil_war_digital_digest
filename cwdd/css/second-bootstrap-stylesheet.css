@@ -134,7 +134,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 950px;
+        height: 1680px;
     }
     .img-responsive {
         margin: auto;
@@ -147,30 +147,6 @@ nav {
         margin-right: auto;
     }
     
-    /* GRID MENU */
-
-    #grid-menu-ul {
-        list-style-type: none;
-        margin: 0px auto;
-    }
-
-    #grid-episodes, #grid-research, #grid-support, #grid-communicate, #grid-links, #grid-store {
-        float: left;
-        display: table;
-        
-        width: 125px;
-        height: 22px;
-        
-        padding: 0px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    #grid-episodes {
-        margin-left: 15px;
-    }
-    /* END GRID MENU */
-
 } /* END LAPTOP SCREENS */
 
 /* FOR BIG DESKTOP SCREENS */
@@ -192,10 +168,15 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 850px;
+        height: 1615px;
     }
     .img-responsive {
         margin: auto;
+    }
+    
+    .menu-buttons {
+        width: 450px;
+        height: 62px;
     }
     
     aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
@@ -204,30 +185,10 @@ nav {
         margin-left: auto;
         margin-right: auto;
     }
-    /* GRID MENU */
-    #grid-menu-ul {
-        list-style-type: none;
+
+    #store-menu-button {
         margin: 0px auto;
     }
-
-    #grid-episodes, #grid-research, #grid-support, #grid-communicate, #grid-links, #grid-store {
-        float: left;
-        display: table;
-        
-        /* PIC SIZE*/
-        width: 180px;
-        height: 32px;
-        
-        padding: 0px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    #grid-episodes {
-        margin-left: 38px;
-    }
-    /* END GRID MENU */
-
 } /* END BIG DESKTOP SCREENS */
   
 section, h1, p {
