@@ -40,7 +40,7 @@
                     <div id="nav-div-center">
                         <ul class="nav navbar-nav" id="nav-ul">
                             <li id="home"><a href="http://civilwardigitaldigest.com/grid-home.php">Home</a></li>
-                            <li id="episodes"><a href="http://civilwardigitaldigest.com/pages/episodes.php">Episodes</a></li>
+                            <li id="episodes"><a href="http://civilwardigitaldigest.com/pages/episodes/episodes.php">Episodes</a></li>
                             <li id="research"><a href="http://civilwardigitaldigest.com/pages/research.php">Research</a></li>
                             <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
                             <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>

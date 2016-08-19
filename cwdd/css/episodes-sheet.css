@@ -168,7 +168,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1615px;
+        height: 1115px;
     }
     .img-responsive {
         margin: auto;

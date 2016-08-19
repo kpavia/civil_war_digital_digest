@@ -35,7 +35,7 @@
                         Avid living historians, relaxed armchair generals and teachers will find resources that both educate and entertain.
                     </p>
                     <br>
-                    <a href="http://civilwardigitaldigest.com/pages/episodes.php" media="screen, handheld">
+                    <a href="http://civilwardigitaldigest.com/pages/episodes/episodes.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/episodes-button.jpg" alt="episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/research.php" media="screen, handheld">
