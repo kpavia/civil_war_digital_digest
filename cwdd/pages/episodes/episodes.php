@@ -57,7 +57,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/vict-needle-ad.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/vict-needle-side-ad.jpg" class="img-responsive" id="vict-needle-ad">
                            </a>
                        </p>        
                 </aside>
@@ -66,64 +66,64 @@
                     <h2>Episodes</h2>
                     <h3>Volume I</h3>
                     <br>
-                    <div class="container-fluid">
-                        <div class="container-fluid" id="row-one">
-                            <div class="container-fluid" id="v1e1-div">
-                                <p>Episode 1: Introduction</p>
-                                <a href="https://www.youtube.com/watch?v=XkTll5DyPbM&index=1&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e1.jpg" alt="Vol.1 Episode 1" id="v1e1">
-                                </a>
-                            </div>
-                            <div class="container-fluid" id="v1e2-div">
-                                <p>Episode 2: Union Civil War Rations</p>
-                                <a href="https://www.youtube.com/watch?v=LgVt6qXs7nI&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=2" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e2.jpg" alt="Vol.1 Episode 2" id="v1e2">
-                                </a>
-                            </div>
-                            <div class="container-fluid" id="v1e3-div">
-                                <p>Episode 3: Evaluating Reproductions</p>
-                                <a href="https://www.youtube.com/watch?v=-6Su8bzbuPA&index=3&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e3.jpg" alt="Vol.1 Episode 3" id="v1e3">
-                                </a>
-                            </div>
+                    <div class="container-fluid episodes">
+                        
+                        <div class="container-fluid episode-div" id="v1e1-div">
+                            <p>Episode 1: Introduction</p>
+                            <a href="https://www.youtube.com/watch?v=XkTll5DyPbM&index=1&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e1.jpg" alt="Vol.1 Episode 1" id="v1e1">
+                            </a>
                         </div>
-                        <br><br><br>
-                        <div class="container-fluid" id="row-two">
-                            <div class="container-fluid" id="v1e4-div">
-                                <p>Episode 4: Michigan's Save the Flags</p>
-                                <a href="https://www.youtube.com/watch?v=JucuA2IOz3g&index=4&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e4.jpg" alt="Vol.1 Episode 1" id="v1e4">
-                                </a>
-                            </div>
-                            <div class="container-fluid" id="v1e5-div">
-                                <p>Episode 5: Hell Fire Stew</p>
-                                <a href="https://www.youtube.com/watch?v=fZKuzP8fqAg&index=5&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e5.jpg" alt="Vol.1 Episode 2" id="v1e5">
-                                </a>
-                            </div>
-                            <div class="container-fluid" id="v1e6-div">
-                                <p>Episode 6: Richmond Depot Jacket Ty II</p>
-                                <a href="https://www.youtube.com/watch?v=XgBBGzOXAbA&index=6&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e6.jpg" alt="Vol.1 Episode 3" id="v1e6">
-                                </a>
-                            </div>
+                        <div class="container-fluid episode-div" id="v1e2-div">
+                            <p>Episode 2: Union Civil War Rations</p>
+                            <a href="https://www.youtube.com/watch?v=LgVt6qXs7nI&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=2" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e2.jpg" alt="Vol.1 Episode 2" id="v1e2">
+                            </a>
                         </div>
-                        <br><br><br>
-                        <div class="container-fluid" id="row-three">
-                            <div class="container-fluid" id="v1e7-div">
-                                <p>Episode 7: Coffee a la Zouave</p>
-                                <a href="https://www.youtube.com/watch?v=T22KXgp0VNo&index=7&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e7.jpg" alt="Vol.1 Episode 1" id="v1e7">
-                                </a>
-                            </div>
-                            <div class="container-fluid" id="v1e8-div">
-                                <p>Episode 8: Union Soldiers' Christmas</p>
-                                <a href="https://www.youtube.com/watch?v=sT7KCLaCkgo&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=8" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e8.jpg" alt="Vol.1 Episode 2" id="v1e8">
-                                </a>
-                            </div>
-                            
+                        <div class="container-fluid episode-div" id="v1e3-div">
+                            <p>Episode 3: Evaluating Reproductions</p>
+                            <a href="https://www.youtube.com/watch?v=-6Su8bzbuPA&index=3&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e3.jpg" alt="Vol.1 Episode 3" id="v1e3">
+                            </a>
                         </div>
+                        
+                        
+                        
+                        <div class="container-fluid episode-div" id="v1e4-div">
+                            <p>Episode 4: Michigan's Save the Flags</p>
+                            <a href="https://www.youtube.com/watch?v=JucuA2IOz3g&index=4&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e4.jpg" alt="Vol.1 Episode 1" id="v1e4">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v1e5-div">
+                            <p>Episode 5: Hell Fire Stew</p>
+                            <a href="https://www.youtube.com/watch?v=fZKuzP8fqAg&index=5&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e5.jpg" alt="Vol.1 Episode 2" id="v1e5">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v1e6-div">
+                            <p>Episode 6: Richmond Depot Jacket Ty II</p>
+                            <a href="https://www.youtube.com/watch?v=XgBBGzOXAbA&index=6&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e6.jpg" alt="Vol.1 Episode 3" id="v1e6">
+                            </a>
+                        </div>
+                        
+                        
+                        
+                        <div class="container-fluid episode-div" id="v1e7-div">
+                            <p>Episode 7: Coffee a la Zouave</p>
+                            <a href="https://www.youtube.com/watch?v=T22KXgp0VNo&index=7&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e7.jpg" alt="Vol.1 Episode 1" id="v1e7">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v1e8-div">
+                            <p>Episode 8: Union Soldiers' Christmas</p>
+                            <a href="https://www.youtube.com/watch?v=sT7KCLaCkgo&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e8.jpg" alt="Vol.1 Episode 2" id="v1e8">
+                            </a>
+                        </div>
+                        
+                        
                     
                     </div>
                 </section>
@@ -131,7 +131,7 @@
                     
                         <p>
                             <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/wambaugh-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
+                                <img src="/images/wambaugh-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
                             </a>
                         </p>
                         
