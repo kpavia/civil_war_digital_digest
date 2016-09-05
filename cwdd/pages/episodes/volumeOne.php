@@ -40,7 +40,7 @@
                     
                         <ul class="nav navbar-nav" id="nav-ul">
                             <li id="home"><a href="http://civilwardigitaldigest.com/grid-home.php">Home</a></li>
-                            <li class="dropdown" id="research">
+                            <li class="dropdown" id="episodes-dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Episodes</a>
                                 <ul class="dropdown-menu">
                                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">Volume I</a></li>

@@ -39,7 +39,7 @@
                     <h3>Volume II</h3>
                     <br>
                     <div class="container-fluid episodes">
-                        <div class="container-fluid first-row">
+                        
                             <div class="container-fluid episode-div" id="v2e1-div">
                                 <p>Episode 1: Beef Steak</p>
                                 <a href="https://www.youtube.com/watch?v=r-2I5Vzatis&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=1" target="_blank">
@@ -47,8 +47,8 @@
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e2-div">
-                                <p>Episode 2b: Michigan Civil War Books-Regimentals</p>
-                                <a href="https://www.youtube.com/watch?v=bZ-YsN8ktpg&index=3&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                <p>Episode 2a-d: Michigan Civil War Books</p>
+                                <a href="https://www.youtube.com/playlist?list=PLm0U6xIHaOs9F17KUb5pH_WUuVjcAzq-G" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e2b.jpg" alt="Vol.2 Episode 2b" id="v2e2b">
                                 </a>
                             </div>
@@ -58,9 +58,9 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e3.jpg" alt="Vol.2 Episode 3" id="v2e3">
                                 </a>
                             </div>
-                        </div>
                         
-                        <div class="container-fluid second-row">
+                        
+                        
                             <div class="container-fluid episode-div" id="v2e4-div">
                                 <p>Episode 4: GAR Museum</p>
                                 <a href="https://www.youtube.com/watch?v=T0yFNVogz0A&index=7&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
@@ -79,9 +79,9 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e6.jpg" alt="Vol.2 Episode 6" id="v2e6">
                                 </a>
                             </div>
-                        </div>
                         
-                        <div class="container-fluid third-row" >
+                        
+                        
                             <div class="container-fluid episode-div" id="v2e7-div">
                                 <p>Episode 7: A Piece of Flag History</p>
                                 <a href="https://www.youtube.com/watch?v=wz7b-QV5unc&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=10" target="_blank">
@@ -100,9 +100,9 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e10.jpg" alt="Vol.2 Episode 10" id="v2e10">
                                 </a>
                             </div>
-                        </div>
                         
-                        <div class="container-fluid fourth-row">
+                        
+                        
                             <div class="container-fluid episode-div" id="v2e11-div">
                                 <p>Episode 11: Don't Let the Colors go down!</p>
                                 <a href="https://www.youtube.com/watch?v=GuMq3WPR_44&index=14&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
@@ -121,9 +121,9 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e13.jpg" alt="Vol.2 Episode 13" id="v2e13">
                                 </a>
                             </div>
-                        </div>
                         
-                        <div class="container-fluid fifth-row">
+                        
+                        
                             <div class="container-fluid episode-div" id="v2e14-div">
                                 <p>Episode 14: A Flag's Importance</p>
                                 <a href="https://www.youtube.com/watch?v=FBQPwyy8AUM&index=17&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
@@ -136,7 +136,7 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Vol.2 Episode 15" id="v2e15">
                                 </a>
                             </div>
-                        </div>
+                        
                         
                         
                     

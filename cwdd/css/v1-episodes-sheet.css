@@ -36,6 +36,7 @@ footer {
     aside img {
        margin: 0px auto; 
     }
+
 }
     
 /* centers banner img */
@@ -85,7 +86,7 @@ nav {
 /* === END NAV BAR === */
 
 /* FOR PHONES IN LANDSCAPE MODE */
-@media screen and (min-width: 480px) and (max-width: 640px) and (orientation: landscape) {
+@media screen and (width: 640px) {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
@@ -128,19 +129,24 @@ nav {
         margin-top: 35px;
         padding: 0px;
     }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
     
     .episodes div {
-        margin-top: 50px;
+        margin-top: 100px;
     }
     
     #v1e8-div {
-        margin-bottom: 40px;
+        margin-bottom: 100px;
     }
     
 } /*END PHONES IN LANDSCAPE MODE */
 
 
-/* FOR PHONE SCREENS */
+/* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
@@ -169,21 +175,27 @@ nav {
         height: 100px;
     }
     
-    .episodes div {
+    .episode-div {
         text-align: center;
         margin-left: auto;
         margin-right: auto;
         margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
     }
     
     #v1e8-div {
         margin-bottom: 40px;
     }
     
-}  /* END PHONE SCREENS */
+}  /* END PHONE SCREENS: PORTRAIT */
 
 
-/* FOR iPAD SCREENS */
+/* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
     nav {
         font-size: 20px;
@@ -223,7 +235,63 @@ nav {
         margin-bottom: 40px;
     }
     
-}  /* END iPAD SCREENS */
+}  /* END iPAD SCREENS, PORTRAIT */
+
+
+
+
+/* FOR iPAD SCRFEENS, LANDSCAPE */
+
+@media screen and (orientation: landscape) and (width: 1024px) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 2550px !important;
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episodes {
+        padding: 0px;
+    }
+    
+    .episodes div {
+        float: left;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div {
+        margin-left: 145px !important;
+    }
+    
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-left: 144px !important;
+    }
+    
+    #v1e6 {
+        padding-right: 6px;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+
+} /* END iPAD SCREENS, LANDSCAPE */
 
 
 /* FOR TABLET SCREENS */
@@ -245,10 +313,6 @@ nav {
         font-size: 25px;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-    }
-    
     .episodes div {
         text-align: center;
         margin-left: auto;
@@ -262,7 +326,9 @@ nav {
     
 }  /* END TABLET SCREENS */
 
-/* FOR SMALL LAPTOP SCREENS */
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
 @media screen and (min-width: 1024px) and (max-width: 1365px) {
     
     /* sets dimensions for embedded video on larger screens */
@@ -281,7 +347,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2400px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -297,21 +363,28 @@ nav {
     
     .episodes div {
         text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 35px;
     }
 
-    #v1e8-div {
-        margin-bottom: 50px;
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 52.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
     }
     
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
+    }
     
     /*End of centering episode rows */
     
     
     
-} /* END SMALL LAPTOP SCREENS */
+} /* END SMALL LAPTOP SCREENS: 1280 x 800 */
 
 /* FOR 1366x768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
@@ -606,6 +679,8 @@ nav {
 
     #v1e2-div, #v1e5-div {
         float: left;
+        margin-left: 16px;
+        margin-right: 16px;
     }
 
     #v1e3-div, #v1e6-div {
@@ -621,7 +696,11 @@ nav {
         float: left;
     }
     
-    .episodes div {
+    .episode-div {
+        margin-bottom: 60px;
+    }
+    
+    #v1e1-div, #v1e2-div, #v1e3-div {
         margin-top: 25px;
     }
     /*End of centering episode rows */
@@ -662,6 +741,13 @@ section a {
     margin-top: auto;
     margin-bottom: auto;
 }
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
+}
+
 
 
 
