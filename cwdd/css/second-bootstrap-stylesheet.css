@@ -180,8 +180,6 @@ nav {
     }
     
     aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        width: 160px;
-        height: 600px;
         margin-left: auto;
         margin-right: auto;
     }
@@ -251,6 +249,12 @@ section a {
 #left-side-aside p {
     margin-top: auto;
     margin-bottom: auto;
+}
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
 }
 
 

@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-inverse" >
             <!-- this does the mobile device/smaller screen menu button -->
             <div class="container-fluid">
@@ -22,7 +23,13 @@
                                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">Volume II</a></li>
                                 </ul>
                             </li>
-                            <li id="research"><a href="http://civilwardigitaldigest.com/pages/research.php">Research</a></li>
+                            <li class="dropdown" id="research-dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">Research</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v1.php">Volume I</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v2.php">Volume II</a></li>
+                                </ul>
+                            </li>
                             <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
                             <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
                             <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>

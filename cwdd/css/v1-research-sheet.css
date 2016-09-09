@@ -36,6 +36,7 @@ footer {
     aside img {
        margin: 0px auto; 
     }
+
 }
     
 /* centers banner img */
@@ -85,7 +86,7 @@ nav {
 /* === END NAV BAR === */
 
 /* FOR PHONES IN LANDSCAPE MODE */
-@media screen and (width: 640px) and (orientation: landscape) {
+@media screen and (width: 640px) {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
@@ -128,20 +129,24 @@ nav {
         margin-top: 35px;
         padding: 0px;
     }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
     
-    .episode-div {
-        margin-top: 50px;
-        margin-bottom: 100px;
+    .episodes div {
+        margin-top: 100px;
     }
     
     #v1e8-div {
-        margin-bottom: 40px;
+        margin-bottom: 100px;
     }
     
 } /*END PHONES IN LANDSCAPE MODE */
 
 
-/* FOR PHONE SCREENS, PORTRAIT */
+/* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
@@ -172,12 +177,22 @@ nav {
     
     .episode-div {
         text-align: center;
-        margin: 35px auto 100px auto;
-        
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
     }
-
     
-}  /* END PHONE SCREENS, PORTRAIT */
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+}  /* END PHONE SCREENS: PORTRAIT */
 
 
 /* FOR iPAD SCREENS, PORTRAIT */
@@ -187,7 +202,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 4600px;
+        height: 2400px;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -204,11 +219,11 @@ nav {
         font-size: 25px;
     }
     
-    .episode-div {
+    .episodes div {
         text-align: center;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 80px;
+        margin-top: 35px;
     }
     
     .episode-div img {
@@ -216,15 +231,14 @@ nav {
         margin-right: auto;
     }
     
-    #v2e1-div {
-        margin-top: 30px;
-    }
-    
-    #v2e15-div {
-        margin-bottom: 80px;
+    #v1e8-div {
+        margin-bottom: 40px;
     }
     
 }  /* END iPAD SCREENS, PORTRAIT */
+
+
+
 
 /* FOR iPAD SCRFEENS, LANDSCAPE */
 
@@ -234,7 +248,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 4150px !important;
+        height: 2550px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -255,13 +269,20 @@ nav {
         padding: 0px;
     }
     
-    .episode-div {
+    .episodes div {
         float: left;
         text-align: center;
         margin-bottom: 40px;
-        margin-left: 154px !important;
     }
-
+    
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div {
+        margin-left: 145px !important;
+    }
+    
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-left: 144px !important;
+    }
+    
     #v1e6 {
         padding-right: 6px;
     }
@@ -273,12 +294,12 @@ nav {
 } /* END iPAD SCREENS, LANDSCAPE */
 
 
-/* FOR TABLET SCREENS 
+/* FOR TABLET SCREENS */
 @media screen and (min-width: 853px) and (max-width: 1024px) {
     nav {
         font-size: 24px;
     }
-    
+    /* sets dimensions for embedded video on small screens */
     #intro-video-div {
         height: auto;
         width: auto;
@@ -292,10 +313,6 @@ nav {
         font-size: 25px;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-    }
-    
     .episodes div {
         text-align: center;
         margin-left: auto;
@@ -303,9 +320,11 @@ nav {
         margin-top: 35px;
     }
     
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
     
-}   END TABLET SCREENS */
-
+}  /* END TABLET SCREENS */
 
 
 
@@ -328,7 +347,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -339,46 +358,33 @@ nav {
         margin-left: auto;
         margin-right: auto;
     }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
 
     /* two column layout */
-    .episodes {
-        text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
         float: left;
-        text-align: center;
+        margin-left: 52.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 55px;
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
     }
-    
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
-        margin-left: 0px;
-    }
-    
-    #v2e2b {
-        margin-left: 0px;
-    }
-    
-    #v2e11 {
-        margin: 0px;
-    }
-    
-    #v2e11 p {
-        padding-right: 4px;
-    }
-    
     
     /*End of centering episode rows */
     
-
+    
+    
 } /* END SMALL LAPTOP SCREENS: 1280 x 800 */
-
-
 
 /* FOR 1366x768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
@@ -399,7 +405,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2400px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -418,30 +424,18 @@ nav {
     }
 
     /* two column layout */
-    .episodes {
-        text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
         float: left;
+        margin-left: 52.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 105px;
-    }
-    
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
-        margin-left: 0px;
-    }
-    
-    #v2e2b {
-        margin-left: 0px;
-    }
-    
-    #v2e11 {
-        margin: 0px;
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
     }
     /* end two column layout */
     
@@ -471,7 +465,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2170px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -490,32 +484,19 @@ nav {
     }
 
     /* two column layout */
-    .episodes {
-        text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
         float: left;
-    }
-    
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 105px;
-    }
-    
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
-        margin-left: 0px;
-    }
-    
-    #v2e2b {
-        margin-left: 0px;
-    }
-    
-    #v2e11 {
-        margin: 0px;
+        margin-left: 69.5px;        
     }
 
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
+    }
     /* end two column layout */
     
     
@@ -544,7 +525,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -558,32 +539,24 @@ nav {
     
         /* Centering episode rows */
     
-    .episodes {
+    .episodes div {
         text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
-        float: left;
-    }
-    
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 103.5px;
-    }
-    
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
-        margin-left: 117px;
-    }
-    
-    #v2e2b {
-        margin-left: 0px;
-    }
-    
-    #v2e11 {
-        margin: 0px;
     }
 
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 103.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
+    }
     /* end two column layout */
     
     
@@ -612,7 +585,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1600px;
+        height: 1300px;
     }
     .img-responsive {
         margin: auto;
@@ -626,75 +599,23 @@ nav {
     
         /* Centering episode rows */
     
-    .episodes {
+    .episodes div {
         text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
-        float: left;
     }
 
-    #v2e1-div, #v2e2-div, #v2e3-div {
-        padding: 0px;
+    /* two column layout 8 */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 121px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
     }
     
-    #v2e1-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e2-div {
-        padding: 0px 44px;
-    }
-    
-    #v2e4-div, #v2e5-div, #v2e6-div {
-        padding: 0px;
-    }
-    
-    #v2e4-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e5 {
-        margin-left: 44px;
-        margin-right: 49px;
-    }
-    
-    #v2e7-div, #v2e9-div, #v2e10-div {
-        padding: 0px;
-    }
-    
-    #v2e7-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e9 {
-        margin-left: 44px;
-        margin-right: 49px; 
-    }
-    
-    #v2e11-div, #v2e12-div, #v2e13-div {
-        padding: 0px;
-    }
-    
-    #v2e11 {
-        margin-left: 9.41px;
-    }
-    
-    #v2e11-div {
-        padding: 0px;
-        margin-left: 0px;
-        width: 345px;
-    }
-    
-    #v2e12 {
-        margin-left: 29px;
-        margin-right: 52px; 
-    }
-    
-    #v2e14-div {
-        margin-left: 187.5px;
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
     }
     /* end two column layout */
     
@@ -724,7 +645,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1650px;
+        height: 4500px;
     }
     .img-responsive {
         margin: auto;
@@ -745,111 +666,29 @@ nav {
         margin: 0px auto;
     }
     
-    /* Centering episode rows */
-    
-    .episodes {
-        text-align: center;
-        padding: 0px;
-    }
-    
-    .episode-div {
-        margin-bottom: 60px;
+    section img {
         float: left;
+        padding-right: 10px;
     }
 
-    #v2e1-div, #v2e2-div, #v2e3-div {
-        padding: 0px;
-        margin-top: 25px;
+    #episode-six-partI, #episode-six-partII {
+        text-align: center;
     }
     
-    #v2e1-div {
-        margin-left: 89.5px;
+    .research-collapsibles {
+        font-size: 23px;
     }
     
-    #v2e2-div {
-        padding: 0px 44px;
-    }
-    
-    #v2e4-div, #v2e5-div, #v2e6-div {
-        padding: 0px;
-    }
-    
-    #v2e4-div {
-        margin-left: 89.5px;
-    }
-    
-    #v2e5 {
-        margin-left: 49px;
-        margin-right: 49px;
-    }
-    
-    #v2e7-div, #v2e9-div, #v2e10-div {
-        padding: 0px;
-    }
-    
-    #v2e7-div {
-        margin-left: 89.5px;
-    }
-    
-    #v2e9 {
-        margin-left: 49px;
-        margin-right: 49px; 
-    }
-    
-    #v2e11-div, #v2e12-div, #v2e13-div {
-        padding: 0px;
-    }
-    
-    #v2e11 {
-        margin-left: 0px;
-    }
-    
-    #v2e11-div {
-        padding: 0px;
-        margin-left: 89.5px;
-    }
-    
-    #v2e12 {
-        margin-left: 32px;
-        margin-right: 52px; 
-    }
-    
-    #v2e14-div {
-        margin-left: 268px;
+    .book-overflow {
+        overflow: hidden;
     }
 
-    /*End of centering episode rows */
-    
-    
 } /* END BIG DESKTOP SCREENS */
   
-section, h1, h2, h3, p {
+section, h1, h2, h3, h4 {
     font-family: "IM Fell DW Pica", serif;
     text-align: center;
     position: static;
-}
-
-#intro-video-div {
-    margin: 0px auto;
-    position: static;
-    text-align: center;
-}
-
-#intro-video {
-    width: 100%;
-    height: 100%;
-    margin-top: 30px;
-}
-
-#youtube-logo {
-    margin: 10px auto 0px auto;
-    width: 160px;
-    height: 100px;
-}
-
-section a {
-    height: 100px;
-    width: 160px;
 }
 
 #left-side-aside p {
@@ -862,6 +701,7 @@ section a {
     color: #000000 !important;
     font-size: 20px;
 }
+
 
 
 

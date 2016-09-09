@@ -12,7 +12,7 @@
   <script>
       $(document).ready(function() {
             
-            $("#episodes").addClass("active");
+            $("#episodes-dropdown").addClass("active");
             
     }); //end ready function
   </script>

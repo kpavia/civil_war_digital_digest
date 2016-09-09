@@ -12,7 +12,7 @@
   <script>
       $(document).ready(function() {
             
-            $("#episodes").addClass("active");
+            $("#episodes-dropdown").addClass("active");
             
     }); //end ready function
   </script>
@@ -23,7 +23,9 @@
                 <img src="/images/cwddBanner.jpg" class="img-responsive" id="banner-img">
             </div>
         </header>
+        
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/nav-bar.php'; ?>
+        
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
