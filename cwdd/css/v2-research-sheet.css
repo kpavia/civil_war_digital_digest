@@ -560,12 +560,8 @@ nav {
     }
     
     section img {
-        float: left;
+        float: left !important;
         padding-right: 10px;
-    }
-
-    #episode-six-partI, #episode-six-partII, .back-to-top {
-        text-align: center;
     }
     
     .research-collapsibles {
@@ -575,12 +571,22 @@ nav {
     .book-overflow {
         overflow: hidden;
     }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+
 
 } /* END BIG DESKTOP SCREENS */
   
-section, h1, h2, h3, h4 {
+h1, h2, h3, h4 {
     font-family: "IM Fell DW Pica", serif;
     text-align: center;
+    position: static;
+}
+
+section {
+    font-family: "IM Fell DW Pica", serif;
     position: static;
 }
 
