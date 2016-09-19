@@ -8,6 +8,7 @@
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="/javascript/slug-line-popup.js"></script>
   <title>Civil War Digital Digest</title>
   <script>
       $(document).ready(function() {
@@ -15,6 +16,10 @@
             $("#episodes-dropdown").addClass("active");
             
     }); //end ready function
+  </script>
+  <script>
+
+            
   </script>
 </head>
     <body>
@@ -41,55 +46,66 @@
                     <div class="container-fluid episodes">
                         
                         <div class="container-fluid episode-div" id="v1e1-div">
-                            <p>Episode 1: Introduction</p>
+                            <p class="popup" onclick="popup()" id="episode-one-pop">Episode 1: Introduction
+                                <span class="popuptext" id="episode-one-slugline">Introduction to the Civil War Digital Digest</span>
+                            </p>
+                            
                             <a href="https://www.youtube.com/watch?v=XkTll5DyPbM&index=1&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e1.jpg" alt="Vol.1 Episode 1" id="v1e1">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e2-div">
-                            <p>Episode 2: Union Civil War Rations</p>
+                            <p class="popup" onclick="popup()" id="episode-two-pop">Episode 2: Union Civil War Rations
+                                <span class="popuptext" id="episode-two-slugline">An overview on what the proscribed ration was for the Union soldier.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=LgVt6qXs7nI&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=2" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e2.jpg" alt="Vol.1 Episode 2" id="v1e2">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e3-div">
-                            <p>Episode 3: Evaluating Reproductions</p>
+                            <p class="popup" onclick="popup()" id="episode-three-pop">Episode 3: Evaluating Reproductions
+                                <span class="popuptext" id="episode-three-slugline">Understand criteria that can be used to judge reproduction garments and other reproduced items.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=-6Su8bzbuPA&index=3&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e3.jpg" alt="Vol.1 Episode 3" id="v1e3">
                             </a>
                         </div>
-                        
-                        
-                        
                         <div class="container-fluid episode-div" id="v1e4-div">
-                            <p>Episode 4: Michigan's Save the Flags</p>
+                            <p class="popup" onclick="popup()" id="episode-four-pop">Episode 4: Michigan's Save the Flags
+                                <span class="popuptext" id="episode-four-slugline">Learn more about Michigan's efforts to conserve it's Civil War Battle Flags.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=JucuA2IOz3g&index=4&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e4.jpg" alt="Vol.1 Episode 1" id="v1e4">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e5-div">
-                            <p>Episode 5: Hell Fire Stew</p>
+                            <p class="popup" onclick="popup()" id="episode-five-pop">Episode 5: Hell Fire Stew
+                                <span class="popuptext" id="episode-five-slugline">Learn a veteran’s recipe to make hardtack more edible.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=fZKuzP8fqAg&index=5&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e5.jpg" alt="Vol.1 Episode 2" id="v1e5">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e6-div">
-                            <p>Episode 6: Richmond Depot Jacket Ty II</p>
+                            <p class="popup" onclick="popup()" id="episode-six-pop">Episode 6: Richmond Depot Jacket Ty II
+                                <span class="popuptext" id="episode-six-slugline">Learn about a mainstay garment for the Army of Northern Virginia.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=XgBBGzOXAbA&index=6&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e6.jpg" alt="Vol.1 Episode 3" id="v1e6">
                             </a>
                         </div>
-                        
-                        
-                        
                         <div class="container-fluid episode-div" id="v1e7-div">
-                            <p>Episode 7: Coffee a la Zouave</p>
+                            <p class="popup" onclick="popup()" id="episode-seven-pop">Episode 7: Coffee a la Zouave
+                                <span class="popuptext" id="episode-seven-slugline">Learn primary source direction to brew coffee in a camp situation.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=T22KXgp0VNo&index=7&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e7.jpg" alt="Vol.1 Episode 1" id="v1e7">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e8-div">
-                            <p>Episode 8: Union Soldiers' Christmas</p>
+                            <p class="popup" onclick="popup()" id="episode-eight-pop">Episode 8: Union Soldiers' Christmas
+                                <span class="popuptext" id="episode-eight-slugline">Guided by primary sources, this episode explores the Union soldiers experience during Christmas.</span>
+                            </p>
                             <a href="https://www.youtube.com/watch?v=sT7KCLaCkgo&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9&index=8" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_one_episodes/v1e8.jpg" alt="Vol.1 Episode 2" id="v1e8">
                             </a>

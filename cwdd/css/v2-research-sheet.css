@@ -139,8 +139,16 @@ nav {
         margin-top: 100px;
     }
     
-    #v1e8-div {
-        margin-bottom: 100px;
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
     }
     
 } /*END PHONES IN LANDSCAPE MODE */
@@ -175,19 +183,21 @@ nav {
         height: 100px;
     }
 
-    .book-overflow img, #episode-two img, #episode-five img {
-        margin-left: auto;
-        margin-right: auto;
+    .img-responsive {
+        margin: auto;
     }
-    
-    #episode-six-partI, #episode-six-partII, .back-to-top {
-        text-align: center;
-    }
-    
+
     section {
         text-align: center !important;
     }
     
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
     
     section div {
         margin-bottom: 40px;
@@ -202,7 +212,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 8000px;
+        height: 13300px;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -219,13 +229,24 @@ nav {
         font-size: 25px;
     }
     
-    #episode-six-partI, #episode-six-partII, .back-to-top {
-        text-align: center;
+    .img-responsive {
+        margin: auto;
     }
     
-    .book-overflow img, #episode-two img, #episode-five img {
-        margin-left: auto;
-        margin-right: auto;
+    section img {
+        padding-right: 10px;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
     }
     
 }  /* END iPAD SCREENS, PORTRAIT */
@@ -233,7 +254,7 @@ nav {
 
 
 
-/* FOR iPAD SCRFEENS, LANDSCAPE */
+/* FOR iPAD SCREENS, LANDSCAPE */
 
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
@@ -241,7 +262,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 6300px !important;
+        height: 9900px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -315,25 +336,35 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5800px;
+        height: 9150px;
     }
+    
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    section img {
+        padding-right: 10px;
     }
     
-    #episode-six-partI, #episode-six-partII, .back-to-top {
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
         text-align: center;
-    } 
+    }
     
     
     
 } /* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+
+
 
 /* FOR 1366x768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
@@ -354,31 +385,34 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5650px;
+        height: 9130px;
     }
+    
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    section img {
+        padding-right: 10px;
     }
     
-        /* Centering episode rows */
-    
-    .episodes div {
-        text-align: center;
+    .research-collapsibles {
+        font-size: 23px;
     }
-
-    #episode-six-partI, #episode-six-partII, .back-to-top {
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
         text-align: center;
-    }    
+    }   
     
     
     
 } /* END 1366x768 SCREENS */
+
+
 
 /* FOR 1440x900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
@@ -399,26 +433,33 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5600px;
+        height: 7350px;
     }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    section img {
+        float: left !important;
+        padding-right: 10px;
     }
     
-    #episode-six-partI, #episode-six-partII, .back-to-top {
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
         text-align: center;
     }
 
     
-    
-    
 } /* END 1440x900 SCREENS */
+
+
 
 /* FOR 1600x900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
@@ -439,21 +480,26 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5500px;
-    }
-    .img-responsive {
-        margin: auto;
+        height: 7300px;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    section img {
+        float: left !important;
+        padding-right: 10px;
     }
     
-    #episode-six-partI, #episode-six-partII, .back-to-top {
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
         text-align: center;
     }
+
     
     
     
@@ -478,7 +524,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5500px;
+        height: 7250px;
     }
     .img-responsive {
         margin: auto;
@@ -495,27 +541,25 @@ nav {
     .episodes div {
         text-align: center;
     }
-
-    /* two column layout 8 */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
-        float: left;
-        margin-left: 121px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+    
+    section img {
+        float: left !important;
+        padding-right: 10px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
-        
+    .research-collapsibles {
+        font-size: 23px;
     }
     
-    #episode-six-partI, #episode-six-partII, .back-to-top {
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
         text-align: center;
     }
-    
-    
+
+
     
 } /* END 1680x1050 SCREENS */
 
@@ -538,7 +582,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4500px;
+        height: 7300px;
     }
     .img-responsive {
         margin: auto;

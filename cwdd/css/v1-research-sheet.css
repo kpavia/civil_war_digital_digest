@@ -143,6 +143,22 @@ nav {
         margin-bottom: 100px;
     }
     
+    #episode-six-partI, #episode-six-partII, .back-to-top {
+        text-align: center;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
 } /*END PHONES IN LANDSCAPE MODE */
 
 
@@ -187,11 +203,23 @@ nav {
     section {
         text-align: center !important;
     }
-    
-    
+
     section div {
         margin-bottom: 40px;
     }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
 }  /* END PHONE SCREENS: PORTRAIT */
 
 
@@ -226,6 +254,10 @@ nav {
     .book-overflow img, #episode-two img, #episode-five img {
         margin-left: auto;
         margin-right: auto;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
     }
     
 }  /* END iPAD SCREENS, PORTRAIT */
@@ -330,6 +362,10 @@ nav {
     #episode-six-partI, #episode-six-partII, .back-to-top {
         text-align: center;
     } 
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
     
     
     
