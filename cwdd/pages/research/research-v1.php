@@ -31,7 +31,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/vict-needle-side-ad.jpg" class="img-responsive" id="vict-needle-ad" alt="Link goes to an etsy store for the Victorian Needle">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="vict-needle-ad" alt="Link goes to an etsy store for the Victorian Needle">
                            </a>
                        </p>        
                 </aside>
@@ -150,7 +150,8 @@
                                 <a href="https://www.amazon.com/Hell-Belle-Isle-Diary-Civil/dp/0965920100/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&linkId=RVVPYE5Z5H6RAHHP&                                     creativeASIN=0965920100" target="_blank">
                                     <img src="/images/v1-research/episode-eight-seventh-book.jpg" class="img-responsive" alt="Link goes to Amazon.com">
                                 </a>
-                                <p><strong>Hell on Belle Isle: Diary of a Civil War Pow - by Jacob Osborn Coburn</strong> This POW account is quite the contrast to Keeler's Christmas in Libby.
+                                <p><strong>Hell on Belle Isle: Diary of a Civil War Pow - by Jacob Osborn Coburn</strong> This POW account is quite the contrast to Keeler's Christmas 
+                                    in Libby.
                                 </p>
                             </div>
                             <br>
@@ -176,7 +177,8 @@
                                 <a href="https://www.amazon.com/Letters-Lieutenant-Adjutant-Pennsylvania-Volunteers/dp/0935523480/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&                                     linkId=QHV4O23WSZEZGGZQ&creativeASIN=0935523480" target="_blank">
                                     <img src="/images/v1-research/episode-eight-tenth-book.jpg" class="img-responsive" alt="Link goes to Amazon.com">
                                 </a>
-                                <p><strong>The Civil War Letters of First Lieutenant James B. Thomas, Adjutant, 107th Pennsylvania Volunteers (Army of the Potomac Series) - By James B. Thomas
+                                <p><strong>The Civil War Letters of First Lieutenant James B. Thomas, Adjutant, 107th Pennsylvania Volunteers (Army of the Potomac Series) - 
+                                        By James B. Thomas
                                     </strong> Another great account of a junior officer in the Eastern Theater
                                 </p>
                             </div>
@@ -198,7 +200,7 @@
                     
                         <p>
                             <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/wambaugh-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic" alt="Link goes to Wambaugh, White and Co. store">
+                                <img src="/images/new-temp-ad-wambaugh.jpg" class="img-responsive" id="wambaugh-ad-pic" alt="Link goes to Wambaugh, White and Co. store">
                             </a>
                         </p>
                         

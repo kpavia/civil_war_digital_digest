@@ -34,7 +34,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/vict-needle-side-ad.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="vict-needle-ad">
                            </a>
                        </p>        
                 </aside>
@@ -119,7 +119,7 @@
                     
                         <p>
                             <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/wambaugh-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
+                                <img src="/images/new-temp-ad-wambaugh.jpg" class="img-responsive" id="wambaugh-ad-pic">
                             </a>
                         </p>
                         
