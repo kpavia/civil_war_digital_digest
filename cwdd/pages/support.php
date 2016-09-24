@@ -48,8 +48,8 @@
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
                         <p>
-                            <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/wambaugh-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
+                            <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
+                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
                             </a>
                         </p>
                         
@@ -59,7 +59,18 @@
 
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            
             <!-- Google Analytics Code -->
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-81785309-2', 'auto');
+                ga('send', 'pageview');
+
+            </script>
             
         </footer>
 

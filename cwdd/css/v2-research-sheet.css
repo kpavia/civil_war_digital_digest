@@ -109,8 +109,8 @@ nav {
         content: url("/images/vict-needle-ad.jpg");
     }
     
-    #wambaugh-ad-pic {
-        content: url("/images/wambaugh-ad.jpg");
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-ad.jpg");
     }
     
     aside p a img {
@@ -178,7 +178,11 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-ad.jpg");
+    }
+    
+    aside p, aside p a #vict-needle-ad, #right-ad-pic {
         width: 320px;
         height: 100px;
     }
