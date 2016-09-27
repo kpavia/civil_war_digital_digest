@@ -63,8 +63,11 @@
                         <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <br><br>
-                    
-                    <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank"><img src="images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" /></a>
+                    <p>
+                        <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank">
+                            <img src="images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" />
+                        </a>
+                    </p>
                     <br><br>
                     
                 </section>

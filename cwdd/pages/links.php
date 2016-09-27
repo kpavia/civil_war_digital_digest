@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="/css/second-bootstrap-stylesheet.css" >
+  <link rel="stylesheet" type="text/css" href="/css/links-sheet.css" >
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -32,7 +33,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/vict-needle-ad.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
                            </a>
                        </p>        
                 </aside>
@@ -50,7 +51,7 @@
                     
                         <p>
                             <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
+                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="right-ad-pic">
                             </a>
                         </p>
                         

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="/css/second-bootstrap-stylesheet.css" >
-  
+  <link rel="stylesheet" type="text/css" href="/css/communicate-sheet.css">
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -20,6 +20,7 @@
   </script>
 </head>
     <body>
+        
         <header>
             <div class="container-fluid" >
                 <img src="/images/cwddBanner.jpg" class="img-responsive" id="banner-img">
@@ -27,19 +28,19 @@
         </header>
         
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/nav-bar.php'; ?>
-        
-        <?php include $_SERVER['DOCUMENT_ROOT']. '/php/contact-form.php'; ?>
-        
+  
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/vict-needle-ad.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
                            </a>
                        </p>        
                 </aside>
-                <section class="col-sm-8 container">
+                
+                <?php include $_SERVER['DOCUMENT_ROOT']. '/php/contact-form.php'; ?>
+                <section class="col-sm-8 ">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3">
                             <h1 class="page-header text-center">Contact the Civil War Digital Digest</h1>
@@ -77,13 +78,13 @@
                                 </div>
                                 
                                 <div class="form-group">
-                                    <div class="col-sm-10 col-sm-offset-2">
+                                    <div class="col-sm-10 "> <!-- col-sm-offset-2 -->
                                         <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
                                     </div>
                                 </div>
                                 
                                 <div class="form-group">
-                                    <div class="col-sm-10 col-sm-offset-2">
+                                    <div class="col-sm-10 col-sm-offset-2" id="message-sent-sentence">
                                         <?php echo $result; ?>
                                     </div>
                                 </div>
@@ -91,14 +92,21 @@
                             </form>
                         </div>
                     </div>
-                    
+                    <div>
+                        <h2>Connect with us!</h2>
+                        <p>
+                            <a href="https://www.facebook.com/civilwardigitaldigest/" target="_blank">
+                                <img src="/images/facebook-button-50px-width.png" alt="Facebook Link">
+                            </a>
+                        </p>
+                    </div>
                     
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
                         <p>
                             <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
+                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="right-ad-pic">
                             </a>
                         </p>
                         

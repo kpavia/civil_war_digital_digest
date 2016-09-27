@@ -105,12 +105,14 @@ nav {
     }
     
     /* changes ads */
-    #vict-needle-ad {
+    #left-ad-pic {
         content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
     }
     
     #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-ad.jpg");
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
     aside p a img {
@@ -186,15 +188,18 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-ad.jpg");
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
     }
     
-    aside p, aside p a #vict-needle-ad, #right-ad-pic {
-        width: 320px;
-        height: 100px;
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
-
+    
+    
+/* EPISODE LAYOUT */
     .book-overflow img, #episode-two img, #episode-five img {
         margin-left: auto;
         margin-right: auto;

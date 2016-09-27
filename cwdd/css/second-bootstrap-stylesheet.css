@@ -108,10 +108,6 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        width: 320px;
-        height: 100px;
-    }
     
 }  /* END SMALL SCREENS */
 

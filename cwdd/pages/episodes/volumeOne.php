@@ -34,7 +34,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
                            </a>
                        </p>        
                 </aside>

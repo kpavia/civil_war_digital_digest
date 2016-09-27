@@ -1,37 +1,5 @@
-label {
-    font-size: 18px;
-}
-
-#content-ads-holding-div { 
-    height: 750px !important;
-}
-
-input, textarea {
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-}
-
-#message-sent-sentence {
-    font-size: 18px;
-}
-
-#submit {
-    margin-left: 110px;
-}
-
 /* FOR PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
-    
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
     
 }
 
@@ -42,16 +10,6 @@ input, textarea {
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
 
 }
 

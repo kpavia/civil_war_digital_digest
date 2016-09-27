@@ -105,12 +105,14 @@ nav {
     }
     
     /* changes ads */
-    #vict-needle-ad {
+    #left-ad-pic {
         content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
     }
     
     #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-ad.jpg");
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
     aside p a img {
@@ -173,13 +175,18 @@ nav {
     }
     
     #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-ad.jpg");
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+        width: 300px;
+        height: 250px;
     }
     
-    aside p, aside p a #vict-needle-ad, #right-ad-pic {
-        width: 320px;
-        height: 100px;
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
     }
+    
+    
     
     .episode-div {
         text-align: center;
@@ -248,7 +255,7 @@ nav {
 
 
 
-/* FOR iPAD SCRFEENS, LANDSCAPE */
+/* FOR iPAD SCREENS, LANDSCAPE */
 
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
@@ -748,7 +755,7 @@ section, h1, h2, h3, h4, p {
 /* The actual popup */
 .popup .popuptext {
     visibility: hidden;
-    width: 160px;
+    width: 320px; /* 160px */
     background-color: #555;
     color: #fff;
     text-align: center;
@@ -758,7 +765,7 @@ section, h1, h2, h3, h4, p {
     z-index: 1;
     bottom: 125%;
     left: 50%;
-    margin-left: -80px;
+    transform: translateX(-50%);
 }
 
 /* Popup arrow */

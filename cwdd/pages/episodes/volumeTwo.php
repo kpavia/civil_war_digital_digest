@@ -30,7 +30,7 @@
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <p>
                            <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="vict-needle-ad">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
                            </a>
                        </p>        
                 </aside>
@@ -103,6 +103,16 @@
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=wz7b-QV5unc&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=10" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e7.jpg" alt="Vol.2 Episode 7" id="v2e7">
+                                </a>
+                            </div>
+                            <div class="container-fluid episode-div" id="v2e8-div">
+                                <p class="popup" onclick="popup()" id="episode-eight-pop">Episode 8: Aprons - Not Just for Cooking
+                                    <span class="popuptext" id="episode-eight-slugline">We talk about the uses of aprons and view originals, guided by collector and garment maker 
+                                        Jackie Jacobs.
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=CfoEJmZC0q0&index=11&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e8.jpg" alt="Vol.2 Episode 8" id="v2e8">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e9-div">
