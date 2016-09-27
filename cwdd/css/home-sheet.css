@@ -1,0 +1,128 @@
+/* FOR PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    
+    /* CHANGE ADS  */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    img {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    #intro-video-div {
+        height: 315px;
+    }
+}
+
+/* END PHONES IN LANDSCAPE MODE */
+
+
+
+/* FOR PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    
+    /* CHANGE ADS  */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    #intro-video-div {
+        height: 315px;
+    }
+
+}
+
+/* END PHONE SCREENS: PORTRAIT */
+
+
+
+/* FOR iPAD SCREENS, PORTRAIT */
+@media screen and (width: 768px) and (orientation: portrait) {
+    
+    
+}
+
+/* END iPAD SCREENS, PORTRAIT */
+
+
+
+/* FOR iPAD SCREENS, LANDSCAPE */
+@media screen and (orientation: landscape) and (width: 1024px) {
+
+
+}
+
+/* END iPAD SCREENS, LANDSCAPE */
+
+
+/* FOR TABLET SCREENS */
+@media screen and (min-width: 853px) and (max-width: 1024px) {
+    
+}
+
+/* END TABLET SCREENS */
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+    
+}
+
+/* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+
+/* FOR 1366 x 768 SCREENS */
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    
+}
+
+/* END FOR 1366 x 768 SCREENS */
+
+
+
+
+/* FOR 1440 x 900 SCREENS */
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    
+}
+
+/* END 1440 x 900 SCREENS */
+
+
+/* FOR 1600 x 900 SCREENS */
+@media screen and (min-width: 1441px) and (max-width: 1601px) {
+    
+}
+
+/* END FOR 1600 x 900 SCREENS */
+
+
+/* FOR 1680 x 1050 SCREENS */
+@media screen and (min-width: 1601px) and (max-width: 1680px) {
+    
+}
+
+/* END FOR 1680 x 1050 SCREENS  */
+
+
+/* FOR BIG DESKTOP SCREENS: 23"+ */
+@media screen and (min-width: 1681px) {
+    
+}
+
+
+/* END FOR BIG DESKTOP SCREENS: 23"+ */

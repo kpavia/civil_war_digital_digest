@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/second-bootstrap-stylesheet.css" >
+  <link rel="stylesheet" type="text/css" href="css/home-sheet.css">
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -23,11 +24,11 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                    <p>
-                        <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                            <img src="/images/vict-needle-side-ad.jpg" class="img-responsive" id="vict-needle-ad">
-                        </a>
-                    </p>
+                       <p>
+                           <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
+                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
+                           </a>
+                       </p>        
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Welcome to the Civil War Digital Digest</h1>
@@ -65,18 +66,20 @@
                     <br><br>
                     <p>
                         <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank">
-                            <img src="images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" />
+                            <img src="images/YouTube-logo-full_color.png" class="act img-responsive" id="youtube-logo" />
                         </a>
                     </p>
                     <br><br>
                     
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    <p>
-                        <a href="http://www.wwandcompany.com/" media="screen, handheld" target="_blank">
-                            <img src="/images/wambaugh-side-ad.jpg" class="img-responsive" id="wambaugh-ad-pic">
-                        </a>
-                    </p>
+                    
+                        <p>
+                            <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
+                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="right-ad-pic">
+                            </a>
+                        </p>
+                        
                 </aside>
             </div>
         </div>
