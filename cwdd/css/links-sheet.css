@@ -1,12 +1,7 @@
 /* FOR PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
+    
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -20,12 +15,7 @@
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
+    
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -37,8 +27,36 @@
 
 
 
+/* IPHONE 4 LANDSCAPE */
+@media screen and (width: 480px) {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    
+    
+}
+/* END IPHONE 4 LANDSCAPE */
+
+/* IPHONE 5 LANDSCAPE */
+@media screen and (width: 568px) {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    
+    
+}
+/* END IPHONE 5 LANDSCAPE */
+
+
 /* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
+    nav {
+        font-size: 20px;
+    }
+    
+    
     
     
 }
@@ -49,7 +67,8 @@
 
 /* FOR iPAD SCREENS, LANDSCAPE */
 @media screen and (orientation: landscape) and (width: 1024px) {
-
+    
+    
 
 }
 
@@ -58,6 +77,7 @@
 
 /* FOR TABLET SCREENS */
 @media screen and (min-width: 853px) and (max-width: 1024px) {
+    
     
 }
 
@@ -109,6 +129,10 @@
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
     
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 800px !important;
+    }
 }
 
 

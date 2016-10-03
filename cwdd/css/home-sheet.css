@@ -1,13 +1,7 @@
 /* FOR PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
+
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
@@ -29,12 +23,7 @@
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
+
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -48,11 +37,52 @@
 
 /* END PHONE SCREENS: PORTRAIT */
 
+/* IPHONE 4 LANDSCAPE */
+@media screen and (width: 480px) {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg") !important;
+    }
+    
+    img {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    #intro-video-div {
+        height: 350px;
+    }
+    
+}
+/* END IPHONE 4 LANDSCAPE */
+
+
+
+/* IPHONE 5 LANDSCAPE */
+@media screen and (width: 568px) {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    img {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+    
+    #intro-video-div {
+        height: 315px;
+    }
+    
+}
+/* END IPHONE 5 LANDSCAPE */
+
 
 
 /* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
-    
+    #intro-video-div {
+        width: 475px !important;
+        height: 315px;
+    }
     
 }
 
@@ -97,7 +127,10 @@
 
 /* FOR 1440 x 900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
-    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1675px;
+    }
 }
 
 /* END 1440 x 900 SCREENS */

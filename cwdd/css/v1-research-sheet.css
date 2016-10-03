@@ -169,11 +169,6 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
     
     section h1 {
         font-size: 40px;
@@ -186,12 +181,6 @@ nav {
     /* changes header image */
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
-    }
-    
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
     }
     
     #right-ad-pic {
@@ -230,6 +219,65 @@ nav {
     }
     
 }  /* END PHONE SCREENS: PORTRAIT */
+
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (min-width: 480px) and (max-width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    
+/* EPISODE LAYOUT */
+    .book-overflow img, #episode-two img, #episode-five img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #episode-six-partI, #episode-six-partII, .back-to-top {
+        text-align: center;
+    }
+    
+    section {
+        text-align: center !important;
+    }
+
+    section div {
+        margin-bottom: 40px;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
 
 
 /* FOR iPAD SCREENS, PORTRAIT */
@@ -274,7 +322,7 @@ nav {
 
 
 
-/* FOR iPAD SCRFEENS, LANDSCAPE */
+/* FOR iPAD SCREENS, LANDSCAPE */
 
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
@@ -405,8 +453,7 @@ nav {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
+    aside p, #left-side-aside, #right-side-aside {
         margin-left: auto;
         margin-right: auto;
     }

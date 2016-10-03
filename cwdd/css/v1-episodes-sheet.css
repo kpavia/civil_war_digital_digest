@@ -85,6 +85,132 @@ nav {
 
 /* === END NAV BAR === */
 
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    /* sets dimensions for embedded video on small screens */
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 100px;
+    }
+    
+} /* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 100px;
+    }
+    
+} /* END IPHONE 3, 4, 5 LANDSCAPE */
+
+ 
+
+
 /* FOR PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
     nav {
@@ -217,7 +343,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 2400px;
+        height: 2650px;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -250,6 +376,8 @@ nav {
         margin-bottom: 40px;
     }
     
+    
+    
 }  /* END iPAD SCREENS, PORTRAIT */
 
 
@@ -263,7 +391,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 2550px !important;
+        height: 2850px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -305,6 +433,8 @@ nav {
     #v1e8-div {
         margin-bottom: 40px;
     }
+    
+    
 
 } /* END iPAD SCREENS, LANDSCAPE */
 
@@ -362,7 +492,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1300px;
+        height: 1500px;
     }
     .img-responsive {
         margin: auto;
@@ -392,7 +522,10 @@ nav {
     
     #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
         margin-top: 35px;
-        
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
     }
     
     /*End of centering episode rows */
@@ -420,7 +553,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1300px;
+        height: 1500px;
     }
     .img-responsive {
         margin: auto;
@@ -450,7 +583,10 @@ nav {
     
     #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
         margin-top: 35px;
-        
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
     }
     /* end two column layout */
     
@@ -480,7 +616,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1300px;
+        height: 1500px;
     }
     .img-responsive {
         margin: auto;
@@ -510,7 +646,10 @@ nav {
     
     #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
         margin-top: 35px;
-        
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
     }
     /* end two column layout */
     
@@ -540,7 +679,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1300px;
+        height: 1500px;
     }
     .img-responsive {
         margin: auto;
@@ -572,6 +711,10 @@ nav {
         margin-top: 35px;
         
     }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
     /* end two column layout */
     
     
@@ -580,6 +723,8 @@ nav {
     
     
 } /* END 1600x900 SCREENS */
+
+
 
 /* FOR 1680x1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
@@ -600,7 +745,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1300px;
+        height: 1500px;
     }
     .img-responsive {
         margin: auto;
@@ -632,6 +777,10 @@ nav {
         margin-top: 35px;
         
     }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
     /* end two column layout */
     
     
@@ -660,8 +809,9 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1115px;
+        height: 1375px;
     }
+    
     .img-responsive {
         margin: auto;
     }
@@ -719,6 +869,9 @@ nav {
         margin-top: 25px;
     }
     /*End of centering episode rows */
+    
+
+    
     
     
 } /* END BIG DESKTOP SCREENS */
@@ -778,6 +931,10 @@ section, h1, h2, h3, h4, p {
     visibility: visible;
     -webkit-animation: fadeIn 1s;
     animation: fadeIn 1s;
+}
+
+.popup .hide{
+    visibility: hidden;
 }
 
 /* Add animation (fade in the popup) */

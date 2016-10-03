@@ -1,19 +1,53 @@
-/* FOR PHONES IN LANDSCAPE MODE */
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    
+}
+
+/* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
+
+
+/* IPHONE 6 LANDSCAPE */
+
+@media screen and (width: 667px){
+    
+}
+/* END IPHONE 6 LANDSCAPE */
+
+
+/* IPHONE 6 PORTRAIT */
+
+@media screen and (width: 375px){
+    
+}
+/* END IPHONE 6 PORTRAIT */
+
+
+
+/* FOR GALAXY S5 PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
     
 }
 
-/* END PHONES IN LANDSCAPE MODE */
+/* END GALAXY S5 PHONES IN LANDSCAPE MODE */
 
 
 
-/* FOR PHONE SCREENS: PORTRAIT */
+/* FOR GALAXY S5 PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
 
 }
 
-/* END PHONE SCREENS: PORTRAIT */
+/* END GALAXY S5 PHONE SCREENS: PORTRAIT */
 
 
 

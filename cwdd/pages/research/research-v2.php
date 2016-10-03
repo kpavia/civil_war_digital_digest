@@ -16,6 +16,12 @@
             
     }); //end ready function
   </script>
+  <script>
+        $(document).ready(function(){
+            $("strong").append("<br>");
+              
+        }); //end ready function
+  </script>
 </head>
     <body>
         <header>
@@ -29,21 +35,40 @@
         <div class="container-fluid ">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                    <p>
-                        <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                            <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
-                           </a>
-                    </p>
+                    <!-- Responsive Adsense -->
+                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    
+                    <!-- CWDD responsive -->
+                    
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5786123947739131"
+                            data-ad-slot="6275650007"
+                            data-ad-format="auto"> 
+                        </ins>
+                    
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script> 
             
                 </aside>
                 <section class="col-sm-8 tex-left">
                     <h1>Civil War Digital Digest</h1>
                     <h2>Research</h2>
+                    <br>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>
+                    </p>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>
+                    </p>
+                    <br>
                     <h3>Volume II Episodes</h3>
-                    <br><br>
-                    
+                    <br>
                     <h4><a href="#episode-one" data-toggle="collapse" class="research-collapsibles">Episode 1: Beef Steak</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-one">
+                        <br>
                         <div class="book-overflow">
                             <a href="https://www.amazon.com/Hardtack-Coffee-Unwritten-Story-Army/dp/080326111X/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&linkId=                                         IXSBPZPWD3ZN7LHV&creativeASIN=080326111X" target="_blank">
                                 <img src="/images/v2-research/episode-one-book-one.jpg" class="img-responsive" id="episode-one-book-pic" alt="Link goes to Amazon.com">
@@ -56,6 +81,7 @@
                     
                     <h4><a href="#episode-four" data-toggle="collapse" class="research-collapsibles">Episode 4: Michigan's GAR Memorial Hall and Museum</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-four">
+                        <br>
                         <div class="book-overflow">
                             <p class="center-headline-text">
                                 <a href="http://garmuseum.weebly.com/" target="_blank">
@@ -88,6 +114,7 @@
                     
                     <h4><a href="#episode-five" data-toggle="collapse" class="research-collapsibles">Episode 5: Research Triangle</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-five">
+                        <br>
                         <div class="book-overflow">
                             <p class="center-headline-text">
                                 <a href="http://victorianneedle.blogspot.com/" target="_blank">
@@ -182,6 +209,7 @@
                     
                     <h4><a href="#episode-six" data-toggle="collapse" class="research-collapsibles">Episode 6: General Casey's Stew</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-six">
+                        <br>
                         <div class="book-overflow">
                             <a href="https://www.amazon.com/Taste-War-Culinary-History-Blue/dp/0811700186/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&linkId=                                              4M2XIF4QLOFUONL7&creativeASIN=0811700186" target="_blank">
                                 <img src="/images/v2-research/episode-six-book.jpg" class="img-responsive" id="episode-six-book-pic" alt="Link goes to Amazon.com">
@@ -218,6 +246,7 @@
                     
                     <h4><a href="#episode-eight" data-toggle="collapse" class="research-collapsibles">Episode 8: Aprons: Not Just for Cooking</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-eight">
+                        <br>
                         <div class="book-overflow">
                             <p class="center-headline-text">
                                 <a href="http://www.pastreflectionsreproductions.com/" target="_blank">Past Reflections Reproductions</a><br>
@@ -249,6 +278,7 @@
                     
                     <h4><a href="#episode-nine" data-toggle="collapse" class="research-collapsibles">Episode 9: Simple Dumplings</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-nine">
+                        <br>
                         <div class="book-overflow">
                             <a href="https://www.amazon.com/Culinary-Campaign-Southover-Historic-Housekeeping/dp/1870962117/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&                                   linkId=3VOWG57ANIYRZR77&creativeASIN=1870962117" target="_blank">
                                 <img src="/images/v2-research/episode-nine-book-one.jpg" class="img-responsive" alt="Link goes to Amazon.com">
@@ -293,6 +323,7 @@
                     
                     <h4><a href="#episode-ten" data-toggle="collapse" class="research-collapsibles">Episode 10: Make a Blanket Roll</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-ten">
+                        <br>
                         <div class="book-overflow">
                             <a href="https://www.amazon.com/One-Jacksons-Foot-Cavalry-Experience/dp/1467979058/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&linkId=                                         4XEDXGZML6M6LDG6&creativeASIN=1467979058" target="_blank">
                                 <img src="/images/v2-research/episode-ten-book-one.jpg" class="img-responsive" alt="Link goes to Amazon.com">
@@ -342,6 +373,7 @@
                     
                     <h4><a href="#episode-fifteen" data-toggle="collapse" class="research-collapsibles">Episode 15: Coffee on Campaign</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-fifteen">
+                        <br>
                         <div class="book-overflow">
                             <a href="https://www.amazon.com/Soldiers-Story-Siege-Vicksburg-Oldroyd/dp/B008TC0SX0/ref=as_sl_pc_tf_til?tag=allmiccivwar-20&linkCode=w00&linkId=                                               dd9c520321b552796206c3cd9d6c9c1c&creativeASIN=B008TC0SX0" target="_blank">
                                 <img src="/images/v2-research/episode-fifteen.jpg" class="img-responsive" alt="Link goes to Amazon.com">
@@ -356,6 +388,7 @@
                     
                     <h4><a href="#episode-eighteen" data-toggle="collapse" class="research-collapsibles">Episode 18: Hooker's Retreat</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-eighteen">
+                        <br>
                         <div class="book-overflow">
                             <p class="center-headline-text">
                                 <a href="http://www.ulheritagecenter.org/" target="_blank">The Heritage Center of the Union League of Philadelphia</a>
@@ -406,6 +439,13 @@
                             </p>
                         </div>
                     </div>
+                    <br><br>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>
+                    </p>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>
+                    </p>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     

@@ -32,11 +32,22 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <p>
-                           <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
-                           </a>
-                       </p>        
+                       <!-- Responsive Adsense -->
+                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    
+                    <!-- CWDD responsive -->
+                    
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5786123947739131"
+                            data-ad-slot="6275650007"
+                            data-ad-format="auto"> 
+                        </ins>
+                    
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>          
                 </aside>
                 
                 <?php include $_SERVER['DOCUMENT_ROOT']. '/php/contact-form.php'; ?>
@@ -46,25 +57,65 @@
                             <h1 class="page-header text-center">Contact the Civil War Digital Digest</h1>
                             <form class="form-horizontal" role="form" method="post" action="communicate.php">
                                 <div class="form-group">
-                                    <label for="name" class="col-sm-2 control-label">Name</label>
+                                    <label for="first-name" class="col-sm-2 control-label">First Name</label>
                                     <div class="col-sm-10">
-                                        <input type="text" class="form-control" id="name" name="name" placeholder="First & Last Name" value="<?php echo htmlspecialchars($_POST['name']);?>">
-                                        <?php echo "<p class='text-danger'>$errName</p>";?>
+                                        <input type="text" class="form-control" id="first-name" name="first-name" placeholder="First Name" 
+                                               value="<?php echo htmlspecialchars($_POST['first-name']);?>">
+                                        <?php echo "<p class='text-danger'>$errFirstName</p>";?>
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="last-name" class="col-sm-2 control-label">Last Name</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" class="form-control" id="last-name" name="last-name" placeholder="Last Name" 
+                                               value="<?php echo htmlspecialchars($_POST['last-name']);?>">
+                                        <?php echo "<p class='text-danger'>$errLastName</p>";?>
                                     </div>
                                 </div>
                                 
                                 <div class="form-group">
                                     <label for="email" class="col-sm-2 control-label">Email</label>
                                     <div class="col-sm-10">
-                                        <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="<?php echo htmlspecialchars($_POST['email']);?>">
+                                        <input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" 
+                                               value="<?php echo htmlspecialchars($_POST['email']);?>">
                                         <?php echo "<p class='text-danger'>$errEmail</p>";?>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="form-group">
+                                    <label for="city" class="col-sm-2 control-label">City</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" class="form-control" id="city" name="city" placeholder="City" 
+                                               value="<?php echo htmlspecialchars($_POST['city']);?>">
+                                        <?php echo "<p class='text-danger'>$errCity</p>";?>
+                                    </div>
+                                </div>
+                                
+                                
+                                <div class="form-group">
+                                    <label for="state" class="col-sm-2 control-label">State</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" class="form-control" id="state" name="state" placeholder="State. If outside the United States, please enter N/A." 
+                                               value="<?php echo htmlspecialchars($_POST['state']);?>">
+                                        <?php echo "<p class='text-danger'>$errCity</p>";?>
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="country" class="col-sm-2 control-label">Country</label>
+                                    <div class="col-sm-10">
+                                        <input type="text" class="form-control" id="country" name="country" placeholder="Country" 
+                                               value="<?php echo htmlspecialchars($_POST['country']);?>">
+                                        <?php echo "<p class='text-danger'>$errCountry</p>";?>
                                     </div>
                                 </div>
                                 
                                 <div class="form-group">
                                     <label for="message" class="col-sm-2 control-label">Message</label>
                                     <div class="col-sm-10">
-                                        <textarea class="form-control" rows="4" name="message"><?php echo htmlspecialchars($_POST['message']);?></textarea>
+                                        <textarea class="form-control" rows="4" name="message" placeholder="Your message"><?php echo htmlspecialchars($_POST['message']);?></textarea>
                                         <?php echo "<p class='text-danger'>$errMessage</p>";?>
                                     </div>
                                 </div>
@@ -78,7 +129,7 @@
                                 </div>
                                 
                                 <div class="form-group">
-                                    <div class="col-sm-10 "> <!-- col-sm-offset-2 -->
+                                    <div class="col-sm-10 ">
                                         <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary">
                                     </div>
                                 </div>
@@ -94,11 +145,23 @@
                     </div>
                     <div>
                         <h2>Connect with us!</h2>
-                        <p>
+                        <p id="social-media-links">
+                            <!-- Facebook -->
                             <a href="https://www.facebook.com/civilwardigitaldigest/" target="_blank">
                                 <img src="/images/facebook-button-50px-width.png" alt="Facebook Link">
                             </a>
+                            
+                            <!-- Twitter -->
+                            <a href="https://twitter.com/AcwDigest" target="_blank">
+                                <img src="/images/twitter-button.png" alt="Twitter Link">
+                            </a>
+                            
+                            <!-- Instagram -->
+                            <a href="https://www.instagram.com/civilwardigitaldigest/" target="_blank">
+                                <img src="/images/instagram-button.png">
+                            </a>
                         </p>
+                        
                     </div>
                     
                 </section>

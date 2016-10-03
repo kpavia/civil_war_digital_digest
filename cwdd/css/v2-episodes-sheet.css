@@ -89,11 +89,6 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
     
     section h1 {
         font-size: 40px;
@@ -104,11 +99,7 @@ nav {
     }
     
     /* changes ads */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
+
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -141,11 +132,210 @@ nav {
         margin-bottom: 40px;
     }
     
+
+    
 } /*END PHONES IN LANDSCAPE MODE */
 
 
 /* FOR PHONE SCREENS, PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v2e15-div {
+        margin-bottom: 40px;
+    }
+
+    
+}  /* END PHONE SCREENS, PORTRAIT */
+
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v2e15-div {
+        margin-bottom: 40px;
+    }
+}
+
+/* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
+
+
+/* IPHONE 6 LANDSCAPE */
+
+@media screen and (width: 667px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+
+}
+/* END IPHONE 6 LANDSCAPE */
+
+
+/* IPHONE 6 PORTRAIT */
+
+@media screen and (width: 375px){
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
@@ -194,9 +384,8 @@ nav {
     #v2e15-div {
         margin-bottom: 40px;
     }
-
-    
-}  /* END PHONE SCREENS, PORTRAIT */
+}
+/* END IPHONE 6 PORTRAIT */
 
 
 /* FOR iPAD SCREENS, PORTRAIT */
@@ -206,7 +395,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 4600px;
+        height: 5200px;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -253,7 +442,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 4150px !important;
+        height: 4650px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -287,6 +476,10 @@ nav {
     
     #v1e8-div {
         margin-bottom: 40px;
+    }
+    
+    #v2e12-div {
+        padding-left: 15px !important;
     }
 
 } /* END iPAD SCREENS, LANDSCAPE */
@@ -347,7 +540,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2700px;
     }
     .img-responsive {
         margin: auto;
@@ -371,16 +564,25 @@ nav {
         text-align: center;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 55px;
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div  {
+        margin-left: 52px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
+    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
         margin-left: 0px;
     }
     
-    #v2e2b {
-        margin-left: 0px;
+    #v2e11-div {
+       padding-right: 0px !important; 
+    }
+    
+    #v2e12-div {
+        padding: 0px;
+        margin-left: 15px;
+    }
+    
+    #v2e15-div {
+        margin-left: 229px;
     }
     
     #v2e11 {
@@ -418,7 +620,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2400px;
+        height: 2700px;
     }
     .img-responsive {
         margin: auto;
@@ -437,6 +639,7 @@ nav {
     }
 
     /* two column layout */
+    
     .episodes {
         text-align: center;
         padding: 0px;
@@ -447,12 +650,25 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
-        margin-left: 105px;
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div  {
+        margin-left: 84px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
+    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
         margin-left: 0px;
+    }
+    
+    #v2e11-div {
+       padding-right: 0px !important; 
+    }
+    
+    #v2e12-div {
+        padding: 0px !important;
+        margin-left: 15px;
+    }
+    
+    #v2e15-div {
+        margin-left: 283px;
     }
     
     #v2e2b {
@@ -490,7 +706,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2170px;
+        height: 2670px;
     }
     .img-responsive {
         margin: auto;
@@ -519,12 +735,25 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div {
         margin-left: 105px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
+    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
         margin-left: 0px;
+    }
+    
+    #v2e11-div {
+       padding-right: 0px !important; 
+    }
+    
+    #v2e12-div {
+        padding: 0px !important;
+        margin-left: 15px;
+    }
+    
+    #v2e15-div {
+        margin-left: 283px;
     }
     
     #v2e2b {
@@ -563,7 +792,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2700px;
     }
     .img-responsive {
         margin: auto;
@@ -587,12 +816,16 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e10-div, #v2e12-div, #v2e14-div {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div {
         margin-left: 103.5px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div {
+    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div  {
         margin-left: 117px;
+    }
+    
+    #v2e15-div {
+        margin-left: 335px;
     }
     
     #v2e2b {
@@ -611,6 +844,8 @@ nav {
     
     
 } /* END 1600x900 SCREENS */
+
+
 
 /* FOR 1680x1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
@@ -631,7 +866,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1600px;
+        height: 1900px;
     }
     .img-responsive {
         margin: auto;
@@ -654,68 +889,27 @@ nav {
         margin-bottom: 60px;
         float: left;
     }
-
+    
+    /* top row: set margin top */
     #v2e1-div, #v2e2-div, #v2e3-div {
-        padding: 0px;
+        margin-top: 25px;
     }
     
-    #v2e1-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e2-div {
-        padding: 0px 44px;
-    }
-    
-    #v2e4-div, #v2e5-div, #v2e6-div {
-        padding: 0px;
-    }
-    
-    #v2e4-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e5 {
-        margin-left: 44px;
-        margin-right: 49px;
-    }
-    
-    #v2e7-div, #v2e9-div, #v2e10-div {
-        padding: 0px;
-    }
-    
-    #v2e7-div {
-        margin-left: 9.41px;
-    }
-    
-    #v2e9 {
-        margin-left: 44px;
-        margin-right: 49px; 
-    }
-    
-    #v2e11-div, #v2e12-div, #v2e13-div {
-        padding: 0px;
-    }
-    
-    #v2e11 {
-        margin-left: 9.41px;
-    }
-    
-    #v2e11-div {
-        padding: 0px;
+    /* left column: set left margin */
+    #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div {
         margin-left: 0px;
-        width: 345px;
     }
     
-    #v2e12 {
-        margin-left: 29px;
-        margin-right: 52px; 
+    /* center column: set left and right margins */
+    #v2e2-div, #v2e5, #v2e8, #v2e11, #v2e14 {
+        margin-left: 10px;
+        margin-right: 10px;
     }
     
-    #v2e14-div {
-        margin-left: 187.5px;
+    /* right column */
+    #v2e6-div, #v2e9-div, #v2e12-div, #v2e15-div {
+        margin-left: 3px;
     }
-    /* end two column layout */
     
     
     /*End of centering episode rows */
@@ -743,7 +937,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1650px;
+        height: 1900px;
     }
     .img-responsive {
         margin: auto;
@@ -792,9 +986,6 @@ nav {
         margin-left: 49px;
         margin-right: 49px;
     }
-
-    /* === END OF EPISODE LAYOUT === */
-    
     
 } /* END BIG DESKTOP SCREENS */
   

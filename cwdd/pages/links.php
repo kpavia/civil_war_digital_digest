@@ -31,21 +31,64 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <p>
-                           <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
-                           </a>
-                       </p>        
+                       <!-- Responsive Adsense -->
+                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    
+                    <!-- CWDD responsive -->
+                    
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5786123947739131"
+                            data-ad-slot="6275650007"
+                            data-ad-format="auto"> 
+                        </ins>
+                    
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>         
                 </aside>
                 <section class="col-sm-8 text-left">
-                    <h1>Welcome to the Civil War Digital Digest</h1>
-                    <p>This is the links page.</p>
-                        <div id="intro-video-div">
-                            <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
-                        </div>
-                    <br><br>
+                    <h1>Civil War Digital Digest</h1>
+                    <h2>Links</h2>
+                    <p>Please follow these links to our affiliates.</p>
+                    <br>
+                    <p>
+                        <a href="http://www.authentic-campaigner.com/" target="_blank">The Authentic Campaigner</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://www.cwreenactors.com/" target="_blank">The Civil War Reenactor's Forum</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://allmichigancivilwar.com/" target="_blank">All Michigan Civil War</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://www.wwandcompany.com/" target="_blank">Wambaugh, White & Company</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://www.pastreflectionsreproductions.com/" target="_blank">Past Reflections Reproductions</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://victorianneedle.blogspot.com/" target="_blank">Victorian Needle Blog</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="https://www.etsy.com/shop/VictorianNeedle" target="_blank">Victorian Needle Store</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://capitol.michigan.gov/BattleFlags" target="_blank">Michigan State Capitol Battle Flags Collection</a>
+                    </p>
+                    <br>
+                    <p>
+                        <a href="http://garmuseum.weebly.com/" target="_blank">Michigan GAR Memorial Hall & Museum</a>
+                    </p>
                     
-                    <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank"><img src="/images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" /></a>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     

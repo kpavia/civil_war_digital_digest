@@ -2,10 +2,6 @@ label {
     font-size: 18px;
 }
 
-#content-ads-holding-div { 
-    height: 750px !important;
-}
-
 input, textarea {
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -17,6 +13,14 @@ input, textarea {
 
 #submit {
     margin-left: 110px;
+}
+
+#social-media-links {
+    margin-bottom: 50px;
+}
+
+.col-md-6 {
+    
 }
 
 /* FOR PHONES IN LANDSCAPE MODE */
@@ -33,6 +37,10 @@ input, textarea {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
+    #submit {
+        margin: 0px auto;
+    }
+    
 }
 
 /* END PHONES IN LANDSCAPE MODE */
@@ -42,15 +50,14 @@ input, textarea {
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
-    /* CHANGE ADS  */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
+    
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    #submit {
+        margin: 0px auto;
     }
 
 }
@@ -58,10 +65,38 @@ input, textarea {
 /* END PHONE SCREENS: PORTRAIT */
 
 
+/* IPHONE 4 LANDSCAPE  */
+@media screen and (width: 480px) {
+    #submit {
+        margin: 0px auto;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+}
+/* END IPHONE 4 LANDSCAPE */
+
+
+/* IPHONE 5 LANDSCAPE  */
+@media screen and (width: 568px) {
+    #submit {
+        margin: 0px auto;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+}
+/* END IPHONE 5 LANDSCAPE */
+
+
 
 /* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
-    
+    nav {
+        font-size: 20px;
+    }
     
 }
 
@@ -71,7 +106,14 @@ input, textarea {
 
 /* FOR iPAD SCREENS, LANDSCAPE */
 @media screen and (orientation: landscape) and (width: 1024px) {
-
+    nav {
+            font-size: 20px;
+    }
+    
+    .col-md-6, col-md-offset-3 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
 
 }
 
@@ -131,6 +173,10 @@ input, textarea {
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
     
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1000px !important;
+    }
 }
 
 

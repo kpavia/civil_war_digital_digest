@@ -90,11 +90,6 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
     
     section h1 {
         font-size: 40px;
@@ -102,13 +97,6 @@ nav {
 
     section p {
         font-size: 25px;
-    }
-    
-    /* changes ads */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
     }
     
     #right-ad-pic {
@@ -161,11 +149,6 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
     
     section h1 {
         font-size: 40px;
@@ -178,12 +161,6 @@ nav {
     /* changes header image */
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
-    }
-    
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
     }
     
     #right-ad-pic {
@@ -212,6 +189,101 @@ nav {
 }  /* END PHONE SCREENS: PORTRAIT */
 
 
+
+/* IPHONE 4 LANDSCAPE */
+@media screen and (width: 480px) {
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+
+    section {
+        text-align: center !important;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    section div {
+        margin-bottom: 40px;
+    }
+    
+    
+} /* END IPHONE 4 LANDSCAPE */
+
+
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    
+/* EPISODE LAYOUT */
+    .book-overflow img, #episode-two img, #episode-five img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #episode-six-partI, #episode-six-partII, .back-to-top {
+        text-align: center;
+    }
+    
+    section {
+        text-align: center !important;
+    }
+
+    section div {
+        margin-bottom: 40px;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
+
+
 /* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
     nav {
@@ -220,12 +292,6 @@ nav {
     
     #content-ads-holding-div { 
         height: 13300px;
-    }
-    
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
     }
     
     section h1 {
@@ -272,12 +338,6 @@ nav {
         height: 9900px !important;
     }
     
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
-    
     section h1 {
         font-size: 40px;
     }
@@ -290,16 +350,12 @@ nav {
 } /* END iPAD SCREENS, LANDSCAPE */
 
 
-/* FOR TABLET SCREENS */
+/* FOR TABLET SCREENS 
 @media screen and (min-width: 853px) and (max-width: 1024px) {
     nav {
         font-size: 24px;
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
+    
     
     section h1 {
         font-size: 40px;
@@ -320,7 +376,7 @@ nav {
         margin-bottom: 40px;
     }
     
-}  /* END TABLET SCREENS */
+}   END TABLET SCREENS */
 
 
 
@@ -424,11 +480,6 @@ nav {
 /* FOR 1440x900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;

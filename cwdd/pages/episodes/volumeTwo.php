@@ -28,16 +28,36 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <p>
-                           <a href="https://www.etsy.com/shop/VictorianNeedle" media="screen, handheld" target="_blank">
-                               <img src="/images/new-temp-ad-vict-needle.jpg" class="img-responsive" id="left-ad-pic">
-                           </a>
-                       </p>        
+                       <!-- Responsive Adsense -->
+                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    
+                    <!-- CWDD responsive -->
+                    
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5786123947739131"
+                            data-ad-slot="6275650007"
+                            data-ad-format="auto"> 
+                        </ins>
+                    
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>        
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Civil War Digital Digest</h1>
                     <h2>Episodes</h2>
+                    <br>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" id="v1-top-link">To Volume I Episodes</a>
+                    </p>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v2.php" id="v1-top-link">To Volume II Research</a>
+                    </p>
+                    <br>
                     <h3>Volume II</h3>
+                    <p>Click on the image to view the episode.</p>
                     <br>
                     <div class="container-fluid episodes">
                         
@@ -176,11 +196,13 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Vol.2 Episode 15" id="v2e15">
                                 </a>
                             </div>
-                        
-                        
-                        
-                    
                     </div>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
+                    </p>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v2.php" id="v1-top-link">To Volume II Research</a>
+                    </p>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     

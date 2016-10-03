@@ -137,8 +137,8 @@ nav {
     }
     
     aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        width: 160px;
-        height: 600px;
+        /*width: 160px;
+        height: 600px;*/
         margin-left: auto;
         margin-right: auto;
     }
