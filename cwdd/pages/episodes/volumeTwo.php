@@ -196,6 +196,41 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Vol.2 Episode 15" id="v2e15">
                                 </a>
                             </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e16-div">
+                                <p>Episode 16: Men's Vests</p>
+                                <a href="https://www.youtube.com/watch?v=Jcvt8Pjb0zY&index=19&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e16.jpg" alt="Vol.2 Episode 16" id="v2e16">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e17-div">
+                                <p>Episode 17: Girl's Dresses</p>
+                                <a href="https://www.youtube.com/watch?v=pIRTZSttYHg&index=20&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e17.jpg" alt="Vol.2 Episode 17" id="v2e17">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e18-div">
+                                <p>Episode 18: Hooker's Retreat</p>
+                                <a href="https://www.youtube.com/watch?v=-LgvMwLCh-M&index=21&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e18.jpg" alt="Vol.2 Episode 18" id="v2e18">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e19-div">
+                                <p>Episode 19: Cornfields, like Antietam</p>
+                                <a href="https://www.youtube.com/watch?v=3LoBGQ-docQ&index=22&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e19.jpg" alt="Vol.2 Episode 19" id="v2e19">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e20-div">
+                                <p>Episode 20: Women's Winter Headwear</p>
+                                <a href="https://www.youtube.com/watch?v=iooxxe8UkO8&index=23&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e20.jpg" alt="Vol.2 Episode 20" id="v2e20">
+                                </a>
+                            </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

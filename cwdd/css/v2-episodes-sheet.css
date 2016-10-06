@@ -181,6 +181,10 @@ nav {
 }  /* END PHONE SCREENS, PORTRAIT */
 
 
+/* iPhone 5 - 320x568
+ * iPhone 4 - 320x480
+*/
+
 /* IPHONE 3, 4, 5 PORTRAIT */
 
 @media screen and (width: 320px) {
@@ -388,7 +392,7 @@ nav {
 /* END IPHONE 6 PORTRAIT */
 
 
-/* FOR iPAD SCREENS, PORTRAIT */
+/* FOR iPAD SCREENS, PORTRAIT (768x1024) */
 @media screen and (width: 768px) and (orientation: portrait) {
     nav {
         font-size: 20px;
@@ -432,9 +436,11 @@ nav {
         margin-bottom: 80px;
     }
     
-}  /* END iPAD SCREENS, PORTRAIT */
+}  /* END iPAD SCREENS, PORTRAIT (768x1024) */
 
-/* FOR iPAD SCRFEENS, LANDSCAPE */
+
+
+/* FOR iPAD SCREENS, LANDSCAPE (1024x768) */
 
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
@@ -482,7 +488,7 @@ nav {
         padding-left: 15px !important;
     }
 
-} /* END iPAD SCREENS, LANDSCAPE */
+} /* END iPAD SCREENS, LANDSCAPE (1024x768) */
 
 
 /* FOR TABLET SCREENS 
@@ -540,7 +546,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 3250px;
     }
     .img-responsive {
         margin: auto;
@@ -564,11 +570,11 @@ nav {
         text-align: center;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div  {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div  {
         margin-left: 52px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
+    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div, #v2e16-div, #v2e18-div, #v2e20-div {
         margin-left: 0px;
     }
     
@@ -581,9 +587,8 @@ nav {
         margin-left: 15px;
     }
     
-    #v2e15-div {
-        margin-left: 229px;
-    }
+    /* set margin-left to 229px if episode is on its own row */
+    
     
     #v2e11 {
         margin: 0px;
@@ -620,7 +625,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 3250px;
     }
     .img-responsive {
         margin: auto;
@@ -650,11 +655,11 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div  {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div  {
         margin-left: 84px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
+    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div, #v2e16-div, #v2e18-div, #v2e20-div {
         margin-left: 0px;
     }
     
@@ -667,9 +672,8 @@ nav {
         margin-left: 15px;
     }
     
-    #v2e15-div {
-        margin-left: 283px;
-    }
+    /* set margin-left to 283px if an episode is on its own row */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -686,6 +690,9 @@ nav {
     
     
 } /* END 1366x768 SCREENS */
+
+
+
 
 /* FOR 1440x900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
@@ -706,7 +713,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2670px;
+        height: 3230px;
     }
     .img-responsive {
         margin: auto;
@@ -735,11 +742,11 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div {
         margin-left: 105px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div, #v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div {
+    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div, #v2e16-div, #v2e18-div, #v2e20-div {
         margin-left: 0px;
     }
     
@@ -752,9 +759,8 @@ nav {
         margin-left: 15px;
     }
     
-    #v2e15-div {
-        margin-left: 283px;
-    }
+    /* set margin-left to 283px if an episode is on its own row */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -772,6 +778,8 @@ nav {
     
     
 } /* END 1440x900 SCREENS */
+
+
 
 /* FOR 1600x900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
@@ -792,7 +800,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 3250px;
     }
     .img-responsive {
         margin: auto;
@@ -816,17 +824,16 @@ nav {
         float: left;
     }
     
-    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div {
+    #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div {
         margin-left: 103.5px;
     }
     
-    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div  {
+    #v2e2-div, #v2e4-div, #v2e6-div,#v2e8-div, #v2e10-div, #v2e12-div, #v2e14-div, #v2e16-div, #v2e18-div, #v2e20-div  {
         margin-left: 117px;
     }
     
-    #v2e15-div {
-        margin-left: 335px;
-    }
+    /* set margin-left to 335px if one episode is on its own row */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -866,7 +873,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1900px;
+        height: 2450px;
     }
     .img-responsive {
         margin: auto;
@@ -896,27 +903,38 @@ nav {
     }
     
     /* left column: set left margin */
-    #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div {
-        margin-left: 0px;
+    #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div, #v2e16-div {
+        margin-left: 3px;
     }
     
     /* center column: set left and right margins */
-    #v2e2-div, #v2e5, #v2e8, #v2e11, #v2e14 {
+    #v2e2-div, #v2e5, #v2e8, #v2e11, #v2e14, #v2e17 {
         margin-left: 10px;
         margin-right: 10px;
     }
     
     /* right column */
-    #v2e6-div, #v2e9-div, #v2e12-div, #v2e15-div {
+    #v2e6-div, #v2e9-div, #v2e12-div, #v2e15-div, #v2e18-div {
         margin-left: 3px;
     }
     
+    /* bottom row */
+    #v2e19-div {
+        padding-right: 15px;
+        margin-left: 190px;
+    }
     
-    /*End of centering episode rows */
+    #v2e20-div {
+        padding-left: 15px;
+    }
     
     
+    
+
     
 } /* END 1680x1050 SCREENS */
+
+
 
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
@@ -937,7 +955,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1900px;
+        height: 2450px;
     }
     .img-responsive {
         margin: auto;
@@ -977,14 +995,24 @@ nav {
     }
     
     /* left column: set left margin */
-    #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div {
+    #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div, #v2e16-div {
         margin-left: 89.5px;
     }
     
     /* center column: set left and right margins */
-    #v2e2-div, #v2e5, #v2e8, #v2e11, #v2e14 {
+    #v2e2-div, #v2e5-div, #v2e8-div, #v2e11-div, #v2e14-div, #v2e17-div  {
         margin-left: 49px;
         margin-right: 49px;
+    }
+    
+    /* bottom row */
+    #v2e19-div {
+        margin-left: 284px;
+        padding-right: 15px;
+    }
+    
+    #v2e20-div {
+        padding-left: 15px;
     }
     
 } /* END BIG DESKTOP SCREENS */

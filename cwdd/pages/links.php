@@ -51,7 +51,6 @@
                 <section class="col-sm-8 text-left">
                     <h1>Civil War Digital Digest</h1>
                     <h2>Links</h2>
-                    <p>Please follow these links to our affiliates.</p>
                     <br>
                     <p>
                         <a href="http://www.authentic-campaigner.com/" target="_blank">The Authentic Campaigner</a>

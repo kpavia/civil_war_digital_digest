@@ -85,16 +85,6 @@
                                 
                                 
                                 <div class="form-group">
-                                    <label for="city" class="col-sm-2 control-label">City</label>
-                                    <div class="col-sm-10">
-                                        <input type="text" class="form-control" id="city" name="city" placeholder="City" 
-                                               value="<?php echo htmlspecialchars($_POST['city']);?>">
-                                        <?php echo "<p class='text-danger'>$errCity</p>";?>
-                                    </div>
-                                </div>
-                                
-                                
-                                <div class="form-group">
                                     <label for="state" class="col-sm-2 control-label">State</label>
                                     <div class="col-sm-10">
                                         <input type="text" class="form-control" id="state" name="state" placeholder="State. If outside the United States, please enter N/A." 
@@ -121,6 +111,8 @@
                                 </div>
                                 
                                 <div class="form-group">
+                                    <p class="text-center">Please answer the question below to prove you are a human, not spam.</p>
+                                    <p>Thanks!</p>
                                     <label for="human" class="col-sm-2 control-label">2 + 3 = ?</label>
                                     <div class="col-sm-10">
                                         <input type="text" class="form-control" id="human" name="human" placeholder="Your Answer">

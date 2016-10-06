@@ -2,7 +2,6 @@
 	if (isset($_POST["submit"])) {
 		$firstName = $_POST['first-name'];
                 $lastName = $_POST['last-name'];
-                $city = $_POST['city'];
                 $state = $_POST['state'];
                 $country = $_POST['country'];
 		$email = $_POST['email'];
@@ -21,11 +20,6 @@
                 // Check if last name has been entered
                 if (!$_POST['last-name']) {
 			$errLastName = 'Please enter your last name. Please try again.';
-		}
-                
-                // Check if city has been entered
-                if (!$_POST['city']) {
-			$errCity = 'Please enter your city. Please try again.';
 		}
                 
                 // Check if state has been entered
@@ -53,7 +47,7 @@
 		}
                 
                 // If there are no errors, send the email
-                if (!$errFirstName && !$errLastName && !$errCity && !$errState && !$errCountry && !$errEmail && !$errMessage && !$errHuman) {
+                if (!$errFirstName && !$errLastName && !$errState && !$errCountry && !$errEmail && !$errMessage && !$errHuman) {
                         if (mail ($to, $subject, $body, $from)) {
                                 $result='<div class="alert alert-success">Message sent. Thank you for contacting the CWDD.</div>';
                         } else {

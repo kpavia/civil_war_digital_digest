@@ -107,7 +107,7 @@
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v1e6-div">
-                            <p class="popup" onclick="popup()" id="episode-six-pop">Episode 6: Richmond Depot Jacket Ty II
+                            <p class="popup" onclick="popup()" id="episode-six-pop">Episode 6: Richmond Depot Type II
                                 <span class="popuptext" id="episode-six-slugline">Learn about a mainstay garment for the Army of Northern Virginia.</span>
                             </p>
                             <a href="https://www.youtube.com/watch?v=XgBBGzOXAbA&index=6&list=PLm0U6xIHaOs8kjjXH4DRkPVzZ8oWHlpL9" target="_blank">
