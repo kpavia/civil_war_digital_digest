@@ -185,48 +185,76 @@
                         
                         
                             <div class="container-fluid episode-div" id="v2e14-div">
-                                <p>Episode 14: A Flag's Importance</p>
+                                <p class="popup" onclick="popup()" id="episode-fourteen-pop">Episode 14: A Flag's Importance
+                                    <span class="popuptext" id="episode-fourteen-slugline">Hear a discussion on the tactical and emotional importance of flags on the Civil War 
+                                        Battlefield.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=FBQPwyy8AUM&index=17&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e14.jpg" alt="Vol.2 Episode 14" id="v2e14">
                                 </a>
                             </div>
+                        
+                        
                             <div class="container-fluid episode-div" id="v2e15-div">
-                                <p>Episode 15: Coffee on Campaign</p>
+                                <p class="popup" id="episode-fifteen-pop">Episode 15: Coffee on Campaign
+                                    <span class="popuptext" id="episode-fifteen-slugline">Click here to learn a great way to make coffee, drawn from an Ohio veteran’s 
+                                        writings.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=XIKxZCxqXjc&index=18&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Vol.2 Episode 15" id="v2e15">
                                 </a>
                             </div>
                         
                             <div class="container-fluid episode-div" id="v2e16-div">
-                                <p>Episode 16: Men's Vests</p>
+                                <p class="popup" id="episode-sixteen-pop">Episode 16: Men's Vests
+                                    <span class="popuptext" id="episode-sixteen-slugline">View four original men’s vests as we learn about the role of this garment in a Civil War 
+                                        man’s wardrobe.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=Jcvt8Pjb0zY&index=19&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e16.jpg" alt="Vol.2 Episode 16" id="v2e16">
                                 </a>
                             </div>
                         
                             <div class="container-fluid episode-div" id="v2e17-div">
-                                <p>Episode 17: Girl's Dresses</p>
+                                <p class="popup" id="episode-seventeen-pop">Episode 17: Girl's Dresses
+                                    <span class="popuptext" id="episode-seventeen-slugline">A wide range of original pieces introduce us to types of clothing worn by little 
+                                        girls.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=pIRTZSttYHg&index=20&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e17.jpg" alt="Vol.2 Episode 17" id="v2e17">
                                 </a>
                             </div>
                         
                             <div class="container-fluid episode-div" id="v2e18-div">
-                                <p>Episode 18: Hooker's Retreat</p>
+                                <p class="popup" id="episode-eighteen-pop">Episode 18: Hooker's Retreat
+                                    <span class="popuptext" id="episode-eighteen-slugline">Learn how to make a drink popular with the officers of the 118th PA.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=-LgvMwLCh-M&index=21&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e18.jpg" alt="Vol.2 Episode 18" id="v2e18">
                                 </a>
                             </div>
                         
                             <div class="container-fluid episode-div" id="v2e19-div">
-                                <p>Episode 19: Cornfields, like Antietam</p>
+                                <p class="popup" id="episode-nineteen-pop">Episode 19: Cornfields, like Antietam
+                                    <span class="popuptext" id="episode-nineteen-slugline">Enjoy a discussion of how period cornfield differ from modern and how that 
+                                        affected Civil War combat.
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=3LoBGQ-docQ&index=22&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e19.jpg" alt="Vol.2 Episode 19" id="v2e19">
                                 </a>
                             </div>
                         
                             <div class="container-fluid episode-div" id="v2e20-div">
-                                <p>Episode 20: Women's Winter Headwear</p>
+                                <p class="popup" id="episode-twenty-pop">Episode 20: Women's Winter Headwear
+                                    <span class="popuptext" id="episode-twenty-slugline">Learn styles and construction methods of headwear from viewing multiple original copies. 
+                                    </span>
+                                </p>
                                 <a href="https://www.youtube.com/watch?v=iooxxe8UkO8&index=23&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e20.jpg" alt="Vol.2 Episode 20" id="v2e20">
                                 </a>

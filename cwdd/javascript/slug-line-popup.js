@@ -103,6 +103,62 @@ $(document).ready(function() {
     $("#episode-thirteen-pop").mouseleave(function() {
         $("#episode-thirteen-slugline").removeClass("show");
     });
+    
+    $("#episode-fourteen-pop").mouseenter(function() {
+        $("#episode-fourteen-slugline").addClass("show");
+    });
+    
+    $("#episode-fourteen-pop").mouseleave(function() {
+        $("#episode-fourteen-slugline").removeClass("show");
+    });
+    
+    $("#episode-fifteen-pop").mouseenter(function() {
+        $("#episode-fifteen-slugline").addClass("show");
+    });
+    
+    $("#episode-fifteen-pop").mouseleave(function() {
+        $("#episode-fifteen-slugline").removeClass("show");
+    });
+    
+    $("#episode-sixteen-pop").mouseenter(function() {
+        $("#episode-sixteen-slugline").addClass("show");
+    });
+    
+    $("#episode-sixteen-pop").mouseleave(function() {
+        $("#episode-sixteen-slugline").removeClass("show");
+    });
+    
+    $("#episode-seventeen-pop").mouseenter(function() {
+        $("#episode-seventeen-slugline").addClass("show");
+    });
+    
+    $("#episode-seventeen-pop").mouseleave(function() {
+        $("#episode-seventeen-slugline").removeClass("show");
+    });
+    
+    $("#episode-eighteen-pop").mouseenter(function() {
+        $("#episode-eighteen-slugline").addClass("show");
+    });
+    
+    $("#episode-eighteen-pop").mouseleave(function() {
+        $("#episode-eighteen-slugline").removeClass("show");
+    });
+    
+    $("#episode-nineteen-pop").mouseenter(function() {
+        $("#episode-nineteen-slugline").addClass("show");
+    });
+    
+    $("#episode-nineteen-pop").mouseleave(function() {
+        $("#episode-nineteen-slugline").removeClass("show");
+    });
+    
+    $("#episode-twenty-pop").mouseenter(function() {
+        $("#episode-twenty-slugline").addClass("show");
+    });
+    
+    $("#episode-twenty-pop").mouseleave(function() {
+        $("#episode-twenty-slugline").removeClass("show");
+    });
  
 }); //end ready
     

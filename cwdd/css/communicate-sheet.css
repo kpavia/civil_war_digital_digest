@@ -28,9 +28,6 @@ input, textarea {
     
     /* CHANGE ADS  */
     #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
     }
     
     #right-ad-pic {
@@ -175,7 +172,7 @@ input, textarea {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1000px !important;
+        height: 1500px !important;
     }
 }
 

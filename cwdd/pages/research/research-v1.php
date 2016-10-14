@@ -249,6 +249,12 @@
                             </a>
                         </p>
                         
+                        <p>
+                            <a href="http://www.historicfortwaynecoalition.com/" target="_blank" media="screen, handheld">
+                                <img src="/images/hist-ft-wayne-160x600-ad.jpg" class="img-responsive" id="second-right-ad-pic" alt="Link goes to Historic Ft. Wayne Coalition site">
+                            </a>
+                        </p>
+                        
                 </aside>
                 
             </div>

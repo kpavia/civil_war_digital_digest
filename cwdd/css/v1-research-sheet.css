@@ -115,6 +115,10 @@ nav {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
+    #second-right-ad-pic {
+        content: url("/images/hist-ft-wayne-mobile-ad.jpg");
+    }
+    
     aside p a img {
         margin: 0px auto;
     }
@@ -187,6 +191,10 @@ nav {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
+    #second-right-ad-pic {
+        content: url("/images/hist-ft-wayne-mobile-ad.jpg");
+    }
+    
     
 /* EPISODE LAYOUT */
     .book-overflow img, #episode-two img, #episode-five img {
@@ -244,6 +252,10 @@ nav {
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    #second-right-ad-pic {
+        content: url("/images/hist-ft-wayne-mobile-ad.jpg");
     }
     
     
@@ -356,11 +368,6 @@ nav {
     nav {
         font-size: 24px;
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
     
     section h1 {
         font-size: 40px;
@@ -387,12 +394,6 @@ nav {
 
 /* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
 @media screen and (min-width: 1024px) and (max-width: 1365px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -430,12 +431,6 @@ nav {
 
 /* FOR 1366x768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -475,12 +470,6 @@ nav {
 /* FOR 1440x900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
     section h1 {
         font-size: 36px;
     }
@@ -515,12 +504,6 @@ nav {
 /* FOR 1600x900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
     section h1 {
         font-size: 36px;
     }
@@ -553,12 +536,6 @@ nav {
 
 /* FOR 1680x1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -613,12 +590,6 @@ nav {
 
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
