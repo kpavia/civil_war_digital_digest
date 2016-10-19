@@ -174,7 +174,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script> 
-                    <br>
+                    <br><br>
                         <p>
                             <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
                                 <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="right-ad-pic">

@@ -269,11 +269,22 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                        <p>
-                            <a href="http://unionreenactor.com/" media="screen, handheld" target="_blank">
-                                <img src="/images/5th-michigan-side-ad.jpg" class="img-responsive" id="right-ad-pic">
-                            </a>
-                        </p>
+                        <!-- Responsive Adsense -->
+                    
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    
+                    <!-- CWDD responsive -->
+                    
+                        <ins class="adsbygoogle"
+                            style="display:block"
+                            data-ad-client="ca-pub-5786123947739131"
+                            data-ad-slot="6275650007"
+                            data-ad-format="auto"> 
+                        </ins>
+                    
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>   
                         
                 </aside>
             </div>
