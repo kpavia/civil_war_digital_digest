@@ -243,23 +243,7 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                        <!-- Responsive Adsense -->
                     
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>   
-                    <br><br>
                         <p>
                             <a href="http://www.historicfortwaynecoalition.com/" target="_blank" media="screen, handheld">
                                 <img src="/images/hist-ft-wayne-160x600-ad.jpg" class="img-responsive" id="second-right-ad-pic" alt="Link goes to Historic Ft. Wayne Coalition site">
