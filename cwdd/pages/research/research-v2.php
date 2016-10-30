@@ -70,10 +70,16 @@
                     <div class="collapse container-fluid book-overflow" id="episode-one">
                         <br>
                         <div class="book-overflow">
-                            <a href="https://www.amazon.com/Hardtack-Coffee-Unwritten-Story-Army/dp/080326111X/ref=as_sl_pc_qf_sp_asin_til?tag=allmiccivwar-20&linkCode=w00&linkId=                                         IXSBPZPWD3ZN7LHV&creativeASIN=080326111X" target="_blank">
-                                <img src="/images/v2-research/episode-one-book-one.jpg" class="img-responsive" id="episode-one-book-pic" alt="Link goes to Amazon.com">
+                            <img src="/images/v2-research/episode-one-book-one.jpg" class="img-responsive" id="episode-one-book-pic" alt="Link goes to Amazon.com">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/080326111X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=080326111X&linkCode=as2&tag=allmiccivwar-20&linkId=427a2d3413041e091cb16fe9d7d54f8b">
+                                <p>
+                                    <strong>Hardtack and Coffee - By John Billings</strong>
+                                </p>
                             </a>
-                            <p><strong>Hardtack and Coffee - By John Billings</strong> Veteran John Billings wrote about life in the Union army.
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=080326111X" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                            <p>
+                                Veteran John Billings wrote about life in the Union army.
                             </p>
                         </div>
                     </div>
