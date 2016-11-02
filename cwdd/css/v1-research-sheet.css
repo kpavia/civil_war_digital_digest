@@ -638,6 +638,9 @@ nav {
     .book-overflow {
         overflow: hidden;
     }
+    
+    .sticky-ad {
+    }
 
 } /* END BIG DESKTOP SCREENS */
   

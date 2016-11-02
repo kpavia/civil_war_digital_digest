@@ -159,6 +159,22 @@ $(document).ready(function() {
     $("#episode-twenty-pop").mouseleave(function() {
         $("#episode-twenty-slugline").removeClass("show");
     });
+    
+    $("#episode-twentyone-pop").mouseenter(function() {
+        $("#episode-twentyone-slugline").addClass("show");
+    });
+    
+    $("#episode-twentyone-pop").mouseleave(function() {
+        $("#episode-twentyone-slugline").removeClass("show");
+    });
+    
+    $("#episode-twentytwo-pop").mouseenter(function() {
+        $("#episode-twentytwo-slugline").addClass("show");
+    });
+    
+    $("#episode-twentytwo-pop").mouseleave(function() {
+        $("#episode-twentytwo-slugline").removeClass("show");
+    });
  
 }); //end ready
     

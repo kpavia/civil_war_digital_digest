@@ -29,21 +29,21 @@
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                        <!-- Responsive Adsense -->
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                        <!-- CWDD responsive -->
+
+                            <ins class="adsbygoogle"
+                                style="display:block"
+                                data-ad-client="ca-pub-5786123947739131"
+                                data-ad-slot="6275650007"
+                                data-ad-format="auto"> 
+                            </ins>
+
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
                     
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>        
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Civil War Digital Digest</h1>
@@ -259,6 +259,28 @@
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e20.jpg" alt="Vol.2 Episode 20" id="v2e20">
                                 </a>
                             </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e21-div">
+                                <p class="popup" id="episode-twentyone-pop">Episode 21: Preparing Salt Pork
+                                    <span class="popuptext" id="episode-twentyone-slugline">
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=BKPltjbZ_7Y&index=24&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e21.jpg" alt="Vol.2 Episode 21" id="v2e21">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e22-div">
+                                <p class="popup" id="episode-twentytwo-pop">Episode 22: Roasting Coffee
+                                    <span class="popuptext" id="episode-twentytwo-slugline">
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=Y4NaCsKGiZ4&index=25&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e22.jpg" alt="Vol.2 Episode 22" id="v2e22">
+                                </a>
+                            </div>
+                        
+                        
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
@@ -268,24 +290,23 @@
                     </p>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    
                         <!-- Responsive Adsense -->
                     
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                        <!-- CWDD responsive -->
+
+                            <ins class="adsbygoogle"
+                                style="display:block"
+                                data-ad-client="ca-pub-5786123947739131"
+                                data-ad-slot="6275650007"
+                                data-ad-format="auto"> 
+                            </ins>
+
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>   
                     
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>   
-                        
                 </aside>
             </div>
         </div>
