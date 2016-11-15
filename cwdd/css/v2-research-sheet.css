@@ -703,6 +703,11 @@ section {
     font-size: 20px;
 }
 
+.book-overflow #coffee-cup-pic-one, .book-overflow #coffee-cup-pic-two {
+    margin: 0px auto !important;
+    float: none !important;
+    padding: 0px;
+}
 
 
 

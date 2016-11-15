@@ -516,6 +516,28 @@
                             </p>
                         </div>
                     </div>
+                    <br>
+                    
+                    <h4><a href="#episode-twentytwo" data-toggle="collapse" class="research-collapsibles">Episode 22: Roasting Coffee</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentytwo">
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentytwo-book.jpg" class="img-responsive" alt="Link goes to Amazon.com">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0842029303/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0842029303&linkCode=as2&tag=allmiccivwar-20&linkId=56ccbf105c700417cbe67a006bd3e224">
+                                <p><strong>The Loyal, True, and Brave: America's Civil War Soldiers - Steven E. Woodworth</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0842029303" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                            
+                        </div>
+                        <div class="book-overflow img-div" >
+                            <p class="center-headline-text">Images courtesy of the Tom Burke Collection</p>
+                            <img class="img-responsive" src="/images/v2-research/tom-burke-pic-one.jpg" alt="Image from the Tom Burke Collection" id="coffee-cup-pic-one" >
+                        </div>
+                        <br>
+                        <div class="book-overflow img-div" >
+                            <img class="img-responsive" src="/images/v2-research/tom-burke-pic-two.jpg" alt="Image from the Tom Burke Collection" id="coffee-cup-pic-two" >
+                        </div>
+                    </div>
                     <br><br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>
