@@ -538,6 +538,23 @@
                             <img class="img-responsive" src="/images/v2-research/tom-burke-pic-two.jpg" alt="Image from the Tom Burke Collection" id="coffee-cup-pic-two" >
                         </div>
                     </div>
+                    <br>
+                    
+                    <h4><a href="#episode-twentyfour" data-toggle="collapse" class="research-collapsibles">Episode 24: Hair Jewelry</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentyfour">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a href="https://books.google.com/books?id=vLdAAAAAYAAJ&printsec=frontcover&dq=self+instructor+in+the+art+of+hair+work&hl=en&sa=X&ved=0ahUKEwiM8_qQrbrQAhXH6IMKHcHyCc0Q6AEIGzAA#v=onepage&q&f=false" target="_blank">
+                                    The Art of Hairwork - Mark Campbell
+                                </a>
+                                <br>
+                                First published in 1866, this book is a comprehensive work on the art of hair dressing, hair work and the making of hair jewelry.
+                            </p>
+                        </div>
+                    </div> 
+                    
+                    
                     <br><br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>

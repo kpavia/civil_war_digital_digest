@@ -280,6 +280,16 @@
                                 </a>
                             </div>
                         
+                            <div class="container-fluid episode-div" id="v2e24-div">
+                                <p class="popup" id="episode-twentyfour-pop">Episode 24: Hair Jewelry
+                                    <span class="popuptext" id="episode-twentyfour-slugline">Learn about an often mis-understood type of Civil War jewelry.
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=ppQujDsmKII&index=27&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e24.jpg" alt="Vol.2 Episode 24" id="v2e24">
+                                </a>
+                            </div>
+                        
                         
                     </div>
                     <p>
