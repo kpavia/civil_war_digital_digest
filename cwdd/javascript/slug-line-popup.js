@@ -176,6 +176,14 @@ $(document).ready(function() {
         $("#episode-twentytwo-slugline").removeClass("show");
     });
     
+    $("#episode-twentythree-pop").mouseenter(function() {
+        $("#episode-twentythree-slugline").addClass("show");
+    });
+    
+    $("#episode-twentythree-pop").mouseleave(function() {
+        $("#episode-twentythree-slugline").removeClass("show");
+    });
+    
     $("#episode-twentyfour-pop").mouseenter(function() {
         $("#episode-twentyfour-slugline").addClass("show");
     });

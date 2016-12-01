@@ -17,6 +17,18 @@
             
     }); //end ready function
   </script>
+  
+  <!-- Google Analytics Code -->
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-81785309-2', 'auto');
+                ga('send', 'pageview');
+
+            </script>
 </head>
     <body>
         <header>
@@ -262,7 +274,7 @@
                         
                             <div class="container-fluid episode-div" id="v2e21-div">
                                 <p class="popup" id="episode-twentyone-pop">Episode 21: Preparing Salt Pork
-                                    <span class="popuptext" id="episode-twentyone-slugline">
+                                    <span class="popuptext" id="episode-twentyone-slugline">Hear about what salt pork is and then learn several ways to cook it.
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=BKPltjbZ_7Y&index=24&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
@@ -272,11 +284,21 @@
                         
                             <div class="container-fluid episode-div" id="v2e22-div">
                                 <p class="popup" id="episode-twentytwo-pop">Episode 22: Roasting Coffee
-                                    <span class="popuptext" id="episode-twentytwo-slugline">
+                                    <span class="popuptext" id="episode-twentytwo-slugline">Watch and learn how to roast green coffee beans in the field.
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=Y4NaCsKGiZ4&index=25&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
                                     <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e22.jpg" alt="Vol.2 Episode 22" id="v2e22">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e23-div">
+                                <p class="popup" id="episode-twentythree-pop">Episode 23: Young Boy's Clothing
+                                    <span class="popuptext" id="episode-twentythree-slugline">
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=8AjYvQfVopY&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=26" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e23.jpg" alt="Vol.2 Episode 23" id="v2e23">
                                 </a>
                             </div>
                         
@@ -324,17 +346,7 @@
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
             
-            <!-- Google Analytics Code -->
-            <script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-                ga('create', 'UA-81785309-2', 'auto');
-                ga('send', 'pageview');
-
-            </script>
+            
             
         </footer>
 
