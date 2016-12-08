@@ -314,6 +314,7 @@ nav {
 
     section p {
         font-size: 25px;
+        text-align: center;
     }
     
     #episode-six-partI, #episode-six-partII, .back-to-top {
@@ -357,6 +358,7 @@ nav {
 
     section p {
         font-size: 25px;
+        text-align: center;
     }
     
 
@@ -375,6 +377,7 @@ nav {
 
     section p {
         font-size: 25px;
+        text-align: center;
     }
     
     .episodes div {
@@ -401,6 +404,7 @@ nav {
     
     section p {
         font-size: 20px;
+        text-align: center;
     }
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
@@ -438,6 +442,7 @@ nav {
     
     section p {
         font-size: 20px;
+        text-align: center;
     }
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */

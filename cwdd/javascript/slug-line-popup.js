@@ -191,6 +191,14 @@ $(document).ready(function() {
     $("#episode-twentyfour-pop").mouseleave(function() {
         $("#episode-twentyfour-slugline").removeClass("show");
     });
+    
+    $("#episode-twentyfive-pop").mouseenter(function() {
+        $("#episode-twentyfive-slugline").addClass("show");
+    });
+    
+    $("#episode-twentyfive-pop").mouseleave(function() {
+        $("#episode-twentyfive-slugline").removeClass("show");
+    });
  
 }); //end ready
     

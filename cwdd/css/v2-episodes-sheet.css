@@ -403,7 +403,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 7800px;
+        height: 8150px;
     }
     
     section h1 {
@@ -430,7 +430,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v2e24-div {
+    #v2e25-div {
         margin-bottom: 50px;
     }
     
@@ -446,7 +446,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 7800px !important;
+        height: 8150px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -479,7 +479,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v2e24-div {
+    #v2e25-div {
         margin-bottom: 50px;
     }
     
@@ -537,7 +537,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3775px;
+        height: 4075px;
     }
     .img-responsive {
         margin: auto;
@@ -584,10 +584,10 @@ nav {
     }
     
     
-    /* for rows with one episode, set margin-left to 187.5px 
-    #v2e24-div {
+    /* for rows with one episode, set margin-left to 187.5px */
+    #v2e25-div {
         margin-left: 187.5px;
-    } */
+    } 
 }
 /* END 1152 x 864 */
 
@@ -607,7 +607,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3780px;
+        height: 4080px;
     }
     .img-responsive {
         margin: auto;
@@ -643,11 +643,11 @@ nav {
        padding-right: 0px !important; 
     }
     
-    /* set margin-left to 229px if episode is on its own row 
-    #v2e24-div {
+    /* set margin-left to 229px if episode is on its own row */
+    #v2e25-div {
         margin-left: 229px;
     }
-    */
+    
     
     #v2e11 {
         margin: 0px;
@@ -684,7 +684,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3790px;
+        height: 4090px;
     }
     .img-responsive {
         margin: auto;
@@ -731,11 +731,11 @@ nav {
         margin-left: 15px;
     }
     
-    /* set margin-left to 283px if an episode is on its own row 
-    #v2e24-div {
-        margin-left: 283px;
+    /* set margin-left to 283px if an episode is on its own row */
+    #v2e25-div {
+        margin-left: 260px;
     }
-    */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -775,7 +775,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3780px;
+        height: 4080px;
     }
     .img-responsive {
         margin: auto;
@@ -821,11 +821,11 @@ nav {
         margin-left: 15px;
     }
     
-    /* set margin-left to 283px if an episode is on its own row 
-    #v2e24-div {
+    /* set margin-left to 283px if an episode is on its own row */
+    #v2e25-div {
         margin-left: 283px;
     }
-    */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -865,7 +865,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3785px;
+        height: 4085px;
     }
     .img-responsive {
         margin: auto;
@@ -897,11 +897,11 @@ nav {
         margin-left: 117px;
     }
     
-    /* set margin-left to 335px if one episode is on its own row 
-    #v2e24-div {
+    /* set margin-left to 335px if one episode is on its own row */
+    #v2e25-div {
         margin-left: 335px;
     }
-    */
+    
     
     #v2e2b {
         margin-left: 0px;
@@ -941,7 +941,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 3000px;
     }
     .img-responsive {
         margin: auto;
@@ -1014,11 +1014,10 @@ nav {
         margin-left: 0px;
     }*/
     
-    /*bottom row: when there's one episode 
-    #v2e22-div {
+    /*bottom row: when there's one episode */
+    #v2e25-div {
         margin-left: 364.33px;
-        margin-right: 364.33px;
-    } */
+    } 
     
     /* bottom row: when there's two episodes 
     #v2e22-div {
@@ -1057,7 +1056,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 3000px;
     }
     .img-responsive {
         margin: auto;
@@ -1114,11 +1113,11 @@ nav {
     }
     
     /* bottom row: for one there's a single episode' */
-    /* some element {
-        margin-left: 459.33px;
-        margin-right: 459.33px;
+    #v2e25-div {
+        margin-left: 460.33px;
     }
-    */
+    
+    
     
 } /* END BIG DESKTOP SCREENS */
     

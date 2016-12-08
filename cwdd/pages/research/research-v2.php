@@ -553,17 +553,25 @@
                     
                     <h4><a href="#episode-twentyfour" data-toggle="collapse" class="research-collapsibles">Episode 24: Hair Jewelry</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-twentyfour">
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfour.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0916896315/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0916896315&linkCode=as2&tag=allmiccivwar-20&linkId=6d4fe4b3cff5999410c688b4a93ebe80">
+                                <p><strong>The Art of Hairwork - Mark Campbell</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0916896315" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
                         <br>
                         <div class="book-overflow">
                             <p class="center-headline-text">
                                 <a href="https://books.google.com/books?id=vLdAAAAAYAAJ&printsec=frontcover&dq=self+instructor+in+the+art+of+hair+work&hl=en&sa=X&ved=0ahUKEwiM8_qQrbrQAhXH6IMKHcHyCc0Q6AEIGzAA#v=onepage&q&f=false" target="_blank">
-                                    The Art of Hairwork - Mark Campbell
+                                        The Art of Hairwork - Mark Campbell
                                 </a>
                                 <br>
-                                First published in 1866, this book is a comprehensive work on the art of hair dressing, hair work and the making of hair jewelry.
+                                    First published in 1866, this book is a comprehensive work on the art of hair dressing, hair work and the making of hair jewelry.
                             </p>
                         </div>
-                    </div> 
+                    </div>
                     
                     
                     <br><br>

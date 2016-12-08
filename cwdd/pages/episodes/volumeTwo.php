@@ -78,7 +78,7 @@
                                     <span class="popuptext" id="episode-one-slugline">View a period soldier's recipe on how to prepare issued beef.</span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=r-2I5Vzatis&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=1" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e1.jpg" alt="Vol.2 Episode 1" id="v2e1">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e1.jpg" alt="Civil War Digital Digest Vol.2 Episode 1" id="v2e1">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e2-div">
@@ -88,7 +88,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/playlist?list=PLm0U6xIHaOs9F17KUb5pH_WUuVjcAzq-G" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e2b.jpg" alt="Vol.2 Episode 2b" id="v2e2b">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e2b.jpg" alt="Civil War Digital Digest Vol.2 Episode 2b" id="v2e2b">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e3-div">
@@ -98,7 +98,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=LQ7aiWMT45M&index=6&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e3.jpg" alt="Vol.2 Episode 3" id="v2e3">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e3.jpg" alt="Civil War Digital Digest Vol.2 Episode 3" id="v2e3">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e4-div">
@@ -108,7 +108,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=T0yFNVogz0A&index=7&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e4.jpg" alt="Vol.2 Episode 4" id="v2e4">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e4.jpg" alt="Civil War Digital Digest Vol.2 Episode 4" id="v2e4">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e5-div">
@@ -118,7 +118,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=EFfuaK3ZOBw&index=8&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e5.jpg" alt="Vol.2 Episode 5" id="v2e5">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e5.jpg" alt="Civil War Digital Digest Vol.2 Episode 5" id="v2e5">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e6-div">
@@ -126,7 +126,7 @@
                                     <span class="popuptext" id="episode-six-slugline">We learn how to make a recipe General Silas Casey suggested to the men of his command.</span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=xWFgo4-GU_o&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=9" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e6.jpg" alt="Vol.2 Episode 6" id="v2e6">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e6.jpg" alt="Civil War Digital Digest Vol.2 Episode 6" id="v2e6">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e7-div">
@@ -134,7 +134,7 @@
                                     <span class="popuptext" id="episode-seven-slugline">Hear the story of how a piece of a battle flag finally returned home.</span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=wz7b-QV5unc&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=10" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e7.jpg" alt="Vol.2 Episode 7" id="v2e7">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e7.jpg" alt="Civil War Digital Digest Vol.2 Episode 7" id="v2e7">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e8-div">
@@ -144,7 +144,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=CfoEJmZC0q0&index=11&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e8.jpg" alt="Vol.2 Episode 8" id="v2e8">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e8.jpg" alt="Civil War Digital Digest Vol.2 Episode 8" id="v2e8">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e9-div">
@@ -154,7 +154,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=qzWsVLD2R5E&index=12&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e9.jpg" alt="Vol.2 Episode 9" id="v2e9">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e9.jpg" alt="Civil War Digital Digest Vol.2 Episode 9" id="v2e9">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e10-div">
@@ -164,7 +164,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=_qiy7TEKhz0&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=13" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e10.jpg" alt="Vol.2 Episode 10" id="v2e10">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e10.jpg" alt="Civil War Digital Digest Vol.2 Episode 10" id="v2e10">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e11-div">
@@ -172,7 +172,7 @@
                                     <span class="popuptext" id="episode-eleven-slugline">This episode tells the story of an early volunteer and the flag he carried.‬‬‬</span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=GuMq3WPR_44&index=14&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e11.jpg" alt="Vol.2 Episode 11" id="v2e11">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e11.jpg" alt="Civil War Digital Digest Vol.2 Episode 11" id="v2e11">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e12-div">
@@ -180,7 +180,7 @@
                                     <span class="popuptext" id="episode-twelve-slugline">Provided here is a brief overview of jewelry styling popular during the war.</span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=VQuL8YcDtVM&index=15&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e12.jpg" alt="Vol.2 Episode 12" id="v2e12">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e12.jpg" alt="Civil War Digital Digest Vol.2 Episode 12" id="v2e12">
                                 </a>
                             </div>
                             <div class="container-fluid episode-div" id="v2e13-div">
@@ -190,7 +190,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=rwtM58-YCtM&index=16&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e13.jpg" alt="Vol.2 Episode 13" id="v2e13">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e13.jpg" alt="Civil War Digital Digest Vol.2 Episode 13" id="v2e13">
                                 </a>
                             </div>
                         
@@ -203,7 +203,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=FBQPwyy8AUM&index=17&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e14.jpg" alt="Vol.2 Episode 14" id="v2e14">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e14.jpg" alt="Civil War Digital Digest Vol.2 Episode 14" id="v2e14">
                                 </a>
                             </div>
                         
@@ -215,7 +215,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=XIKxZCxqXjc&index=18&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Vol.2 Episode 15" id="v2e15">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e15.jpg" alt="Civil War Digital Digest Vol.2 Episode 15" id="v2e15">
                                 </a>
                             </div>
                         
@@ -226,7 +226,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=Jcvt8Pjb0zY&index=19&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e16.jpg" alt="Vol.2 Episode 16" id="v2e16">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e16.jpg" alt="Civil War Digital Digest Vol.2 Episode 16" id="v2e16">
                                 </a>
                             </div>
                         
@@ -237,7 +237,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=pIRTZSttYHg&index=20&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e17.jpg" alt="Vol.2 Episode 17" id="v2e17">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e17.jpg" alt="Civil War Digital Digest Vol.2 Episode 17" id="v2e17">
                                 </a>
                             </div>
                         
@@ -247,7 +247,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=-LgvMwLCh-M&index=21&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e18.jpg" alt="Vol.2 Episode 18" id="v2e18">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e18.jpg" alt="Civil War Digital Digest Vol.2 Episode 18" id="v2e18">
                                 </a>
                             </div>
                         
@@ -258,7 +258,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=3LoBGQ-docQ&index=22&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e19.jpg" alt="Vol.2 Episode 19" id="v2e19">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e19.jpg" alt="Civil War Digital Digest Vol.2 Episode 19" id="v2e19">
                                 </a>
                             </div>
                         
@@ -268,7 +268,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=iooxxe8UkO8&index=23&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e20.jpg" alt="Vol.2 Episode 20" id="v2e20">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e20.jpg" alt="Civil War Digital Digest Vol.2 Episode 20" id="v2e20">
                                 </a>
                             </div>
                         
@@ -278,7 +278,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=BKPltjbZ_7Y&index=24&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e21.jpg" alt="Vol.2 Episode 21" id="v2e21">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e21.jpg" alt="Civil War Digital Digest Vol.2 Episode 21" id="v2e21">
                                 </a>
                             </div>
                         
@@ -288,7 +288,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=Y4NaCsKGiZ4&index=25&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e22.jpg" alt="Vol.2 Episode 22" id="v2e22">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e22.jpg" alt="Civil War Digital Digest Vol.2 Episode 22" id="v2e22">
                                 </a>
                             </div>
                         
@@ -298,7 +298,7 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=8AjYvQfVopY&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=26" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e23.jpg" alt="Vol.2 Episode 23" id="v2e23">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e23.jpg" alt="Civil War Digital Digest Vol.2 Episode 23" id="v2e23">
                                 </a>
                             </div>
                         
@@ -308,7 +308,18 @@
                                     </span>
                                 </p>
                                 <a href="https://www.youtube.com/watch?v=ppQujDsmKII&index=27&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
-                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e24.jpg" alt="Vol.2 Episode 24" id="v2e24">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e24.jpg" alt="Civil War Digital Digest Vol.2 Episode 24" id="v2e24">
+                                </a>
+                            </div>
+                        
+                            <div class="container-fluid episode-div" id="v2e25-div">
+                                <p class="popup" id="episode-twentyfive-pop">Episode 25: Christmas Decorations<br> in the Civil War
+                                    <span class="popuptext" id="episode-twentyfive-slugline">
+                                        View Civil War Christmas decorations as they are put around the house and on the tree.
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=ACuwHOmUGgw&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ&index=28" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e25.jpg" alt="Civil War Digital Digest Vol.2 Episode 25" id="v2e25">
                                 </a>
                             </div>
                         

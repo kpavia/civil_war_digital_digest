@@ -300,6 +300,7 @@ nav {
 
     section p {
         font-size: 25px;
+        text-align: center;
     }
     
     .img-responsive {
@@ -344,6 +345,7 @@ nav {
 
     section p {
         font-size: 25px;
+        text-align: center;
     }
     
 
@@ -395,6 +397,7 @@ nav {
     
     section p {
         font-size: 20px;
+        text-align: center;
     }
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
@@ -444,6 +447,7 @@ nav {
     
     section p {
         font-size: 20px;
+        text-align: center;
     }
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
@@ -469,7 +473,9 @@ nav {
     
     .center-headline-text {
         text-align: center;
-    }   
+    }
+    
+    
     
     
     
