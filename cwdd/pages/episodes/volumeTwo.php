@@ -323,6 +323,17 @@
                                 </a>
                             </div>
                         
+                            <div class="container-fluid episode-div" id="v2e26-div">
+                                <p class="popup" id="episode-twentysix-pop">Episode 26: Civil War era<br> Christmas Gift Giving
+                                    <span class="popuptext" id="episode-twentysix-slugline">
+                                        Learn about Christmas gift giving practices during the mid-19th Century.
+                                    </span>
+                                </p>
+                                <a href="https://www.youtube.com/watch?v=zQmLdZW19zw&index=29&list=PLm0U6xIHaOs8lR06BUP0AhcseJ58_7_kJ" target="_blank">
+                                    <img class="img-responsive episode-pic" src="/images/vol_two_episodes/v2e26.jpg" alt="Civil War Digital Digest Vol.2 Episode 26" id="v2e26">
+                                </a>
+                            </div>
+                        
                         
                     </div>
                     <p>

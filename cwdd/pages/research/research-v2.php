@@ -572,6 +572,71 @@
                             </p>
                         </div>
                     </div>
+                    <br>
+                    
+                    <h4><a href="#episode-twentyfive" data-toggle="collapse" class="research-collapsibles">Episode 25: Christmas Decorations in the Civil War</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentyfive">
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfive-book-one.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0961267062/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0961267062&linkCode=as2&tag=allmiccivwar-20&linkId=42dbf8849c17f6c54a0843bd0890c3ac">
+                                <p><strong>We Were Marching on Christmas Day - Kevin Rawlings</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0961267062" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                        <br>
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfive-book-two.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0195109805/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195109805&linkCode=as2&tag=allmiccivwar-20&linkId=1ac1bd79a14fca45c2c48b9e0de7438a">
+                                <p><strong>Christmas in America: A History - Penne Restad</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0195109805" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                        <br>
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfive-book-three.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0679740384/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679740384&linkCode=as2&tag=allmiccivwar-20&linkId=f571b64e5fa20a7173bd092c19f584d4">
+                                <p><strong>The Battle for Christmas: A Social and Cultural History of Our Most Cherished Holiday - Stephen Nissenbaum</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0679740384" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                        <br>
+                        
+                    </div>
+                    <br>
+                    
+                    <h4><a href="#episode-twentysix" data-toggle="collapse" class="research-collapsibles">Episode 26: Civil War era Christmas Gift Giving</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentysix">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a href="https://americanliterature.com/author/harriet-beecher-stowe/short-story/christmas-or-the-good-fairy" target="_blank">
+                                        Christmas, or The Good Fairy - Harriet Beecher Stowe
+                                </a>
+                                <br>
+                            </p>
+                        </div>
+                        <br>
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfive-book-two.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0195109805/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195109805&linkCode=as2&tag=allmiccivwar-20&linkId=1ac1bd79a14fca45c2c48b9e0de7438a">
+                                <p><strong>Christmas in America: A History - Penne Restad</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0195109805" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                        <br>
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-twentyfive-book-three.jpg" class="img-responsive" alt="Link goes to Amazon.com for Civil War book">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0679740384/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679740384&linkCode=as2&tag=allmiccivwar-20&linkId=f571b64e5fa20a7173bd092c19f584d4">
+                                <p><strong>The Battle for Christmas: A Social and Cultural History of Our Most Cherished Holiday - Stephen Nissenbaum</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0679740384" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                    </div>
                     
                     
                     <br><br>

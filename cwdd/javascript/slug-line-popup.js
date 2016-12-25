@@ -199,6 +199,14 @@ $(document).ready(function() {
     $("#episode-twentyfive-pop").mouseleave(function() {
         $("#episode-twentyfive-slugline").removeClass("show");
     });
+    
+    $("#episode-twentysix-pop").mouseenter(function() {
+        $("#episode-twentysix-slugline").addClass("show");
+    });
+    
+    $("#episode-twentysix-pop").mouseleave(function() {
+        $("#episode-twentysix-slugline").removeClass("show");
+    });
  
 }); //end ready
     
