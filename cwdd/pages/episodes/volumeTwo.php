@@ -40,21 +40,13 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <!-- Responsive Adsense -->
-                        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-                        <!-- CWDD responsive -->
-
-                            <ins class="adsbygoogle"
-                                style="display:block"
-                                data-ad-client="ca-pub-5786123947739131"
-                                data-ad-slot="6275650007"
-                                data-ad-format="auto"> 
-                            </ins>
-
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
+                    
+                    <!-- Don Smith ad -->
+                    <div class="img-responsive">
+                        <a href="http://www.dfsmithhistoric.com" target="_blank" media="screen, handheld">
+                            <img class="img-responsive" id="left-ad-pic" src="/ads/don-smith-pc-ad.png" alt="Don Smith ad Civil War sutler" />
+                        </a>
+                    </div>
                     
                 </aside>
                 <section class="col-sm-8 text-left">

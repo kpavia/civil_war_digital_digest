@@ -19,15 +19,15 @@
                             <li class="dropdown" id="episodes-dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Episodes</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">Volume I</a></li>
-                                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">Volume II</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">Volume I (2015)</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">Volume II (2016)</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown" id="research-dropdown">
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">Research</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v1.php">Volume I</a></li>
-                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v2.php">Volume II</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v1.php">Volume I (2015)</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v2.php">Volume II (2016)</a></li>
                                 </ul>
                             </li>
                             <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>

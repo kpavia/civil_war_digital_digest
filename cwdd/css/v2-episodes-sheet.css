@@ -101,8 +101,8 @@ nav {
     /* changes ads */
 
     
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
     
     aside p a img {
@@ -156,8 +156,8 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
     
     .episode-div {
@@ -210,8 +210,8 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
     
     .episode-div {
@@ -251,11 +251,6 @@ nav {
     }
     
     /* changes ads */
-
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
     
     aside p a img {
         margin: 0px auto;
@@ -264,6 +259,10 @@ nav {
     /* changes header image */
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
 
     .episodes div img {
@@ -304,11 +303,6 @@ nav {
         font-size: 25px;
     }
     
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
-    
     aside p a img {
         margin: 0px auto;
     }
@@ -316,6 +310,10 @@ nav {
     /* changes header image */
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
 
     .episodes div img {
@@ -367,13 +365,7 @@ nav {
     }
     
     #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
+        content: url("/ads/don-smith-mobile-ad.jpg");
     }
     
     .episode-div {
@@ -1086,6 +1078,14 @@ nav {
         margin: 0px auto;
     }
     
+    /* === ADS === 
+    .sticky-ad {
+        position: fixed;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    */
+    
     /* === EPISODE LAYOUT === */
     
     .episodes {
@@ -1136,6 +1136,8 @@ nav {
         margin-left: 58px;
     }
     /* end two episodes row */
+    
+    
     
 } /* END BIG DESKTOP SCREENS */
     
