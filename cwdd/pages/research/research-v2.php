@@ -8,7 +8,7 @@
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  <title>Civil War Digital Digest</title>
+  <title>Civil War Digital Digest - Vol. II Research</title>
   <script>
       $(document).ready(function() {
             $("#episodes-dropdown").removeClass("active");
@@ -73,6 +73,9 @@
                     </p>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>
+                    </p>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v3.php" id="v3-top-link">To Volume III Research</a>
                     </p>
                     <br>
                     <h3>Volume II Episodes</h3>
@@ -645,6 +648,9 @@
                     </p>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>
+                    </p>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v3.php" id="v3-top-link">To Volume III Research</a>
                     </p>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">

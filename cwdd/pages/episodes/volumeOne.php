@@ -9,7 +9,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="/javascript/slug-line-popup.js"></script>
-  <title>Civil War Digital Digest</title>
+  <title>Civil War Digital Digest - Episodes Vol. I</title>
   <script>
       $(document).ready(function() {
             
@@ -62,6 +62,9 @@
                     <br>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>
+                    </p>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php" id="v3-top-link">To Volume III Episodes</a>
                     </p>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>
@@ -143,6 +146,9 @@
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">To Volume II Episodes</a>
+                    </p>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php" id="v3-top-link">To Volume III Episodes</a>
                     </p>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" id="v1-top-link">To Volume I Research</a>

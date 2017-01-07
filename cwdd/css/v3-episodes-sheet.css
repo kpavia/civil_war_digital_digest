@@ -156,10 +156,6 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #left-ad-pic {
-        content: url("/ads/don-smith-mobile-ad.jpg");
-    }
-    
     .episode-div {
         text-align: center;
         margin-left: auto;
@@ -177,7 +173,7 @@ nav {
         margin: auto !important;
     }
     
-    #v2e15-div {
+    #v3e1-div {
         margin-bottom: 40px;
     }
 
@@ -189,13 +185,13 @@ nav {
  * iPhone 4 - 320x480
 */
 
+
 /* IPHONE 3, 4, 5 PORTRAIT */
 
 @media screen and (width: 320px) {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-
     
     section h1 {
         font-size: 40px;
@@ -208,10 +204,6 @@ nav {
     /* changes header image */
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
-    }
-    
-    #left-ad-pic {
-        content: url("/ads/don-smith-mobile-ad.jpg");
     }
     
     .episode-div {
@@ -227,7 +219,7 @@ nav {
         padding: 0px;
     }
     
-    #v2e15-div {
+    #v3e1-div {
         margin-bottom: 40px;
     }
 }
@@ -261,10 +253,6 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #left-ad-pic {
-        content: url("/ads/don-smith-mobile-ad.jpg");
-    }
-
     .episodes div img {
         text-align: center;
         margin-left: auto;
@@ -311,10 +299,6 @@ nav {
     #banner-img {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
-    
-    #left-ad-pic {
-        content: url("/ads/don-smith-mobile-ad.jpg");
-    }
 
     .episodes div img {
         text-align: center;
@@ -330,7 +314,7 @@ nav {
         text-align: center;
     }
     
-    #v1e8-div {
+    #v3e1-div {
         margin-bottom: 40px;
     }
     
@@ -344,11 +328,6 @@ nav {
 @media screen and (width: 375px){
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
-    }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
     }
     
     section h1 {
@@ -364,10 +343,6 @@ nav {
         content: url("/images/CWDDPhoneBanner.jpg");
     }
     
-    #left-ad-pic {
-        content: url("/ads/don-smith-mobile-ad.jpg");
-    }
-    
     .episode-div {
         text-align: center;
         margin-left: auto;
@@ -381,11 +356,31 @@ nav {
         padding: 0px;
     }
     
-    #v2e15-div {
+    #v3e1-div {
         margin-bottom: 40px;
     }
 }
 /* END IPHONE 6 PORTRAIT */
+
+
+
+/* FOR GALAXY S5 PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    
+}
+
+/* END GALAXY S5 PHONES IN LANDSCAPE MODE */
+
+
+
+/* FOR GALAXY S5 PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    
+
+}
+
+/* END GALAXY S5 PHONE SCREENS: PORTRAIT */
+
 
 
 /* FOR iPAD SCREENS, PORTRAIT (768x1024) */
@@ -395,7 +390,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 8500px;
+        height: 870px;
     }
     
     section h1 {
@@ -418,27 +413,25 @@ nav {
         margin-right: auto;
     }
     
-    #v2e1-div {
+    #v3e1-div {
         margin-top: 30px;
     }
     
-    #v2e26-div {
+    #v3e1-div {
         margin-bottom: 50px;
     }
     
 }  /* END iPAD SCREENS, PORTRAIT (768x1024) */
 
 
-
-/* FOR iPAD SCREENS, LANDSCAPE (1024x768) */
-
+/* IPAD SCREENS, LANDSCAPE 1024x768 */
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
         font-size: 20px;
     }
     
     #content-ads-holding-div { 
-        height: 8500px !important;
+        height: 870px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -467,53 +460,23 @@ nav {
         margin-right: auto;
     }
     
-    #v2e1-div {
+    #v3e1-div {
         margin-top: 30px;
     }
     
-    #v2e26-div {
+    #v3e1-div {
         margin-bottom: 50px;
     }
-    
-    
-   
 
 } /* END iPAD SCREENS, LANDSCAPE (1024x768) */
 
 
-/* FOR TABLET SCREENS 
+/* FOR TABLET SCREENS */
 @media screen and (min-width: 853px) and (max-width: 1024px) {
-    nav {
-        font-size: 24px;
-    }
     
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
-    
-    section h1 {
-        font-size: 40px;
-    }
+}
 
-    section p {
-        font-size: 25px;
-    }
-    
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-    }
-    
-    .episodes div {
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 35px;
-    }
-    
-    
-}   END TABLET SCREENS */
-
+/* END TABLET SCREENS */
 
 /* 1152 x 864 */
 @media screen and (min-width: 1100px) and (max-width: 1152px) {
@@ -529,16 +492,10 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4075px;
+        height: 800px;
     }
     .img-responsive {
         margin: auto;
-    }
-    
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
     }
     
         /* Centering episode rows */
@@ -557,6 +514,8 @@ nav {
         float: left;
         text-align: center;
     }
+    
+    /*
     
     #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div, #v2e21-div, #v2e23-div, #v2e25-div  {
         margin-left: 12px;
@@ -574,22 +533,20 @@ nav {
         padding: 0px;
         margin-left: 15px;
     }
+    */
     
-    
-    /* for rows with one episode, set margin-left to 187.5px 
-    #v2e25-div {
-        margin-left: 187.5px;
+    /* for rows with one episode, set margin-left to 187.5px */ 
+    #v3e1-div {
+        margin-left: 187.5px !important;
     } 
     
-    end one episode row */
+    /* end one episode row */
 }
 /* END 1152 x 864 */
 
 
 /* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
 @media screen and (min-width: 1153px) and (max-width: 1365px) {
-    
-
     
     section h1 {
         font-size: 36px;
@@ -601,19 +558,13 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4080px;
+        height: 800px;
     }
     .img-responsive {
         margin: auto;
     }
-    
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
-    }
 
-    /* two column layout */
+    
     .episodes {
         text-align: center;
         padding: 0px;
@@ -624,6 +575,8 @@ nav {
         float: left;
         text-align: center;
     }
+    
+    /* two column layout 
     
     #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div, #v2e21-div, #v2e23-div, #v2e25-div  {
         margin-left: 22px;
@@ -637,12 +590,6 @@ nav {
        padding-right: 0px !important; 
     }
     
-    /* set margin-left to 229px if episode is on its own row 
-    #v2e25-div {
-        margin-left: 229px;
-    }
-    end one episode row */
-    
     #v2e11 {
         margin: 0px;
     }
@@ -651,22 +598,28 @@ nav {
         padding-right: 4px;
     }
     
+    end two column layout */
+    
+    /* set margin-left to 231px if episode is on its own row */
+    
+    #v3e1-div {
+        margin-left: 231px;
+    }
+    /*end one episode row */
+    
+    
+    
+    
     
     /*End of centering episode rows */
     
+}
 
-} /* END SMALL LAPTOP SCREENS: 1280 x 800 */
+/* END SMALL LAPTOP SCREENS: 1280 x 800 */
 
 
-
-/* FOR 1366x768 SCREENS */
+/* FOR 1366 x 768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -678,25 +631,19 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4090px;
+        height: 800px;
     }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
-    }
-    
-        /* Centering episode rows */
+    /* Centering episode rows */
     
     .episodes div {
         text-align: center;
     }
 
-    /* two column layout */
+     
     
     .episodes {
         text-align: center;
@@ -707,6 +654,8 @@ nav {
         margin-bottom: 60px;
         float: left;
     }
+    
+    /* two column layout
     
     #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div, #v2e21-div, #v2e23-div, #v2e25-div  {
         margin-left: 84px;
@@ -725,12 +674,6 @@ nav {
         margin-left: 15px;
     }
     
-    /* set margin-left to 283px if an episode is on its own row 
-    #v2e25-div {
-        margin-left: 260px;
-    }
-    end one episode row */
-    
     #v2e2b {
         margin-left: 0px;
     }
@@ -738,26 +681,28 @@ nav {
     #v2e11 {
         margin: 0px;
     }
-    /* end two column layout */
+     end two column layout */
+    
+    /* set margin-left to 283px if an episode is on its own row */
+    #v3e1-div {
+        margin-left: 283px;
+    }
+    /* end one episode row */
+    
+    
     
     
     /*End of centering episode rows */
     
-    
-    
-} /* END 1366x768 SCREENS */
+}
+
+/* END FOR 1366 x 768 SCREENS */
 
 
 
 
-/* FOR 1440x900 SCREENS */
+/* FOR 1440 x 900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -769,16 +714,10 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4080px;
+        height: 800px;
     }
     .img-responsive {
         margin: auto;
-    }
-    
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
     }
     
         /* Centering episode rows */
@@ -787,7 +726,7 @@ nav {
         text-align: center;
     }
 
-    /* two column layout */
+    
     .episodes {
         text-align: center;
         padding: 0px;
@@ -797,7 +736,7 @@ nav {
         margin-bottom: 60px;
         float: left;
     }
-    
+    /* two column layout 
     #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div, #v2e21-div, #v2e23-div, #v2e25-div {
         margin-left: 105px;
     }
@@ -815,12 +754,6 @@ nav {
         margin-left: 15px;
     }
     
-    /* set margin-left to 283px if an episode is on its own row 
-    #v2e25-div {
-        margin-left: 283px;
-    }
-    end one episode row */
-    
     #v2e2b {
         margin-left: 0px;
     }
@@ -828,26 +761,26 @@ nav {
     #v2e11 {
         margin: 0px;
     }
-
-    /* end two column layout */
     
+    end two column layout */
+    
+    /* one column layout */
+    /* set margin-left to 283px if an episode is on its own row */
+    #v3e1-div {
+        margin-left: 285px;
+        margin-bottom: 25px;
+    }
+    /* end one column layout */
     
     /*End of centering episode rows */
     
-    
-    
-} /* END 1440x900 SCREENS */
+}
+
+/* END 1440 x 900 SCREENS */
 
 
-
-/* FOR 1600x900 SCREENS */
+/* FOR 1600 x 900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -859,14 +792,13 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4085px;
+        height: 850px;
     }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
+    aside p {
         margin-left: auto;
         margin-right: auto;
     }
@@ -883,6 +815,7 @@ nav {
         float: left;
     }
     
+    /* two column layout
     #v2e1-div, #v2e3-div, #v2e5-div, #v2e7-div, #v2e9-div, #v2e11-div, #v2e13-div, #v2e15-div, #v2e17-div, #v2e19-div, #v2e21-div, #v2e23-div, #v2e25-div {
         margin-left: 103.5px;
     }
@@ -891,12 +824,6 @@ nav {
         margin-left: 117px;
     }
     
-    /* set margin-left to 335px if one episode is on its own row
-    #v2e25-div {
-        margin-left: 335px;
-    }
-    end one episode row */
-    
     #v2e2b {
         margin-left: 0px;
     }
@@ -904,27 +831,29 @@ nav {
     #v2e11 {
         margin: 0px;
     }
+    end two column layout */
+    
+    /*set margin-left to 338px if one episode is on its own row */
+    #v3e1-div {
+        margin-left: 338px;
+    }
+    /* end one episode row */
+    
+
 
     /* end two column layout */
     
     
     /*End of centering episode rows */
     
-    
-    
-} /* END 1600x900 SCREENS */
+}
+
+/* END FOR 1600 x 900 SCREENS */
 
 
-
-/* FOR 1680x1050 SCREENS */
+/* FOR 1680 x 1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
+     
     section h1 {
         font-size: 36px;
     }
@@ -935,13 +864,13 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3000px;
+        height: 850px;
     }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+    aside p {
         
         margin-left: auto;
         margin-right: auto;
@@ -960,16 +889,17 @@ nav {
     }
     
     /* top row: set margin top */
-    #v2e1-div, #v2e2-div, #v2e3-div {
+    #v3e1-div {
         margin-top: 25px;
     }
     
-    /* left column: set left margin */
+    /* left column: set left margin 
     #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div, #v2e16-div, #v2e19-div, #v2e22-div {
         margin-left: 5px;
-    }
+    } 
+    end left column */
     
-    /* middle column */
+    /* middle column 
     #v2e2-div {
         margin-left: 5px;
         margin-right: 5px;
@@ -986,13 +916,13 @@ nav {
     #v2e14-div, #v2e17-div, #v2e20-div, #v2e23-div {
         margin-left: 9px;
     }
-    /* end middle column */
+     end middle column */
     
-    /*right column */
+    /*right column
     #v2e6-div, #v2e15-div, #v2e18-div, #v2e21-div, #v2e24-div {
         margin-left: 6px !important;
     }
-    /* end right column */
+    end right column */
     
     
     
@@ -1003,18 +933,15 @@ nav {
     }
     */
     
-    /* right column 
-    #v2e6-div, #v2e9-div, #v2e12-div, #v2e15-div, #v2e18-div {
-        margin-left: 0px;
-    }*/
-    
-    /*bottom row: when there's one episode 
-    #v2e25-div {
+    /*bottom row: when there's one episode */
+    #v3e1-div {
         margin-left: 364.33px;
     } 
-    end one episode row */
+    /* end one episode row */
     
-    /* bottom row: when there's two episodes */
+    
+    
+    /* bottom row: when there's two episodes 
     #v2e25-div {
         padding-right: 15px;
         margin-left: 190px;
@@ -1023,29 +950,15 @@ nav {
     #v2e26-div {
         margin-left: 6px;
     }
-    /* end two episode row */
+    end two episode row */
     
-    /*
-    #v2e24-div {
-        padding-left: 15px;
-    }*/
-    
-    
-    
+}
 
-    
-} /* END 1680x1050 SCREENS */
-
+/* END FOR 1680 x 1050 SCREENS  */
 
 
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
-    
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
     
     section h1 {
         font-size: 36px;
@@ -1057,7 +970,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3100px;
+        height: 820px;
     }
     .img-responsive {
         margin: auto;
@@ -1067,24 +980,10 @@ nav {
         width: 450px;
         height: 62px;
     }
-    
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
-    }
 
     #store-menu-button {
         margin: 0px auto;
     }
-    
-    /* === ADS === 
-    .sticky-ad {
-        position: fixed;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    */
     
     /* === EPISODE LAYOUT === */
     
@@ -1098,36 +997,36 @@ nav {
         float: left;
         padding: 0px;
     }
-
+    
     /* top row: set margin top */
-    #v2e1-div, #v2e2-div, #v2e3-div {
+    #v3e1-div {
         margin-top: 25px;
     }
     
-    /* left column: set left margin */
+    /* left column: set left margin 
     #v2e1-div, #v2e4-div, #v2e7-div, #v2e10-div, #v2e13-div, #v2e16-div, #v2e19-div, #v2e22-div {
         margin-left: 74.5px;
-    }
+    } */
     
-    /* center column: set left and right margins */
+    /* center column: set left and right margins 
     #v2e2-div, #v2e5-div, #v2e8-div, #v2e11-div, #v2e14-div, #v2e17-div, #v2e20-div, #v2e23-div  {
-        margin-left: 58px;  /* 49 */
+        margin-left: 58px;  
         margin-right: 58px;
-    }
+    }*/
     
-    /* center column: dealing with long titles */
+    /* center column: dealing with long titles 
     #v2e2b, #v2e5, #v2e8, #v2e11, #v2e14, #v2e17, #v2e20, #v2e23, #v2e26 {
         margin-left: 8px !important;
         margin-right: 8px !important;
-    }
+    } */
     
-    /* bottom row: for when there's a single episode' 
-    #v2e25-div {
+    /* bottom row: for when there's a single episode */
+    #v3e1-div {
         margin-left: 460.33px;
     }
-    end one row*/
+    /*end one row*/
     
-    /* bottom row: for two episode row */
+    /* bottom row: for two episode row
     #v2e25-div{
         margin-left: 266px;
     }
@@ -1135,40 +1034,19 @@ nav {
     #v2e26-div {
         margin-left: 58px;
     }
-    /* end two episodes row */
+    end two episodes row */
     
-    
-    
-} /* END BIG DESKTOP SCREENS */
-    
-    
+}
 
-    
-    
 
+/* END FOR BIG DESKTOP SCREENS: 23"+ */
+
+  
   
 section, h1, h2, h3, p {
     font-family: "IM Fell DW Pica", serif;
     text-align: center;
     position: static;
-}
-
-#intro-video-div {
-    margin: 0px auto;
-    position: static;
-    text-align: center;
-}
-
-#intro-video {
-    width: 100%;
-    height: 100%;
-    margin-top: 30px;
-}
-
-#youtube-logo {
-    margin: 10px auto 0px auto;
-    width: 160px;
-    height: 100px;
 }
 
 section a {
@@ -1239,17 +1117,3 @@ section a {
     to {opacity:1 ;}
 }
 /* ===END SLUGLINE POPUPS=== */
-
-
-
-
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : Jul 6, 2016, 7:10:41 PM
-    Author     : Kenneth
-*/
-

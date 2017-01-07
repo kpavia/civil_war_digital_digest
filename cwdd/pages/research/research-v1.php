@@ -56,6 +56,9 @@
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/research/research-v2.php" id="v1-top-link">To Volume II Research</a>
                     </p>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v3.php" id="v3-top-link">To Volume III Research</a>
+                    </p>
                     <br>
                     <h3>Volume I Episodes</h3>
                     <br>
@@ -276,6 +279,9 @@
                         </p>
                         <p class="text-center">
                             <a href="http://civilwardigitaldigest.com/pages/research/research-v2.php" id="v1-top-link">To Volume II Research</a>
+                        </p>
+                        <p class="text-center">
+                            <a href="http://civilwardigitaldigest.com/pages/research/research-v3.php" id="v3-top-link">To Volume III Research</a>
                         </p>
                     
                 </section>
