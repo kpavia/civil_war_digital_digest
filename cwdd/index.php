@@ -13,6 +13,17 @@
   <script>
       
   </script>
+  <!-- Google Analytics Code -->
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                ga('create', 'UA-81785309-2', 'auto');
+                ga('send', 'pageview');
+
+            </script>
 </head>
     <body>
         <header>
@@ -48,30 +59,45 @@
                         Avid living historians, relaxed armchair generals and teachers will find resources that both educate and entertain.
                     </p>
                     <br>
+                    
+                    <h2>Our Latest Episode</h2>
+                    <div id="current-video-div">
+                        
+                        <iframe id="current-video" src="https://www.youtube.com/embed/CYOKfDLINtE" frameborder="0" allowfullscreen></iframe>
+                        <br>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <div>
                     <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/episodes-button.jpg" alt="episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/research-button.jpg" alt="research menu button" >
                     </a>
-                    <br>
-                    <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera">
-                    <br>
+                    <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
+                    
                     <a href="http://civilwardigitaldigest.com/pages/store.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="store-menu-button" src="/images/store-button.jpg" alt="store episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/support.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="support-menu-button" src="/images/support-button.jpg" alt="support menu button">
                     </a>
-                    <br>
-                    <img class="img-responsive" id="will-homepage-photo" src="/images/will-bottom.jpeg" alt="Will on a TV screen">
-                    <br>
+                    
+                    <!-- <img class="img-responsive" id="will-homepage-photo" src="/images/will-bottom.jpeg" alt="Will on a TV screen"> -->
+                    
                     <a href="http://civilwardigitaldigest.com/pages/communicate.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="communicate-menu-button" src="/images/communicate-button.jpg" alt="communicate menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/links-button.jpg" alt="links menu button">
                     </a>
+                    </div>
+                    <br>
+                    <br>
+                    <br>
+                    <h2>Our Introduction Episode</h2>
                     <div id="intro-video-div">
                         <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
                     </div>
@@ -110,17 +136,7 @@
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
             
-            <!-- Google Analytics Code -->
-            <script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-                ga('create', 'UA-81785309-2', 'auto');
-                ga('send', 'pageview');
-
-            </script>
+            
         </footer>
 
     </body>

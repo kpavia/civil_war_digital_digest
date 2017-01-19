@@ -90,7 +90,7 @@ nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
     /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
+    #intro-video-div, #current-video-div {
         height: auto;
         width: auto;
     }
@@ -115,7 +115,7 @@ nav {
 @media screen and (min-width: 768px) and (max-width: 1366px) {
     
     /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
+    #intro-video-div, #current-video-div {
         width: 560px;
         height: 315px;
     }
@@ -130,7 +130,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1680px;
+        height: 1710px;
     }
     .img-responsive {
         margin: auto;
@@ -149,7 +149,7 @@ nav {
 @media screen and (min-width: 1367px) {
     
     /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
+    #intro-video-div, #current-video-div {
         width: 560px;
         height: 315px;
     }
@@ -164,7 +164,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1615px;
+        height: 1700px;
     }
     .img-responsive {
         margin: auto;
@@ -219,13 +219,13 @@ section, h1, h2, h3, p {
     position: static;
 }
 
-#intro-video-div {
+#intro-video-div, #current-video-div {
     margin: 0px auto;
     position: static;
     text-align: center;
 }
 
-#intro-video {
+#intro-video, #current-video {
     width: 100%;
     height: 100%;
     margin-top: 30px;
@@ -245,6 +245,10 @@ section a {
 #left-side-aside p {
     margin-top: auto;
     margin-bottom: auto;
+}
+
+#current-video-div {
+    margin-bottom: 30px;
 }
 
 /* DROPDOWN MENU BUTTONS */
