@@ -95,6 +95,23 @@
                             </p>
                         </div>
                     </div>
+                    
+                    <br>
+                    <h4><a href="#episode-two" data-toggle="collapse" class="research-collapsibles">Episode 2: Dough Gods</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-two">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/0878390952/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0878390952&linkCode=as2&tag=allmiccivwar-20&linkId=7053c9e1a4c903ac692df244cf5df943">
+                                    A Drummer-boy's Diary: Comprising Four Years Of Service With The Second Regiment Minnesota Veteran Volunteers, 1861 To 1865 - by William Bircher
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0878390952" width="1" height="1" border="0" alt="" 
+                                     style="border:none !important; margin:0px !important;" />
+                            </p>
+                        </div>
+                    </div>
+                    
+                    
                     <br>
                     <br>
                     <p class="text-center">
