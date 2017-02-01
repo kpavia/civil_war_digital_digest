@@ -36,19 +36,14 @@
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                     
-                    <!-- Responsive Adsense -->
-                    
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
+                    <!-- CWDDIndexResponsive -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-5786123947739131"
+                         data-ad-slot="7423219602"
+                         data-ad-format="auto">
+                    </ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>           
@@ -71,27 +66,27 @@
                     <br>
                     <div>
                     <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/episodes-button.jpg" alt="episodes menu button">
+                        <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/new-episodes-button.jpg" alt="episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/research-button.jpg" alt="research menu button" >
+                        <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/new-research-button.jpg" alt="research menu button" >
                     </a>
                     <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
                     
                     <a href="http://civilwardigitaldigest.com/pages/store.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="store-menu-button" src="/images/store-button.jpg" alt="store episodes menu button">
+                        <img class="img-responsive menu-buttons" id="store-menu-button" src="/images/new-store-button.jpg" alt="store episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/support.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="support-menu-button" src="/images/support-button.jpg" alt="support menu button">
+                        <img class="img-responsive menu-buttons" id="support-menu-button" src="/images/new-support-button.jpg" alt="support menu button">
                     </a>
                     
                     <!-- <img class="img-responsive" id="will-homepage-photo" src="/images/will-bottom.jpeg" alt="Will on a TV screen"> -->
                     
                     <a href="http://civilwardigitaldigest.com/pages/communicate.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="communicate-menu-button" src="/images/communicate-button.jpg" alt="communicate menu button">
+                        <img class="img-responsive menu-buttons" id="communicate-menu-button" src="/images/new-communicate-button.jpg" alt="communicate menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/links-button.jpg" alt="links menu button">
+                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/new-links-button.jpg" alt="links menu button">
                     </a>
                     </div>
                     <br>
@@ -112,22 +107,17 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                        <!-- Responsive Adsense -->
-                    
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
+                    <!-- CWDDIndexResponsive -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-5786123947739131"
+                         data-ad-slot="7423219602"
+                         data-ad-format="auto">
+                    </ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>   
+                    </script>    
                         
                 </aside>
             </div>
