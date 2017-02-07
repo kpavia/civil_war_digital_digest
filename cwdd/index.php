@@ -58,7 +58,7 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/CYOKfDLINtE" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/lcALsIO3mNE?list=PLm0U6xIHaOs-vdgbVEKc3ANaaM8DrwfpW" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -94,7 +94,8 @@
                     <br>
                     <h2>Our Introduction Episode</h2>
                     <div id="intro-video-div">
-                        <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe> 
+                        
                     </div>
                     <br><br>
                     <p>

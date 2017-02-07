@@ -111,6 +111,17 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-three" data-toggle="collapse" class="research-collapsibles">Episode 3: Ladies Basque Jacket</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-three">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="http://pastreflectionsreproductions.com/">Past Reflections</a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

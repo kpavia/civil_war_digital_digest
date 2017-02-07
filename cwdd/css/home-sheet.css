@@ -18,6 +18,15 @@
 
 /* END PHONES IN LANDSCAPE MODE */
 
+/* iPHONE 5 320x568 portrait mode */
+
+@media screen and (width: 320px) and (orientation: portrait) {
+    #current-video, #current-video-div {
+        width: 290px;
+        height: 315px;
+    }
+}
+
 
 
 /* FOR PHONE SCREENS: PORTRAIT */

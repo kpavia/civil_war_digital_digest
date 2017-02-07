@@ -94,6 +94,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e2.jpg" alt="Civil War Digital Digest Vol.3 Episode 2" id="v3e2">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e3-div">
+                            <p class="popup" onclick="popup()" id="episode-three-pop">Episode 3: Ladies Basque Jacket
+                                <span class="popuptext" id="episode-three-slugline">What is a basque jacket?  </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?list=PLm0U6xIHaOs-vdgbVEKc3ANaaM8DrwfpW&v=lcALsIO3mNE" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e3.jpg" alt="Civil War Digital Digest Vol.3 Episode 3" id="v3e3">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" id="v1-top-link">To Volume I Episodes</a>
