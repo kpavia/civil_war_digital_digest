@@ -122,6 +122,17 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-four" data-toggle="collapse" class="research-collapsibles">Episode 4: Junior Officer Frocks</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-four">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="http://garmuseum.weebly.com/">Michigan's GAR Memorial Hall & Museum</a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

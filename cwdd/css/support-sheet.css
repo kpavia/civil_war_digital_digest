@@ -1,7 +1,19 @@
 /* FOR PHONES IN LANDSCAPE MODE */
 @media screen and (width: 640px) {
     
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -15,7 +27,19 @@
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
     
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
     
     #right-ad-pic {
         content: url("/images/5th-michigan-mobile-300x250.jpg");
@@ -32,6 +56,20 @@
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
 }
 /* END IPHONE 4 LANDSCAPE */
 
@@ -41,13 +79,39 @@
         content: url("/images/5th-michigan-mobile-300x250.jpg");
     }
     
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
 }
 /* END IPHONE 5 LANDSCAPE */
 
 
 /* FOR iPAD SCREENS, PORTRAIT */
 @media screen and (width: 768px) and (orientation: portrait) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
     
 }
 
@@ -57,7 +121,19 @@
 
 /* FOR iPAD SCREENS, LANDSCAPE */
 @media screen and (orientation: landscape) and (width: 1024px) {
-
+    /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
 
 }
 
@@ -66,7 +142,19 @@
 
 /* FOR TABLET SCREENS */
 @media screen and (min-width: 853px) and (max-width: 1024px) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
 }
 
 /* END TABLET SCREENS */
@@ -74,7 +162,23 @@
 
 /* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
 @media screen and (min-width: 1024px) and (max-width: 1365px) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 950px;
+    }
 }
 
 /* END SMALL LAPTOP SCREENS: 1280 x 800 */
@@ -82,7 +186,23 @@
 
 /* FOR 1366 x 768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 950px;
+    }
 }
 
 /* END FOR 1366 x 768 SCREENS */
@@ -92,7 +212,23 @@
 
 /* FOR 1440 x 900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 950px;
+    }
 }
 
 /* END 1440 x 900 SCREENS */
@@ -100,7 +236,23 @@
 
 /* FOR 1600 x 900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
     
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 900px;
+    }
 }
 
 /* END FOR 1600 x 900 SCREENS */
@@ -109,6 +261,23 @@
 /* FOR 1680 x 1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
     
+        /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 900px;
+    }
 }
 
 /* END FOR 1680 x 1050 SCREENS  */
@@ -117,7 +286,28 @@
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
     
+    /* centers paypal button */
+    #paypal-button form {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .center-button {
+        display: block;
+        text-align: center;
+    }
+    /* end center paypal button */
+    
+    #content-ads-holding-div {
+        height: 900px;
+    }
 }
 
 
 /* END FOR BIG DESKTOP SCREENS: 23"+ */
+
+#paypal-button {
+    margin-bottom: 25px;
+}

@@ -78,6 +78,7 @@
                     <p>Click on the image to view the episode.</p>
                     <br>
                     <div class="container-fluid episodes" id="episodes-div">
+                        
                         <div class="container-fluid episode-div" id="v3e1-div">
                             <p class="popup" onclick="popup()" id="episode-one-pop">Episode 1: Camp Soup
                                 <span class="popuptext" id="episode-one-slugline">See an original soldier’s recipe for soup made</span>
@@ -102,6 +103,15 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e3.jpg" alt="Civil War Digital Digest Vol.3 Episode 3" id="v3e3">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e4-div">
+                            <p class="popup" onclick="popup()" id="episode-four-pop">Episode 4: Junior Officer Frocks
+                                <span class="popuptext" id="episode-four-slugline">Examine three junior officer’s frock coats with us.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=zM067SsymMk&list=PLm0U6xIHaOs-vdgbVEKc3ANaaM8DrwfpW&index=4&t=5s" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e4.jpg" alt="Civil War Digital Digest Vol.3 Episode 4" id="v3e4">
+                            </a>
+                        </div>
+                        
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" id="v1-top-link">To Volume I Episodes</a>
