@@ -68,7 +68,7 @@
                         and thankful.
                     </p>
                     <br>
-                    <h2><a href="http://civilwardigitaldigest.com/pages/store.php" >Civil War Digital Digest Store
+                    <h2><a href="http://www.cafepress.com/civilwardigitaldigeststore" target="_blank">Civil War Digital Digest Store
                         </a>
                     </h2>
                     <p>

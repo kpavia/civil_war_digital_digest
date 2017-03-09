@@ -32,7 +32,7 @@
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v3.php">Volume III (2017)</a></li>
                                 </ul>
                             </li>
-                            <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php">Store</a></li>
+                            <li id="store"><a href="http://www.cafepress.com/civilwardigitaldigeststore" target="_blank">Store</a></li>
                             <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
                             <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>
                             <li id="links"><a href="http://civilwardigitaldigest.com/pages/links.php">Links</a></li>

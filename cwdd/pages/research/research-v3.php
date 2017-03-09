@@ -133,6 +133,57 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-five" data-toggle="collapse" class="research-collapsibles">Episode 5: Columbus Depot Jacket</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-five">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.flickr.com/photos/kymuseum/albums/72157632532194144/with/8768625412/">
+                                    Civil War exhibit at Kentucky Museum, Western Kentucky University
+                                </a>
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/1577471229/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1577471229&linkCode=as2&tag=allmiccivwar-20&linkId=0dca3a9b3cc9b14117cf802ce2371722">
+                                    Cadet Gray and Butternut Brown - Tom Arliskas
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=1577471229" width="1" height="1" border="0" alt="" 
+                                     style="border:none !important; margin:0px !important;" />
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                <a target="_blank" href="http://www.authentic-campaigner.com/articles/walden/cdjacket.htm">
+                                    Geoff Walden’s article on Columbus Depot Jackets
+                                </a>
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                Les Jensen’s article on CS uniforms from the Journal of the Company of Military Historians
+                                <br>
+                                <a target="_blank" href="http://www.military-historians.org/company/journal/confederate/confederate-1.htm">
+                                    Part I
+                                </a>
+                                <br>
+                                <a target="_blank" href="http://www.military-historians.org/company/journal/confederate/confederate-3.htm">
+                                    Part III
+                                </a>
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                <a target="_blank" href="http://www.gallarock.com/okmysteryjacket.html">
+                                    Photos of the CD Jacket in Oklahoma State Museum – available as a pattern (6 button version)
+                                </a>
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                <a target="_blank" href="http://crchilds.com/Patterns%20CS%202013.html">
+                                    County Cloth CD Jacket pattern (6 button version)
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

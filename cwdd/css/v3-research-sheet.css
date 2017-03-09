@@ -1,3 +1,7 @@
+    #content-ads-holding-div { 
+        height: 2000px !important;
+    }  
+
 h1, h2, h3, h4 {
     font-family: "IM Fell DW Pica", serif;
     text-align: center;
@@ -597,7 +601,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 1000px;
+        height: 2000px;
     }
     .img-responsive {
         margin: auto;

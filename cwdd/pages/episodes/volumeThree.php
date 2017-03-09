@@ -111,6 +111,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e4.jpg" alt="Civil War Digital Digest Vol.3 Episode 4" id="v3e4">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e5-div">
+                            <p class="popup" onclick="popup()" id="episode-five-pop">Episode 5: Columbus Depot Jacket
+                                <span class="popuptext" id="episode-five-slugline">Learn about both types of the Columbus Depot Jacket.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=P7WzaHrY4g0&list=PLm0U6xIHaOs_3l80gM7qxcXXN-X3fPdRq&index=5" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e5.jpg" alt="Civil War Digital Digest Vol.3 Episode 5" id="v3e5">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
