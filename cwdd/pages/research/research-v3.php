@@ -184,6 +184,17 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-six" data-toggle="collapse" class="research-collapsibles">Episode 6: What's in your haversack?</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-six">
+                        <br>
+                        <p class="center-headline-text">
+                            <a href="https://books.google.com/books/about/The_History_of_the_Nineteenth_Regiment_o.html?id=TY4vAAAAYAAJ" target="_blank">
+                                The History of the Nineteenth Regiment of Maine Volunteer Infantry, 1862-1865
+                            </a>
+                        </p>
+                    </div>
+                    
                     
                     <br>
                     <br>

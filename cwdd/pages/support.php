@@ -72,7 +72,6 @@
                         </a>
                     </h2>
                     <p>
-                        The store will be open soon!
                         <br>
                         Purchasing items from the CWDD store is a great way to show support and spread the word!  There are several items to pick from that include shirts, mugs, and 
                         bags.  Check out the store today and watch on <a href="https://www.facebook.com/civilwardigitaldigest" rel="link to facebook" target="_blank">
