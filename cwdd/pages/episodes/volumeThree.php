@@ -127,6 +127,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e6.jpg" alt="Civil War Digital Digest Vol.3 Episode 6" id="v3e6">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e7-div">
+                            <p class="popup" onclick="popup()" id="episode-seven-pop">Episode 7: Boy's Frocks
+                                <span class="popuptext" id="episode-seven-slugline">Take an in depth look at some boys clothing.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=dhdHVbazTpE&index=7&list=PLm0U6xIHaOs-vdgbVEKc3ANaaM8DrwfpW" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e7.jpg" alt="Civil War Digital Digest Vol.3 Episode 7" id="v3e7">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

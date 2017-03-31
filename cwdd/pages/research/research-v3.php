@@ -195,6 +195,17 @@
                         </p>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-seven" data-toggle="collapse" class="research-collapsibles">Episode 7: Boy's Frocks</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-seven">
+                        <br>
+                        <p class="center-headline-text">
+                            <a href="http://www.pastreflectionsreproductions.com/" target="_blank">
+                                Past Reflections Reproductions
+                            </a>
+                        </p>
+                    </div>
+                    
                     
                     <br>
                     <br>
