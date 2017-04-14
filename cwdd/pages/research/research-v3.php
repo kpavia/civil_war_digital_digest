@@ -206,6 +206,41 @@
                         </p>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-eight" data-toggle="collapse" class="research-collapsibles">Episode 8: Soldier's Games</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-eight">
+                        <br>
+                        <p class="center-headline-text">
+                            <a href="https://books.google.com/books?id=NRsXAAAAYAAJ&dq=hoyle+gentleman%27s+games&pg=PA461&hl=en#v=onepage&q&f=false" target="_blank">
+                                The American Hoyle, or Gentleman's Hand-book of Games - William Brisbane Dick, Edmond Hoyle
+                            </a>
+                        </p>
+                        <br>
+                        <p class="center-headline-text">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/1483459098/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1483459098&linkCode=as2&tag=allmiccivwar-20&linkId=e0edd6f03ce19ef45b9445862d3f91d9">
+                                Unholy Rebellion: The Civil War Diary of Charles Adam Wetherbee
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=1483459098" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </p>
+                        <br>
+                        <p class="center-headline-text">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0807127345/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0807127345&linkCode=as2&tag=allmiccivwar-20&linkId=00b9e1e088ee8c7233dd347cfff7e5e7">
+                                A Mississippi Rebel in the Army of Northern Virginia: The Civil War Memoirs of Private David Holt
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0807127345" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </p>
+                        <br>
+                        <p class="center-headline-text">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/1558497390/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1558497390&linkCode=as2&tag=allmiccivwar-20&linkId=8bb606454aa5eecfbf1251d3ff6addb7">
+                                Practicing Medicine in a Black Regiment: The Civil War Diary of Burt G. Wilder, 55th Massachusetts
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=1558497390" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </p>
+                    </div>
+                    
                     
                     <br>
                     <br>

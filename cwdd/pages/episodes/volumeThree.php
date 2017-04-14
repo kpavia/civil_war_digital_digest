@@ -135,6 +135,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e7.jpg" alt="Civil War Digital Digest Vol.3 Episode 7" id="v3e7">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e8-div">
+                            <p class="popup" onclick="popup()" id="episode-eight-pop">Episode 8: Soldier's Games
+                                <span class="popuptext" id="episode-eight-slugline">View an introduction to soldier’s games.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=_Lai76YEJHI&list=PLm0U6xIHaOs-vdgbVEKc3ANaaM8DrwfpW&index=8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e8.jpg" alt="Civil War Digital Digest Vol.3 Episode 8" id="v3e8">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
