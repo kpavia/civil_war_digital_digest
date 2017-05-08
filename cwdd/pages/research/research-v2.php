@@ -471,6 +471,19 @@
                     </div>
                     <br>
                     
+                    <h4><a href="#episode-sixteen" data-toggle="collapse" class="research-collapsibles">Episode 16: Men's Vests</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-sixteen">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a href="http://www.pastreflectionsreproductions.com/online-store#!/Mens-Double-Breasted-Shawl-Collar-Vest/p/65105348/category=19374093" target="_blank">
+                                    Past Reflections
+                                </a>
+                            </p>
+                        </div> 
+                    </div>
+                    <br>
+                    
                     <h4><a href="#episode-eighteen" data-toggle="collapse" class="research-collapsibles">Episode 18: Hooker's Retreat</a></h4>
                     <div class="collapse container-fluid book-overflow" id="episode-eighteen">
                         <br>
