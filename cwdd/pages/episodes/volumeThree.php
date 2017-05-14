@@ -151,6 +151,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e9.jpg" alt="Civil War Digital Digest Vol.3 Episode 9" id="v3e9">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e10-div">
+                            <p class="popup" onclick="popup()" id="episode-ten-pop">Episode 10: What's Inside?
+                                <span class="popuptext" id="episode-ten-slugline">See the hidden stories in several original garments.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Ft0w6XRqkU8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e10.jpg" alt="Civil War Digital Digest Vol.3 Episode 10" id="v3e10">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
