@@ -159,6 +159,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e10.jpg" alt="Civil War Digital Digest Vol.3 Episode 10" id="v3e10">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e12-div">
+                            <p class="popup" onclick="popup()" id="episode-twelve-pop">Episode 12: Chuck-a-Luck
+                                <span class="popuptext" id="episode-twelve-slugline">Learn how to play a popular period gambling game.</span>
+                            </p>
+                            <a href="https://youtu.be/OxJpe0HF9N8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e12.jpeg" alt="Civil War Digital Digest Vol.3 Episode 12" id="v3e12">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

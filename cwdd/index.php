@@ -6,13 +6,13 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/second-bootstrap-stylesheet.css" >
   <link rel="stylesheet" type="text/css" href="css/home-sheet.css">
+  <link rel="stylesheet" type="text/css" href="css/signup-popup-sheet.css">
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  
   <title>Civil War Digital Digest</title>
-  <script>
-      
-  </script>
+
   <!-- Google Analytics Code -->
             <script>
                 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -58,7 +58,7 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/Ft0w6XRqkU8" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/OxJpe0HF9N8" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -122,11 +122,35 @@
                         
                 </aside>
             </div>
+            <?php include $_SERVER['DOCUMENT_ROOT']. '/php/signup-popup.php'; ?>
+            <div id="pop-wrapper">
+		<!-- Popup Div Starts Here -->
+		<div id="popupContact">
+		<!-- Contact Us Form -->
+                <form id="form" method="post" name="form">
+			<h2 id="popup-h2">Stay in touch with the Civil War Digital Digest</h2>
+			<hr>
+			<input id="name" name="name" placeholder="Name" type="text" value="<?php echo htmlspecialchars($_POST['name']);?>">
+			<input id="email" name="email" placeholder="Email" type="text" value="<?php echo htmlspecialchars($_POST['email']);?>">
+			<textarea id="msg" name="message" placeholder="Message"><?php echo htmlspecialchars($_POST['message']);?></textarea>
+                        <?php echo "<p id='error-message' class='text-danger'>$errError</p>";?>
+                        <?php echo $result; ?>
+                        <button id="submit" name="submit" type="submit" value="Send" onclick="hide()">Send</button>
+                        <!-- <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary"> -->
+			<!-- <a href="enter function here" id="submit">Send</a>  -->
+			<br>
+			<button onclick="hide()" id="close">Close</button>
+                        <br>
+                        <p>We don't share or sell our list. You always have the option to unsubscribe.</p>
+                    </form>
+		</div>
+		<!-- Popup Div Ends Here -->
+            </div>
         </div>
 
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
-            
+            <script src="javascript/signup-popoup.js"></script>
             
         </footer>
 

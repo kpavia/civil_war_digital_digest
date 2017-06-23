@@ -241,6 +241,17 @@
                         </p>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-twelve" data-toggle="collapse" class="research-collapsibles">Episode 12: Chuck-a-Luck</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twelve">
+                        <br>
+                        <p class="center-headline-text">
+                            <a href="https://books.google.com/books?id=NRsXAAAAYAAJ&dq=hoyle+gentleman%27s+games&pg=PA461&hl=en#v=onepage&q&f=false" target="_blank">
+                                The American Hoyle, or Gentleman's Hand-book of Games - William Brisbane Dick, Edmond Hoyle
+                            </a>
+                        </p>
+                    </div>
+                    
                     
                     <br>
                     <br>
