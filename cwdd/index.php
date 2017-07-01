@@ -58,7 +58,7 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/OxJpe0HF9N8" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/o2AQkXs6dQU" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -128,6 +128,7 @@
 		<div id="popupContact">
 		<!-- Contact Us Form -->
                 <form id="form" method="post" name="form">
+                <img id="close-btn" src="images/cwdd-close-btn.jpg" onclick="hide()">
 			<h2 id="popup-h2">Stay in touch with the Civil War Digital Digest</h2>
 			<hr>
 			<input id="name" name="name" placeholder="Name" type="text" value="<?php echo htmlspecialchars($_POST['name']);?>">
@@ -139,7 +140,9 @@
                         <!-- <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary"> -->
 			<!-- <a href="enter function here" id="submit">Send</a>  -->
 			<br>
-			<button onclick="hide()" id="close">Close</button>
+			<!-- <button onclick="hide()" id="close">Close</button> -->
+                        <br>
+                        <img id="popup-eagle" src="/images/eagle1-resized.png" />
                         <br>
                         <p>We don't share or sell our list. You always have the option to unsubscribe.</p>
                     </form>

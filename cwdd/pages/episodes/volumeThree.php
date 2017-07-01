@@ -159,12 +159,38 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e10.jpg" alt="Civil War Digital Digest Vol.3 Episode 10" id="v3e10">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e11a-div">
+                            <p class="popup" onclick="popup()" id="episode-elevenintro-pop">Episode 11A: Intro to Gilham's Manual
+                                <span class="popuptext" id="episode-elevenintro-slugline">Introduction to Gilham’s Musket Manual series</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=KpHOcX_CN6Y" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e11a.jpg" alt="Civil War Digital Digest Vol.3 Episode 11a" id="v3e11a">
+                            </a>
+                        </div>
+                        
+                        <div class="container-fluid episode-div" id="v3e11-div">
+                            <p class="popup" onclick="popup()" id="episode-eleven-pop">Episode 11: Gilham's Manual of Arms
+                                <span class="popuptext" id="episode-eleven-slugline">Gilham’s Manual of Arms</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=IqhJioy8kxA" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e11.jpg" alt="Civil War Digital Digest Vol.3 Episode 11" id="v3e11">
+                            </a>
+                        </div>
+                        
                         <div class="container-fluid episode-div" id="v3e12-div">
                             <p class="popup" onclick="popup()" id="episode-twelve-pop">Episode 12: Chuck-a-Luck
                                 <span class="popuptext" id="episode-twelve-slugline">Learn how to play a popular period gambling game.</span>
                             </p>
                             <a href="https://youtu.be/OxJpe0HF9N8" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e12.jpeg" alt="Civil War Digital Digest Vol.3 Episode 12" id="v3e12">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v3e13-div">
+                            <p class="popup" onclick="popup()" id="episode-thirteen-pop">Episode 13: Ladies Wrappers
+                                <span class="popuptext" id="episode-thirteen-slugline">View three original wrappers.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=o2AQkXs6dQU" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e13.jpg" alt="Civil War Digital Digest Vol.3 Episode 13" id="v3e13">
                             </a>
                         </div>
                         

@@ -252,6 +252,23 @@
                         </p>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-thirteen" data-toggle="collapse" class="research-collapsibles">Episode 13: Ladies Wrappers</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-thirteen">
+                        <div class="book-overflow">
+                            <div class="book-overflow img-div" >
+                                <p class="center-headline-text">Image from a book in the Felicia Konrad collection. Pulled from the July, 1862 Peterson’s.</p>
+                                <img class="img-responsive" src="/images/v3-research/v3e13-wrap1.png" alt="Image of a ladies wrapper" id="v3e13-wrap1" />
+                            </div>
+                            <br><br>
+                            <div class="book-overflow img-div" >
+                                <p class="center-headline-text">Image from a book in the Felicia Konrad collection. Pulled from the August, 1862 Peterson’s.</p>
+                                <img class="img-responsive" src="/images/v3-research/v3e13-wrap2.jpg" alt="Image of a ladies wrapper" id="v3e13-wrap2" />
+                            </div>
+                            
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

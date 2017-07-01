@@ -88,6 +88,14 @@ $(document).ready(function() {
         $("#episode-eleven-slugline").removeClass("show");
     });
     
+    $("#episode-elevenintro-pop").mouseenter(function() {
+        $("#episode-elevenintro-slugline").addClass("show");
+    });
+    
+    $("#episode-elevenintro-pop").mouseleave(function() {
+        $("#episode-elevenintro-slugline").removeClass("show");
+    });
+    
     $("#episode-twelve-pop").mouseenter(function() {
         $("#episode-twelve-slugline").addClass("show");
     });
