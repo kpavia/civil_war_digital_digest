@@ -269,6 +269,30 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-fifteen" data-toggle="collapse" class="research-collapsibles">Episode 15: Catridge Box 101</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-fifteen">
+                        <div class="book-overflow">
+                            <img src="/images/v2-research/episode-ten-book-three.jpg" class="img-responsive" alt="Link goes to Amazon.com">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/1532773919/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1532773919&linkCode=as2&tag=allmiccivwar-20&linkId=70d9d355e095db808fcf051ca938d92e">
+                                <br>
+                                <p class="center-headline-text"><strong>The Story of a Common Soldier of Army Life in the Civil War 1861-1865 by Leander Stillwell</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=1532773919" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                        <br>
+                        <div class="book-overflow">
+                            <img src="/images/v3-research/v3e15-si-klegg.jpg" class="img-responsive" alt="Link goes to Amazon.com">
+                            <a target="_blank" href="https://www.amazon.com/gp/product/0803224737/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0803224737&linkCode=as2&tag=allmiccivwar-20&linkId=85b628ff5b2b44fa07f32bd52c5c7abe">
+                                <br>
+                                <p class="center-headline-text"><strong>Corporal Si Klegg and His "Pard" by Wilber F. Hinman</strong></p>
+                            </a>
+                            <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0803224737" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

@@ -193,6 +193,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e13.jpg" alt="Civil War Digital Digest Vol.3 Episode 13" id="v3e13">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e15-div">
+                            <p class="popup" onclick="popup()" id="episode-fifteen-pop">Episode 15: Cartridge Box 101
+                                <span class="popuptext" id="episode-fifteen-slugline">Cartridge box set up and what’s inside it. </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=a1RPqE-RsaI" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e15.jpg" alt="Civil War Digital Digest Vol.3 Episode 15" id="v3e15">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
