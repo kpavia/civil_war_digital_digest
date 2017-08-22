@@ -98,6 +98,10 @@
                     <p>
                         <a href="http://garmuseum.weebly.com/" target="_blank">Michigan GAR Memorial Hall & Museum</a>
                     </p>
+                    <br>
+                    <p>
+                        <a href="http://www.waterloofarmmuseum.org/" target="_blank">Waterloo Farm Museum</a>
+                    </p>
                     
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">

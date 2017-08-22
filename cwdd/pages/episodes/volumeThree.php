@@ -201,6 +201,30 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e15.jpg" alt="Civil War Digital Digest Vol.3 Episode 15" id="v3e15">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e16a-div">
+                            <p class="popup" onclick="popup()" id="episode-sixteena-pop">Episode 16a: Sleeves Series Intro
+                                <span class="popuptext" id="episode-sixteena-slugline">Introduction to Woman’s Sleeve series</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=cwF0maU6k2c" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e16a.jpg" alt="Civil War Digital Digest Vol.3 Episode 16a" id="v3e16a">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v3e16-div">
+                            <p class="popup" onclick="popup()" id="episode-sixteen-pop">Episode 16: Open Sleeves
+                                <span class="popuptext" id="episode-sixteen-slugline">Learn when open sleeves were used. </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=HzY5ZKl-6v4" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e16.jpg" alt="Civil War Digital Digest Vol.3 Episode 16" id="v3e16">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v3e17-div">
+                            <p class="popup" onclick="popup()" id="episode-seventeen-pop">Episode 17: Cornmeal Mush
+                                <span class="popuptext" id="episode-seventeen-slugline">Cornmeal ration is prepared as a hot, filling meal.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=sxWTPku8nMg" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e17.jpg" alt="Civil War Digital Digest Vol.3 Episode 17" id="v3e17">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

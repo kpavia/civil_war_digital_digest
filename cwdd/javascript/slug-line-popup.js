@@ -136,6 +136,14 @@ $(document).ready(function() {
         $("#episode-sixteen-slugline").removeClass("show");
     });
     
+    $("#episode-sixteena-pop").mouseenter(function() {
+        $("#episode-sixteena-slugline").addClass("show");
+    });
+    
+    $("#episode-sixteena-pop").mouseleave(function() {
+        $("#episode-sixteena-slugline").removeClass("show");
+    });
+    
     $("#episode-seventeen-pop").mouseenter(function() {
         $("#episode-seventeen-slugline").addClass("show");
     });
