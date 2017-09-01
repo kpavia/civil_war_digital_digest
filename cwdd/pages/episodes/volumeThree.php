@@ -225,6 +225,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e17.jpg" alt="Civil War Digital Digest Vol.3 Episode 17" id="v3e17">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e18-div">
+                            <p class="popup" onclick="popup()" id="episode-eighteen-pop">Episode 18: Scythe & Reaper
+                                <span class="popuptext" id="episode-eighteen-slugline">Learn the history of the scythe & reaper.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=3zXZNbMmh7Q" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e18.jpg" alt="Civil War Digital Digest Vol.3 Episode 18" id="v3e18">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
