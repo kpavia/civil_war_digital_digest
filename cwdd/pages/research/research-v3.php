@@ -293,6 +293,24 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-nineteen" data-toggle="collapse" class="research-collapsibles">Episode 19: Using a Scythe</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-nineteen">
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a href="http://site.baryonyxknife.com/blog/2015/08/15/the-first-modern-american-scythe-nibs/" target="_blank">The First Modern American Scythe NIBS</a>
+                            </p>
+                            <br>
+                            <p class="text-center">
+                                <a href="http://site.baryonyxknife.com/blog/2015/12/21/1861-h-waters-scythe-curvature-brochure/" target="_blank">1861 H.Waters Scythe Curvature Brochure</a>
+                            </p>
+                            <br>
+                            <p class="text-center">
+                                <a href="https://smallfarmersjournal.com/english-sheaf-knots/" target="_blank">English Sheaf Knots</a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

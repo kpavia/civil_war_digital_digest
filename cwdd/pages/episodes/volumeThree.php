@@ -233,6 +233,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e18.jpg" alt="Civil War Digital Digest Vol.3 Episode 18" id="v3e18">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e19-div">
+                            <p class="popup" onclick="popup()" id="episode-nineteen-pop">Episode 19: Using a Scythe
+                                <span class="popuptext" id="episode-nineteen-slugline">Hear and see how to use a scythe.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=9TWmWsGkWZY" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e19.jpg" alt="Civil War Digital Digest Vol.3 Episode 19" id="v3e19">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
