@@ -311,6 +311,25 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-twenty" data-toggle="collapse" class="research-collapsibles">Episode 20: Aurora GAR Hall & Museum</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twenty">
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a href="http://www.chicagotribune.com/suburbs/aurora-beacon-news/news/ct-abn-aurora-gar-museum-st-0915-20170914-story.html" 
+                                   target="_blank">Chicago Tribune Article</a>
+                            </p>
+                            <br>
+                            <p class="text-center">
+                                <a href="https://www.aurora-il.org/372/Grand-Army-of-the-Republic" target="_blank">Grand Army of the Republic</a>
+                            </p>
+                            <br>
+                            <p class="text-center">
+                                <a href="https://www.facebook.com/GARMemorialHall/" target="_blank">GAR Memorial Hall</a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

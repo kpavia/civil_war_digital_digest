@@ -241,6 +241,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e19.jpg" alt="Civil War Digital Digest Vol.3 Episode 19" id="v3e19">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e20-div">
+                            <p class="popup" onclick="popup()" id="episode-twenty-pop">Episode 20: Auror GAR Hall & Museum
+                                <span class="popuptext" id="episode-twenty-slugline">Visit the Aurora GAR Hall & Museum</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=yEjqvPH_xz4" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e20.jpg" alt="Civil War Digital Digest Vol.3 Episode 20" id="v3e20">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

@@ -395,7 +395,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 8500px;
+        height: 8600px;
     }
     
     section h1 {
@@ -438,7 +438,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 8500px !important;
+        height: 8600px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -529,7 +529,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4075px;
+        height: 4175px;
     }
     .img-responsive {
         margin: auto;
@@ -601,7 +601,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4080px;
+        height: 4180px;
     }
     .img-responsive {
         margin: auto;
@@ -678,7 +678,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4090px;
+        height: 4190px;
     }
     .img-responsive {
         margin: auto;
@@ -769,7 +769,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4080px;
+        height: 4180px;
     }
     .img-responsive {
         margin: auto;
@@ -859,7 +859,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 4085px;
+        height: 4185px;
     }
     .img-responsive {
         margin: auto;
@@ -935,7 +935,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3000px;
+        height: 3100px;
     }
     .img-responsive {
         margin: auto;
