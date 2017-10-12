@@ -330,6 +330,23 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-twentyone" data-toggle="collapse" class="research-collapsibles">Episode 21: Hoecakes</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentyone">
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/B00089GRCS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00089GRCS&linkCode=as2&tag=allmiccivwar-20&linkId=cf9887c7bfc4732ef07f2f476b4e2cde">The Military Handbook &amp; Soldier's Manual.</a>
+                            </p>
+                            <br>
+                            <p class="text-center">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/B004VLVN7S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004VLVN7S&linkCode=as2&tag=allmiccivwar-20&linkId=134d3dbf2a6726fa35458e82fada9f00">
+                                    Bob's Red Mill Organic Medium Grind Cornmeal, 24-ounce (Pack of 4)
+                                </a><img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=B004VLVN7S" width="1" height="1" border="0" alt="" 
+                                    style="border:none !important; margin:0px !important;" />
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>
