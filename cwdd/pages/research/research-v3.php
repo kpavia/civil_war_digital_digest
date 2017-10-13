@@ -335,7 +335,7 @@
                     <div class="collapse container-fluid book-overflow" id="episode-twentyone">
                         <div class="book-overflow">
                             <p class="text-center">
-                                <a target="_blank" href="https://www.amazon.com/gp/product/B00089GRCS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00089GRCS&linkCode=as2&tag=allmiccivwar-20&linkId=cf9887c7bfc4732ef07f2f476b4e2cde">The Military Handbook &amp; Soldier's Manual.</a>
+                                <a target="_blank" href="https://www.amazon.com/Military-Handbook-Soldiers-Manual-Information/dp/0964061937/ref=sr_1_2?s=books&ie=UTF8&qid=1507829577&sr=1-2&keywords=The+military+hand-book+and+soldier%27s+manual+of+information">The Military Handbook &amp; Soldier's Manual.</a>
                             </p>
                             <br>
                             <p class="text-center">
