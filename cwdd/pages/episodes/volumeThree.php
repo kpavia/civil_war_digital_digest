@@ -257,6 +257,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e21.jpg" alt="Civil War Digital Digest Vol.3 Episode 21" id="v3e21">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e22-div">
+                            <p class="popup" onclick="popup()" id="episode-twentytwo-pop">Episode 22: Closed Sleeves
+                                <span class="popuptext" id="episode-twentytwo-slugline">Closed Sleeve Types.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=3tp8i1Da3uQ" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e22.jpg" alt="Civil War Digital Digest Vol.3 Episode 22" id="v3e22">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

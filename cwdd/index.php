@@ -58,7 +58,7 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/IdgNecl1cpI" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/3tp8i1Da3uQ" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
