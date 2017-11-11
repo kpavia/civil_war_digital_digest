@@ -347,6 +347,17 @@
                         </div>
                     </div>
                     
+                    <br>
+                    <h4><a href="#episode-twentythree" data-toggle="collapse" class="research-collapsibles">Episode 23: Bubble & Squeak</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentythree">
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a href="https://books.google.com/books?id=QiBXAAAAcAAJ&printsec=frontcover&dq=camp+fires+and+camp+cooking+culinary&hl=en&sa=X&ved=0ahUKEwi6q_aRiK7XAhUDYiYKHdwaDuMQ6AEIKDAA#v=onepage&q=camp%20fires%20and%20camp%20cooking%20culinary&f=false" 
+                                   target="_blank">Camp fires and Camp Cooking or Culinary Hints for the Soldier</a>
+                            </p>
+                        </div>
+                    </div>
+                    
                     
                     <br>
                     <br>

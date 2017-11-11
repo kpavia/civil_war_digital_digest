@@ -265,6 +265,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e22.jpg" alt="Civil War Digital Digest Vol.3 Episode 22" id="v3e22">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e23-div">
+                            <p class="popup" onclick="popup()" id="episode-twentythree-pop">Episode 23: Bubble & Squeak
+                                <span class="popuptext" id="episode-twentythree-slugline">Bubble and Squeak.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=D5hwfbLOM6U" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e23.jpg" alt="Civil War Digital Digest Vol.3 Episode 23" id="v3e23">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
