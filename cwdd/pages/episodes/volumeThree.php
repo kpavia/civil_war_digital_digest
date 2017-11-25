@@ -273,6 +273,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e23.jpg" alt="Civil War Digital Digest Vol.3 Episode 23" id="v3e23">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v3e24-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24: Gilham's Loading
+                                <span class="popuptext" id="episode-twentyfour-slugline">Gilham’s Manual Loadings.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=sYvpwAo0Hkk" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e24.jpg" alt="Civil War Digital Digest Vol.3 Episode 24" id="v3e24">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
