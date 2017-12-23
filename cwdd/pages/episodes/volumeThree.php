@@ -274,7 +274,8 @@
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v3e24-div">
-                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24: Gilham's Loading
+                            <br>
+                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24: <br>Gilham's Loading
                                 <span class="popuptext" id="episode-twentyfour-slugline">Gilham’s Manual Loadings.</span>
                             </p>
                             <a href="https://www.youtube.com/watch?v=sYvpwAo0Hkk" target="_blank">
@@ -282,11 +283,21 @@
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v3e25-div">
-                            <p class="popup" onclick="popup()" id="episode-twentyfive-pop">Episode 25: Garment Longevity
+                            <br>
+                            <p class="popup" onclick="popup()" id="episode-twentyfive-pop">Episode 25: <br>Garment Longevity
                                 <span class="popuptext" id="episode-twentyfive-slugline">Examples of garment longevity.</span>
                             </p>
                             <a href="https://www.youtube.com/watch?v=n6zPqmGsBgw" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e25.jpg" alt="Civil War Digital Digest Vol.3 Episode 25" id="v3e25">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v3e26-div">
+                            <br>
+                            <p class="popup" onclick="popup()" id="episode-twentysix-pop">Episode 26: <br>Twas the night before Christmas
+                                <span class="popuptext" id="episode-twentysix-slugline">Visit from St. Nicholas.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=PDfzziHrFkU" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_three_episodes/v3e26.jpg" alt="Civil War Digital Digest Vol.3 Episode 26" id="v3e26">
                             </a>
                         </div>
                         
