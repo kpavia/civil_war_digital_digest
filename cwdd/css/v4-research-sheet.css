@@ -1,0 +1,633 @@
+    #content-ads-holding-div { 
+        height: 1000px !important;
+    }  
+
+h1, h2, h3, h4 {
+    font-family: "IM Fell DW Pica", serif;
+    text-align: center;
+    position: static;
+}
+
+section {
+    font-family: "IM Fell DW Pica", serif;
+    position: static;
+}
+
+#left-side-aside p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
+}
+
+.book-overflow #coffee-cup-pic-one, .book-overflow #coffee-cup-pic-two {
+    margin: 0px auto !important;
+    float: none !important;
+    padding: 0px;
+}
+
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #394650; /*#f1f1f1;*/
+    height: 100%;
+}
+    
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
+    padding: 15px;
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 18px;
+}
+
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {
+        height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
+    }
+
+}
+    
+/* centers banner img */
+#banner-img {
+    margin: 0px auto;
+}
+    
+header {
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
+}
+
+/* === NAV BAR === */
+nav {
+    font-family: "IM Fell DW Pica", serif;  /* font style of nav bar */
+    font-size: 23px;  /* font size of nav bar */
+}
+    
+#myNavBar ul li{
+    text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
+}
+
+/* CENTERS NAV BAR */
+#nav-div-center, #nav-ul {
+    margin: 0px auto;
+}
+
+/* CENTERS NAV BAR */
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin: 0px auto;
+        float: none;
+        display: table;
+    }
+}
+
+/* === END NAV BAR === */
+
+/* FOR PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .img-responsive {
+        margin: auto;
+    }
+
+    section {
+        text-align: center !important;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    section div {
+        margin-bottom: 40px;
+    }
+}  /* END PHONE SCREENS: PORTRAIT */
+
+
+/* FOR PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+} /*END PHONES IN LANDSCAPE MODE */
+
+
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    
+}
+
+/* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    
+/* EPISODE LAYOUT */
+    .book-overflow img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    section {
+        text-align: center !important;
+    }
+
+    section div {
+        margin-bottom: 40px;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
+
+
+/* IPHONE 6 LANDSCAPE */
+
+@media screen and (width: 667px){
+    
+}
+/* END IPHONE 6 LANDSCAPE */
+
+
+/* IPHONE 6 PORTRAIT */
+
+@media screen and (width: 375px){
+    
+}
+/* END IPHONE 6 PORTRAIT */
+
+
+
+/* FOR GALAXY S5 PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    
+}
+
+/* END GALAXY S5 PHONES IN LANDSCAPE MODE */
+
+
+
+/* FOR GALAXY S5 PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    
+
+}
+
+/* END GALAXY S5 PHONE SCREENS: PORTRAIT */
+
+
+
+/* FOR iPAD SCREENS, PORTRAIT 768x1024 */
+@media screen and (width: 768px) and (orientation: portrait) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 1000px;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    section img {
+        padding-right: 10px;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+}  /* END iPAD SCREENS, PORTRAIT 768x1024 */
+
+
+
+/* IPAD SCREENS, LANDSCAPE 1024x768 */
+
+@media screen and (orientation: landscape) and (width: 1024px) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 900px !important;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+        text-align: center;
+    }
+    
+
+} /* END IPAD SCREENS, LANDSCAPE 1024x768 */
+
+
+
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
+@media screen and (min-width: 1024px) and (max-width: 1365px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 900px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    section img {
+        padding-right: 10px;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    
+    
+} /* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+
+/* FOR 1366x768 SCREENS */
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 900px;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    section img {
+        padding-right: 10px;
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+    
+} /* END 1366x768 SCREENS */
+
+
+
+
+/* FOR 1440x900 SCREENS */
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1000px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    section img {
+        
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+
+    
+} /* END 1440x900 SCREENS */
+
+
+/* FOR 1600x900 SCREENS */
+@media screen and (min-width: 1441px) and (max-width: 1601px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1000px;
+    }
+    
+    section img {
+        
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+    
+} /* END 1600x900 SCREENS */
+
+
+/* FOR 1680x1050 SCREENS */
+@media screen and (min-width: 1601px) and (max-width: 1680px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1000px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+    
+    section img {
+        
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+
+
+    
+} /* END 1680x1050 SCREENS */
+
+
+/* FOR BIG DESKTOP SCREENS: 23"+ */
+@media screen and (min-width: 1681px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 2000px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    .menu-buttons {
+        width: 450px;
+        height: 62px;
+    }
+
+    #store-menu-button {
+        margin: 0px auto;
+    }
+    
+    section img {
+        
+    }
+    
+    .research-collapsibles {
+        font-size: 23px;
+    }
+    
+    .book-overflow {
+        overflow: hidden;
+    }
+    
+    .center-headline-text {
+        text-align: center;
+    }
+
+
+} /* END BIG DESKTOP SCREENS */

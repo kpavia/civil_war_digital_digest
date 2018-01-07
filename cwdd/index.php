@@ -58,17 +58,17 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/PDfzziHrFkU" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/cF9nnAmy08g" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
                     <br>
                     <br>
                     <div>
-                    <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" media="screen, handheld">
+                    <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/new-episodes-button.jpg" alt="episodes menu button">
                     </a>
-                    <a href="http://civilwardigitaldigest.com/pages/research/research-v1.php" media="screen, handheld">
+                    <a href="http://civilwardigitaldigest.com/pages/research/research-v4.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/new-research-button.jpg" alt="research menu button" >
                     </a>
                     <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
