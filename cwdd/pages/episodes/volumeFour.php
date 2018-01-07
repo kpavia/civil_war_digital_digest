@@ -94,13 +94,16 @@
                         
                     </div>
                     <p>
-                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" id="v1-top-link">To Volume I Episodes</a>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
                     </p>
                     <p>
-                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php" id="v2-top-link">To Volume II Episodes</a>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">To Volume II Episodes</a>
                     </p>
                     <p>
-                        <a href="http://civilwardigitaldigest.com/pages/research/research-v3.php" id="v3-research-top-link">To Volume III Research</a>
+                        <a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php">To Volume III Episodes</a>
+                    </p>
+                    <p>
+                        <a href="http://civilwardigitaldigest.com/pages/research/research-v4.php">To Volume IV Research</a>
                     </p>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
