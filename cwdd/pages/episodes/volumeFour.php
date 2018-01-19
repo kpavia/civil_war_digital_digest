@@ -90,6 +90,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e1.jpg" alt="Civil War Digital Digest Vol.4 Episode 1" id="v4e1">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e2-div">
+                            <p class="popup" onclick="popup()" id="episode-two-pop">Episode 2<br> Frederick Schultz
+                                <span class="popuptext" id="episode-two-slugline">Story of a veteran of Andersonville</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=ZTTvl-f10Pc" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e2.jpg" alt="Civil War Digital Digest Vol.4 Episode 2" id="v4e2">
+                            </a>
+                        </div>
                         
                         
                     </div>
