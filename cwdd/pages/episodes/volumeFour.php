@@ -98,6 +98,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e2.jpg" alt="Civil War Digital Digest Vol.4 Episode 2" id="v4e2">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e3-div">
+                            <p class="popup" onclick="popup()" id="episode-three-pop">Episode 3<br>Block Dominoes
+                                <span class="popuptext" id="episode-three-slugline">Block Dominoes</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=silh_E8d04M" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e3.jpg" alt="Civil War Digital Digest Vol.4 Episode 3" id="v4e3">
+                            </a>
+                        </div>
                         
                         
                     </div>
