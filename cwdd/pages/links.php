@@ -102,6 +102,11 @@
                     <p>
                         <a href="http://www.waterloofarmmuseum.org/" target="_blank">Waterloo Farm Museum</a>
                     </p>
+                    <br>
+                    <p>
+                        <a href="http://www.rosenfeldinjurylawyers.com/historical-nurses-all-about-clara-barton.html" target="_blank">Brief history of Clara Barton</a><br>Provided by a young viewer
+                    </p>
+                    
                     
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
