@@ -58,7 +58,7 @@
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
                         
-                        <iframe id="current-video" src="https://www.youtube.com/embed/silh_E8d04M" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/i1CtMFZfJx8" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -122,38 +122,13 @@
                         
                 </aside>
             </div>
-            <?php include $_SERVER['DOCUMENT_ROOT']. '/php/signup-popup.php'; ?>
-            <div id="pop-wrapper">
-		<!-- Popup Div Starts Here -->
-		<div id="popupContact">
-		<!-- Contact Us Form -->
-                <form id="form" method="post" name="form">
-                <img id="close-btn" src="images/cwdd-close-btn.jpg" onclick="hide()">
-			<h2 id="popup-h2">Stay in touch with the Civil War Digital Digest</h2>
-			<hr>
-			<input id="name" name="name" placeholder="Name" type="text" value="<?php echo htmlspecialchars($_POST['name']);?>">
-			<input id="email" name="email" placeholder="Email" type="text" value="<?php echo htmlspecialchars($_POST['email']);?>">
-			<textarea id="msg" name="message" placeholder="Message"><?php echo htmlspecialchars($_POST['message']);?></textarea>
-                        <?php echo "<p id='error-message' class='text-danger'>$errError</p>";?>
-                        <?php echo $result; ?>
-                        <button id="submit" name="submit" type="submit" value="Send" onclick="hide()">Send</button>
-                        <!-- <input id="submit" name="submit" type="submit" value="Send" class="btn btn-primary"> -->
-			<!-- <a href="enter function here" id="submit">Send</a>  -->
-			<br>
-			<!-- <button onclick="hide()" id="close">Close</button> -->
-                        <br>
-                        <img id="popup-eagle" src="/images/eagle1-resized.png" />
-                        <br>
-                        <p>We don't share or sell our list. You always have the option to unsubscribe.</p>
-                    </form>
-		</div>
-		<!-- Popup Div Ends Here -->
-            </div>
+            
+            
         </div>
 
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
-            <script src="javascript/signup-popoup.js"></script>
+            
             
         </footer>
 

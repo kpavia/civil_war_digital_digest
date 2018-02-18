@@ -106,6 +106,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e3.jpg" alt="Civil War Digital Digest Vol.4 Episode 3" id="v4e3">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e4-div">
+                            <p class="popup" onclick="popup()" id="episode-four-pop">Episode 4<br>Modified Sleeves
+                                <span class="popuptext" id="episode-four-slugline">Modified women’s sleeve type </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=i1CtMFZfJx8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e4.jpg" alt="Civil War Digital Digest Vol.4 Episode 4" id="v4e4">
+                            </a>
+                        </div>
                         
                         
                     </div>
