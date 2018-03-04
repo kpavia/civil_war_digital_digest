@@ -114,7 +114,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e4.jpg" alt="Civil War Digital Digest Vol.4 Episode 4" id="v4e4">
                             </a>
                         </div>
-                        
+                        <div class="container-fluid episode-div" id="v4e5-div">
+                            <p class="popup" onclick="popup()" id="episode-five-pop">Episode 5<br>Reverse Arms
+                                <span class="popuptext" id="episode-five-slugline">Reverse Arms.</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=-hq0V25pcyw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e5.jpg" alt="Civil War Digital Digest Vol.4 Episode 5" id="v4e5">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
