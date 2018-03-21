@@ -483,199 +483,127 @@ nav {
 /* 1152 x 864 */
 @media screen and (width: 1152px) {
     
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    h1 {
+        font-size: 48px;
     }
     
-        /* Centering episode rows */
-    
-    .episodes div {
-        text-align: center;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    /*
+    #bottom-left {
         float: left;
-        margin-left: 4px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 76px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
-    
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    */
+    .hidden {
+        display: hidden;
     }
-    
 }
 /* END 1152 x 864 */
-
-
 
 /* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
 @media screen and (min-width: 1153px) and (max-width: 1365px) {
     
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    h1 {
+        font-size: 48px;
     }
     
-        /* Centering episode rows */
-    
-    .episodes div {
-        text-align: center;
-        width: 350px;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
         float: left;
-        margin-left: 7px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 76px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
     
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    .hidden {
+        display: hidden;
     }
-    
-    /*End of centering episode rows */
-    
-    
-    
 } /* END SMALL LAPTOP SCREENS: 1280 x 800 */
 
 /* FOR 1366x768 SCREENS */
 @media screen and (min-width: 1281px) and (max-width: 1366px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
     
-    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
-        
-        margin-left: auto;
-        margin-right: auto;
+    h1 {
+        font-size: 48px;
     }
     
-        /* Centering episode rows */
-    
-    .episodes div {
-        text-align: center;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
         float: left;
-        margin-left: 52.5px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 119px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
     
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    .hidden {
+        display: hidden;
     }
-    /* end two column layout */
-    
-    
-    /*End of centering episode rows */
-    
-    
-    
 } /* END 1366x768 SCREENS */
 
 /* FOR 1440x900 SCREENS */
 @media screen and (min-width: 1367px) and (max-width: 1440px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
@@ -686,59 +614,42 @@ nav {
         margin-right: auto;
     }
     
-        /* Centering episode rows */
+    h1 {
+        font-size: 48px;
+    }
     
-    .episodes div {
-        text-align: center;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
         float: left;
-        margin-left: 69.5px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 155px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
     
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    .hidden {
+        display: hidden;
     }
-    /* end two column layout */
-    
-    
-    /*End of centering episode rows */
-    
-    
-    
 } /* END 1440x900 SCREENS */
 
 /* FOR 1600x900 SCREENS */
 @media screen and (min-width: 1441px) and (max-width: 1601px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
@@ -749,37 +660,37 @@ nav {
         margin-right: auto;
     }
     
-        /* Centering episode rows */
+    h1 {
+        font-size: 48px;
+    }
     
-    .episodes div {
-        text-align: center;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
         float: left;
-        margin-left: 103.5px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 235px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
-        
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
     
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    .hidden {
+        display: hidden;
     }
-    /* end two column layout */
-    
-    
-    /*End of centering episode rows */
-    
-    
-    
 } /* END 1600x900 SCREENS */
 
 
@@ -787,24 +698,6 @@ nav {
 /* FOR 1680x1050 SCREENS */
 @media screen and (min-width: 1601px) and (max-width: 1680px) {
     
-    /* sets dimensions for embedded video on larger screens */
-    #intro-video-div {
-        width: 560px;
-        height: 315px;
-    }
-    
-    section h1 {
-        font-size: 36px;
-    }
-    
-    section p {
-        font-size: 20px;
-    }
-
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
-    #content-ads-holding-div { 
-        height: 1500px;
-    }
     .img-responsive {
         margin: auto;
     }
@@ -815,44 +708,42 @@ nav {
         margin-right: auto;
     }
     
-        /* Centering episode rows */
+    h1 {
+        font-size: 48px;
+    }
     
-    .episodes div {
-        text-align: center;
+    p, li {
+        font-size: 24px;
     }
 
-    /* two column layout 8 */
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
         float: left;
-        margin-left: 121px;        
-    }
-
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-right: 0px;
+        margin-left: 275px;
     }
     
-    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-top: 35px;
-        
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
     }
     
-    #v1e7-div, #v1e8-div {
-        margin-bottom: 30px;
+    .hidden {
+        display: hidden;
     }
-    /* end two column layout */
-    
-    
-    /*End of centering episode rows */
-    
-    
-    
 } /* END 1680x1050 SCREENS */
 
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
-    body {
-        position: static !important;
-    }
+    
     h1 {
         font-size: 48px;
     }
@@ -885,6 +776,10 @@ nav {
         margin: 0px !important;
         padding: 0px !important;
     }
+    
+    .hidden {
+        display: hidden;
+    }
 } /* END BIG DESKTOP SCREENS */
   
 h1, h2, h3, h4, p, li {
@@ -898,70 +793,3 @@ h1, h2, h3, h4, p, li {
     color: #000000 !important;
     font-size: 20px;
 }
-
-/* ===SLUGLINE POPUPS=== */
-
-.popup {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-/* The actual popup */
-.popup .popuptext {
-    visibility: hidden;
-    width: 320px; /* 160px */
-    background-color: #555;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 8px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-/* Popup arrow */
-.popup .popuptext::after {
-    
-}
-
-/* Toggle this class - hide and show the popup */
-.popup .show {
-    visibility: visible;
-    -webkit-animation: fadeIn 1s;
-    animation: fadeIn 1s;
-}
-
-.popup .hide{
-    visibility: hidden;
-}
-
-/* Add animation (fade in the popup) */
-@-webkit-keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity: 1;}
-}
-
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity:1 ;}
-}
-/* ===END SLUGLINE POPUPS=== */
-
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : Jul 6, 2016, 7:10:41 PM
-    Author     : Kenneth
-*/
-

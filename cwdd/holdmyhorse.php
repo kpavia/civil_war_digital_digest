@@ -23,9 +23,8 @@
   </script>
   <script>
       $(document).ready(function() {
-            
             $("#episodes-dropdown").addClass("active");
-            
+            $("#poster").fadeIn(2000).removeClass("hidden");
     }); //end ready function
   </script>
 </head>
@@ -38,6 +37,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/nav-bar.php'; ?>
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
+                <div id="top-div">
                         <h1>Hold My Horse</h1>
                         <h3>A Short Film</h3>
                         <br>
@@ -45,9 +45,10 @@
                             Prone to dressing in civilian clothes when not on duty, Civil War General Israel Richardson decides to teach a lesson to an arrogant young lieutenant tasked 
                             with delivering him a message.
                         </p>
+                </div>
                         <br>
                         <div>
-                            <img class="img-responsive" id="poster" src="/images/hold-my-horse/hmh-poster715w.jpg" />
+                            <img class="img-responsive hidden" id="poster" src="/images/hold-my-horse/hmh-poster500w.jpg" />
                         </div>
                         <br>
                         <p>
@@ -89,13 +90,12 @@
                             finally becomes available for purchase.
                         </p>
                         <div class="container-fluid" id="bottom-left">
-                            <img src="/images/hold-my-horse/director500w.jpg" class="img-responsive" id="director" />
+                            <img src="/images/hold-my-horse/director500w.jpg" class="img-responsive" id="director" /><br>
                         </div>
                         <div class="container-fluid" id="bottom-right">
                             <img src="/images/hold-my-horse/behindTheScenes500w.jpg" class="img-responsive" id="troops" />
                         </div>
                         <br>
-                        
             </div>
         </div>
         <footer class="container-fluid text-center">
