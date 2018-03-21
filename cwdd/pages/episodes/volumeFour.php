@@ -116,10 +116,18 @@
                         </div>
                         <div class="container-fluid episode-div" id="v4e5-div">
                             <p class="popup" onclick="popup()" id="episode-five-pop">Episode 5<br>Reverse Arms
-                                <span class="popuptext" id="episode-five-slugline">Reverse Arms.</span>
+                                <span class="popuptext" id="episode-five-slugline">Reverse Arms</span>
                             </p>
                             <a href="https://www.youtube.com/watch?v=-hq0V25pcyw" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e5.jpg" alt="Civil War Digital Digest Vol.4 Episode 5" id="v4e5">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e6-div">
+                            <p class="popup" onclick="popup()" id="episode-six-pop">Episode 6<br>Sharpshooter Weapons
+                                <span class="popuptext" id="episode-six-slugline">Weapons of the Sharpshooters</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=sLQm3f-a-kw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e6.jpg" alt="Civil War Digital Digest Vol.4 Episode 6" id="v4e6">
                             </a>
                         </div>
                         

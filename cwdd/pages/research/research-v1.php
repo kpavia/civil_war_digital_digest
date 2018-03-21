@@ -100,6 +100,8 @@
                     <h4><a href="#episode-six" data-toggle="collapse" class="research-collapsibles">Episode 6: Richmond Depot Jacket Type II</a></h4>
                     <div class="collapse container-fluid" id="episode-six">
                         <br>
+                        <p class="text-center"><a href="https://www.libertyrifles.org/research/uniforms-equipment/richmond-jackets" target="_blank">Liberty Rifles: Richmond Depot Jackets</a>
+                        </p>
                         <p id="episode-six-partI"><a href="http://military-historians.org/company/journal/confederate/confederate-1.htm" target="_blank">Part I</a></p>
                         <p id="episode-six-partII"><a href="http://military-historians.org/company/journal/confederate/confederate-2.htm" target="_blank">Part II</a></p>
                         <p>These links will take you to great articles where Mr. Jensen creates the typology of jackets from the Richmond Depot. We cover them briefly in the episode 
