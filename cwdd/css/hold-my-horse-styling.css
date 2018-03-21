@@ -1,0 +1,967 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #394650; /*#f1f1f1;*/
+    height: 100%;
+}
+    
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
+    padding: 15px;
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 18px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+ul, ol {
+    list-style-type: none;
+}
+    
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {
+        height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
+    }
+
+}
+    
+/* centers banner img */
+#banner-img {
+    margin: 0px auto;
+}
+    
+header {
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
+}
+
+/* === NAV BAR === */
+nav {
+    font-family: "IM Fell DW Pica", serif;  /* font style of nav bar */
+    font-size: 23px;  /* font size of nav bar */
+}
+    
+#myNavBar ul li{
+    text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
+}
+
+/* CENTERS NAV BAR */
+#nav-div-center, #nav-ul {
+    margin: 0px auto;
+}
+
+/* CENTERS NAV BAR */
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin: 0px auto;
+        float: none;
+        display: table;
+    }
+}
+
+/* === END NAV BAR === */
+
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    /* sets dimensions for embedded video on small screens */
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 100px;
+    }
+    
+} /* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 100px;
+    }
+    
+} /* END IPHONE 3, 4, 5 LANDSCAPE */
+
+ 
+
+
+/* FOR PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+
+    .episode-div p {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .episodes div {
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 100px;
+    }
+    
+} /*END PHONES IN LANDSCAPE MODE */
+
+
+/* FOR PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    #right-ad-pic {
+        content: url("/images/5th-michigan-mobile-300x250.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    #left-ad-pic {
+        content: url("/images/vict-needle-ad.jpg");
+        width: 300px;
+        height: 250px;
+    }
+    
+    
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+    
+    
+}  /* END PHONE SCREENS: PORTRAIT */
+
+
+/* FOR iPAD SCREENS, PORTRAIT */
+@media screen and (width: 768px) and (orientation: portrait) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 2650px;
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episodes div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+    }
+    
+    .episode-div img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+    
+    
+}  /* END iPAD SCREENS, PORTRAIT */
+
+
+
+
+/* FOR iPAD SCREENS, LANDSCAPE */
+
+@media screen and (orientation: landscape) and (width: 1024px) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 2850px !important;
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episodes {
+        padding: 0px;
+    }
+    
+    .episodes div {
+        float: left;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div {
+        margin-left: 145px !important;
+    }
+    
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-left: 144px !important;
+    }
+    
+    #v1e6 {
+        padding-right: 6px;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+    
+
+} /* END iPAD SCREENS, LANDSCAPE */
+
+
+/* FOR TABLET SCREENS */
+@media screen and (min-width: 853px) and (max-width: 1024px) {
+    nav {
+        font-size: 24px;
+    }
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episodes div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+    }
+    
+    #v1e8-div {
+        margin-bottom: 40px;
+    }
+    
+}  /* END TABLET SCREENS */
+
+
+/* 1152 x 864 */
+@media screen and (width: 1152px) {
+    
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 4px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    
+}
+/* END 1152 x 864 */
+
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
+@media screen and (min-width: 1153px) and (max-width: 1365px) {
+    
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+        width: 350px;
+    }
+
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 7px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    
+    /*End of centering episode rows */
+    
+    
+    
+} /* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+/* FOR 1366x768 SCREENS */
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 52.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    /* end two column layout */
+    
+    
+    /*End of centering episode rows */
+    
+    
+    
+} /* END 1366x768 SCREENS */
+
+/* FOR 1440x900 SCREENS */
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 69.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    /* end two column layout */
+    
+    
+    /*End of centering episode rows */
+    
+    
+    
+} /* END 1440x900 SCREENS */
+
+/* FOR 1600x900 SCREENS */
+@media screen and (min-width: 1441px) and (max-width: 1601px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    /* two column layout */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 103.5px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    /* end two column layout */
+    
+    
+    /*End of centering episode rows */
+    
+    
+    
+} /* END 1600x900 SCREENS */
+
+
+
+/* FOR 1680x1050 SCREENS */
+@media screen and (min-width: 1601px) and (max-width: 1680px) {
+    
+    /* sets dimensions for embedded video on larger screens */
+    #intro-video-div {
+        width: 560px;
+        height: 315px;
+    }
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 1500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p, aside p a #vict-needle-ad, #wambaugh-ad-pic {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    /* two column layout 8 */
+    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div  {
+        float: left;
+        margin-left: 121px;        
+    }
+
+    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-right: 0px;
+    }
+    
+    #v1e3-div, #v1e5-div, #v1e7-div, #v1e4-div, #v1e6-div, #v1e8-div {
+        margin-top: 35px;
+        
+    }
+    
+    #v1e7-div, #v1e8-div {
+        margin-bottom: 30px;
+    }
+    /* end two column layout */
+    
+    
+    /*End of centering episode rows */
+    
+    
+    
+} /* END 1680x1050 SCREENS */
+
+/* FOR BIG DESKTOP SCREENS: 23"+ */
+@media screen and (min-width: 1681px) {
+    body {
+        position: static !important;
+    }
+    h1 {
+        font-size: 48px;
+    }
+    
+    p, li {
+        font-size: 24px;
+    }
+
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #bottom-left {
+        float: left;
+        margin-left: 395px;
+    }
+    
+    #bottom-right {
+        margin-right: 130px;
+        
+    }
+    
+    #director, #troops {
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+} /* END BIG DESKTOP SCREENS */
+  
+h1, h2, h3, h4, p, li {
+    font-family: "IM Fell DW Pica", serif;
+    text-align: center;
+    position: static;
+}
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
+}
+
+/* ===SLUGLINE POPUPS=== */
+
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 320px; /* 160px */
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+.popup .hide{
+    visibility: hidden;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+/* ===END SLUGLINE POPUPS=== */
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 6, 2016, 7:10:41 PM
+    Author     : Kenneth
+*/
+
