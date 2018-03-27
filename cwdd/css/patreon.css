@@ -1,0 +1,433 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #394650; /*#f1f1f1;*/
+}
+    
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
+    padding: 15px;
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 18px;
+}
+    
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {
+        height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+
+}
+    
+/* centers banner img */
+#banner-img {
+    margin: 0px auto;
+}
+    
+header {
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
+}
+
+/* === NAV BAR === */
+nav {
+    font-family: "IM Fell DW Pica", serif;  /* font style of nav bar */
+    font-size: 23px;  /* font size of nav bar */
+}
+    
+#myNavBar ul li{
+    text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
+}
+
+/* CENTERS NAV BAR */
+#nav-div-center, #nav-ul {
+    margin: 0px auto;
+}
+
+/* CENTERS NAV BAR */
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin: 0px auto;
+        float: none;
+        display: table;
+    }
+}
+
+/* === END NAV BAR === */
+
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END IPHONE 3, 4, 5 LANDSCAPE */
+
+ 
+
+
+/* FOR PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /*END PHONES IN LANDSCAPE MODE */
+
+
+/* FOR PHONE SCREENS: PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 414px) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+}  /* END PHONE SCREENS: PORTRAIT */
+
+
+/* FOR iPAD SCREENS, PORTRAIT */
+@media screen and (width: 768px) and (orientation: portrait) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+}  /* END iPAD SCREENS, PORTRAIT */
+
+
+
+
+/* FOR iPAD SCREENS, LANDSCAPE */
+
+@media screen and (orientation: landscape) and (width: 1024px) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END iPAD SCREENS, LANDSCAPE */
+
+
+/* FOR TABLET SCREENS */
+@media screen and (min-width: 853px) and (max-width: 1024px) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+}  /* END TABLET SCREENS */
+
+
+/* 1152 x 864 */
+@media screen and (width: 1152px) {
+    
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+}
+/* END 1152 x 864 */
+
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
+@media screen and (min-width: 1153px) and (max-width: 1365px) {
+    
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+/* FOR 1366x768 SCREENS */
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    } 
+} /* END 1366x768 SCREENS */
+
+/* FOR 1440x900 SCREENS */
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    } 
+} /* END 1440x900 SCREENS */
+
+/* FOR 1600x900 SCREENS */
+@media screen and (min-width: 1441px) and (max-width: 1601px) {
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END 1600x900 SCREENS */
+
+
+
+/* FOR 1680x1050 SCREENS */
+@media screen and (min-width: 1601px) and (max-width: 1680px) {
+    
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+} /* END 1680x1050 SCREENS */
+
+/* FOR BIG DESKTOP SCREENS: 23"+ */
+@media screen and (min-width: 1681px) {
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
+    }
+    
+    ul {
+      list-style-type: none;
+      padding: 0px;
+    }
+    
+    li {
+        font-size: 20px;
+    }
+
+    /*End of centering episode rows */
+   
+} /* END BIG DESKTOP SCREENS */
+
+h2 {
+    text-decoration: underline;
+}
+  
+section, h1, h2, h3, h4, p {
+    font-family: "IM Fell DW Pica", serif;
+    text-align: center;
+}
+
+#left-side-aside p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 6, 2016, 7:10:41 PM
+    Author     : Kenneth
+*/
+
