@@ -7,12 +7,6 @@
 /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
 .row.content {height: 450px}
     
-/* Set gray background color and 100% height */
-.sidenav {
-    padding-top: 20px;
-    background-color: #394650; /*#f1f1f1;*/
-    height: 100%;
-}
     
 /* Set black background color, white text and some padding */
 footer {
@@ -100,58 +94,42 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
     
-    section h1 {
+    ul {
+        padding: 0px;
+    }
+    
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
         font-size: 40px;
     }
-
-    section p {
-        font-size: 25px;
-    }
     
-    /* changes ads */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
-    
-    aside p a img {
-        margin: 0px auto;
-    }
-    
-    /* changes header image */
-    #banner-img {
-        content: url("/images/CWDDPhoneBanner.jpg");
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
     }
 
-    .episodes div img {
-        text-align: center;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 35px;
-        padding: 0px;
-    }
-
-    .episode-div p {
-        padding: 0px;
-        margin: 0px;
+        padding: 0px !important;
     }
     
-    .episodes div {
-        margin-top: 100px;
-        text-align: center;
+    .hidden {
+        display: hidden;
     }
-    
-    #v1e8-div {
-        margin-bottom: 100px;
-    }
-    
 } /* END IPHONE 3, 4, 5 PORTRAIT */
 
 
@@ -164,59 +142,178 @@ nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
     
-    section h1 {
+    ul {
+        padding: 0px;
+    }
+    
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
         font-size: 40px;
     }
-
-    section p {
-        font-size: 25px;
-    }
     
-    /* changes ads */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
-    
-    aside p a img {
-        margin: 0px auto;
-    }
-    
-    /* changes header image */
-    #banner-img {
-        content: url("/images/CWDDPhoneBanner.jpg");
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
     }
 
-    .episodes div img {
-        text-align: center;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 35px;
-        padding: 0px;
-    }
-
-    .episode-div p {
-        padding: 0px;
-        margin: 0px;
+        padding: 0px !important;
     }
     
-    .episodes div {
-        margin-top: 100px;
-        text-align: center;
+    .hidden {
+        display: hidden;
     }
-    
-    #v1e8-div {
-        margin-bottom: 100px;
-    }
-    
 } /* END IPHONE 3, 4, 5 LANDSCAPE */
 
+
+/* iPhones 6, 7, 8 LANDSCAPE */
+
+@media screen and (width: 667px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    ul {
+        padding: 0px;
+    }
+    
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
+        font-size: 40px;
+    }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
+    }
+
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px !important;
+    }
+    
+    .hidden {
+        display: hidden;
+    }
+}
+/* END iPhones 6, 7, 8 LANDSCAPE */
+
+
+/* iPphones 6, 7, 8 Plus LANDSCAPE */
+@media screen and (width: 736px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    ul {
+        padding: 0px;
+    }
+    
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
+        font-size: 40px;
+    }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
+    }
+
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px !important;
+    }
+    
+    .hidden {
+        display: hidden;
+    }
+}
+ /* END iPphones 6, 7, 8 Plus LANDSCAPE */
  
+ /* iPhone X LANDSCAPE */
+ @media screen and (width: 812px) {
+     nav {
+        font-size: 20px;  /* changes font size on smaller screens */
+    }
+    
+    ul {
+        padding: 0px;
+    }
+    
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
+        font-size: 40px;
+    }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
+    }
+
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px !important;
+    }
+    
+    .hidden {
+        display: hidden;
+    }
+ }
+ 
+ /* END iPhone X LANDSCAPE */
 
 
 /* FOR PHONES IN LANDSCAPE MODE */
@@ -224,62 +321,42 @@ nav {
     nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
+    
+    ul {
+        padding: 0px;
     }
     
-    section h1 {
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
         font-size: 40px;
     }
-
-    section p {
-        font-size: 25px;
-    }
     
-    /* changes ads */
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-    }
-    
-    aside p a img {
-        margin: 0px auto;
-    }
-    
-    /* changes header image */
-    #banner-img {
-        content: url("/images/CWDDPhoneBanner.jpg");
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
     }
 
-    .episodes div img {
-        text-align: center;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 35px;
-        padding: 0px;
-    }
-
-    .episode-div p {
-        padding: 0px;
-        margin: 0px;
+        padding: 0px !important;
     }
     
-    .episodes div {
-        margin-top: 100px;
-        text-align: center;
+    .hidden {
+        display: hidden;
     }
-    
-    #v1e8-div {
-        margin-bottom: 100px;
-    }
-    
 } /*END PHONES IN LANDSCAPE MODE */
 
 
@@ -289,103 +366,81 @@ nav {
         font-size: 40px;  /* changes font size on smaller screens */
     }
     
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
+    ul {
+        padding: 0px;
     }
     
-    section h1 {
+    h1 {
+        font-size: 56px;
+    }
+    
+    h3 {
         font-size: 40px;
     }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 34px;
+    }
 
-    section p {
-        font-size: 25px;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
     }
     
-    /* changes header image */
-    #banner-img {
-        content: url("/images/CWDDPhoneBanner.jpg");
+    .img-responsive {
+        margin: auto;
     }
     
-    #right-ad-pic {
-        content: url("/images/5th-michigan-mobile-300x250.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    #left-ad-pic {
-        content: url("/images/vict-needle-ad.jpg");
-        width: 300px;
-        height: 250px;
-    }
-    
-    
-    
-    .episode-div {
-        text-align: center;
+    #director, #troops {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 35px;
-        margin-bottom: 100px;
-        padding: 0px;
+        padding: 0px !important;
     }
     
-    .episodes div p, .episode-div img {
-        padding: 0px;
+    .hidden {
+        display: hidden;
     }
-    
-    #v1e8-div {
-        margin-bottom: 40px;
-    }
-    
-    
-    
 }  /* END PHONE SCREENS: PORTRAIT */
 
 
-/* FOR iPAD SCREENS, PORTRAIT */
+/* FOR iPAD SCREENS, PORTRAIT 768x1024*/
 @media screen and (width: 768px) and (orientation: portrait) {
     nav {
         font-size: 20px;
     }
     
-    #content-ads-holding-div { 
-        height: 2650px;
+    h1 {
+        font-size: 78px;
     }
     
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
+    h3 {
+        font-size: 56px;
     }
     
-    section h1 {
-        font-size: 40px;
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 48px;
     }
 
-    section p {
-        font-size: 25px;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
     }
     
-    .episodes div {
-        text-align: center;
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
         margin-left: auto;
         margin-right: auto;
-        margin-top: 35px;
+        padding: 0px !important;
     }
     
-    .episode-div img {
-        margin-left: auto;
-        margin-right: auto;
+    .hidden {
+        display: hidden;
     }
-    
-    #v1e8-div {
-        margin-bottom: 40px;
-    }
-    
-    
-    
 }  /* END iPAD SCREENS, PORTRAIT */
 
 
@@ -395,89 +450,72 @@ nav {
 
 @media screen and (orientation: landscape) and (width: 1024px) {
     nav {
-        font-size: 20px;
+     /*   font-size: 20px; */
     }
     
+    h1 {
+        font-size: 78px;
+    }
+    
+    h3 {
+        font-size: 56px;
+    }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 48px;
+    }
+
     #content-ads-holding-div { 
-        height: 2850px !important;
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
     }
     
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
+    .img-responsive {
+        margin: auto;
     }
     
-    section h1 {
-        font-size: 40px;
-    }
-
-    section p {
-        font-size: 25px;
+    #director, #troops {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px !important;
     }
     
-    .episodes {
-        padding: 0px;
+    .hidden {
+        display: hidden;
     }
-    
-    .episodes div {
-        float: left;
-        text-align: center;
-        margin-bottom: 40px;
-    }
-    
-    #v1e1-div, #v1e3-div, #v1e5-div, #v1e7-div {
-        margin-left: 145px !important;
-    }
-    
-    #v1e2-div, #v1e4-div, #v1e6-div, #v1e8-div {
-        margin-left: 144px !important;
-    }
-    
-    #v1e6 {
-        padding-right: 6px;
-    }
-    
-    #v1e8-div {
-        margin-bottom: 40px;
-    }
-    
-    
-
 } /* END iPAD SCREENS, LANDSCAPE */
 
 
-/* FOR TABLET SCREENS */
+/* FOR TABLET SCREENS 
 @media screen and (min-width: 853px) and (max-width: 1024px) {
-    nav {
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    h1 {
+        font-size: 48px;
+    }
+    
+    p, li {
         font-size: 24px;
     }
-    /* sets dimensions for embedded video on small screens */
-    #intro-video-div {
-        height: auto;
-        width: auto;
-    }
-    
-    section h1 {
-        font-size: 40px;
-    }
 
-    section p {
-        font-size: 25px;
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
     }
     
-    .episodes div {
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 35px;
+    .img-responsive {
+        margin: auto;
     }
     
-    #v1e8-div {
-        margin-bottom: 40px;
+    .hidden {
+        display: hidden;
     }
-    
-}  /* END TABLET SCREENS */
+}   END TABLET SCREENS */
 
 
 /* 1152 x 864 */
