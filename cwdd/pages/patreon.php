@@ -63,7 +63,7 @@
                         <h2>Brigade Level</h2>
                         <ul class="text-center">
                             <li>Peter Berezuk</li>
-                            <li>Wand and Ed Eichler</li>
+                            <li>Wanda and Ed Eichler</li>
                             <li>Brian Crater</li>
                             <li>John Connors</li>
                             <li>Tim Hallman</li>

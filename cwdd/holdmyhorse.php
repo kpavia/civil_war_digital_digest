@@ -83,11 +83,6 @@
                         </p>
                         <img src="/images/hold-my-horse/eagle.jpg" class="img-responsive" />
                         <br>
-                        <p>
-                            We are proud to support our good friend and script supervisor, Patricia Frontain, and her non-profit 
-                            <a href="https://www.patrickliveson.org/" target="_blank">“Patrick Lives On to End Gun Violence” </a>
-                            by having our premiere screening at it’s film showcase.
-                        </p>
                         <div class="container-fluid" id="bottom-left">
                             <img src="/images/hold-my-horse/director500w.jpg" class="img-responsive" id="director" /><br>
                         </div>

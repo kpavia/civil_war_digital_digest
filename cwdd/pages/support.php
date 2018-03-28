@@ -88,6 +88,7 @@
                         Becoming a Patron through Patreon is a great way to get involved in the CWDD community that is growing there.  In exchange for a monthly contribution, 
                         access is provided to behind the scenes videos that can only be viewed as a Patron.
                     </p>
+                    <h3 class="text-center"><a href="http://civilwardigitaldigest.com/pages/patreon.php">Meet our Patrons</a></h3>
                     <br>
                     <br>
                     <h2>
