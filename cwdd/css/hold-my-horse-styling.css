@@ -130,6 +130,11 @@ nav {
     .hidden {
         display: hidden;
     }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
 } /* END IPHONE 3, 4, 5 PORTRAIT */
 
 
@@ -177,6 +182,11 @@ nav {
     .hidden {
         display: hidden;
     }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
 } /* END IPHONE 3, 4, 5 LANDSCAPE */
 
 
@@ -221,6 +231,11 @@ nav {
     
     .hidden {
         display: hidden;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
     }
 }
 /* END iPhones 6, 7, 8 LANDSCAPE */
@@ -267,6 +282,11 @@ nav {
     .hidden {
         display: hidden;
     }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
 }
  /* END iPphones 6, 7, 8 Plus LANDSCAPE */
  
@@ -310,6 +330,11 @@ nav {
     
     .hidden {
         display: hidden;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
     }
  }
  
@@ -357,6 +382,11 @@ nav {
     .hidden {
         display: hidden;
     }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
 } /*END PHONES IN LANDSCAPE MODE */
 
 
@@ -400,6 +430,11 @@ nav {
     
     .hidden {
         display: hidden;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
     }
 }  /* END PHONE SCREENS: PORTRAIT */
 

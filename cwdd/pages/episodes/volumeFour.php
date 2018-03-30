@@ -130,6 +130,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e6.jpg" alt="Civil War Digital Digest Vol.4 Episode 6" id="v4e6">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e7-div">
+                            <p class="popup" onclick="popup()" id="episode-seven-pop">Episode 7<br>Fry Meat & Gravy
+                                <span class="popuptext" id="episode-seven-slugline">Fry Meat & Gravy</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=j5_6BFw31RM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e7.jpg" alt="Civil War Digital Digest Vol.4 Episode 7" id="v4e7">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
