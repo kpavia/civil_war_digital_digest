@@ -107,6 +107,18 @@
                         </div>
                     </div>
                     <br>
+                    <h4><a href="#episode-seven" data-toggle="collapse" class="research-collapsibles">Episode 7: Fry Meat & Gravy</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-seven">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/Hand-Book-Active-Service-Containing-Instructions/dp/1331439051/ref=sr_1_5?ie=UTF8&qid=1522238090&sr=8-5&keywords=handbook+for+active+service+viele">
+                                    Handbook for Active Service
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <br>
                     <br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">To Volume IV Episodes</a>
