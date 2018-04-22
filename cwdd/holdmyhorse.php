@@ -66,6 +66,13 @@
                             <li> <a href="http://shaf.org/" target="_blank">The Save Historic Antietam Foundation</a> - denoting where his service ended.
                         </ul>
                         <br>
+                        <img src="/images/hold-my-horse/af-finalist500w.png" class="img-responsive" />
+                        <br>
+                        <p>
+                            We are thrilled to be accepted to screen at the Adrian International Film Festival in Adrian, Michigan on May 19, 2018. 
+                            If you are close, we hope you will join us there! Find out more at: <a href="https://www.adrianfilm.org/" target="_blank">Adrian Film Festival</a>
+                        </p>
+                        <br>
                         <img src="/images/hold-my-horse/eagle.jpg" class="img-responsive" />
                         <br>
                         <img src="/images/hold-my-horse/cast500w.jpg" class="img-responsive" />

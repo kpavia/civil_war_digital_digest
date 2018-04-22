@@ -138,6 +138,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e7.jpg" alt="Civil War Digital Digest Vol.4 Episode 7" id="v4e7">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e8-div">
+                            <p class="popup" onclick="popup()" id="episode-eight-pop">Episode 8<br>Griddle Cakes
+                                <span class="popuptext" id="episode-eight-slugline">Griddle cakes are prepared</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=sEs4HNikqx4" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e8.jpg" alt="Civil War Digital Digest Vol.4 Episode 8" id="v4e8">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

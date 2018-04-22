@@ -68,7 +68,6 @@
                             <li>John Connors</li>
                             <li>Tim Hallman</li>
                             <li>69th NYSV, Co.A</li>
-                            <li>13th NC, Co.B</li>
                             <li>Agents Campbell and Pelican's Military Goods</li>
                             <li>Hiraeth Restorations, LLC</li>
                             <li>South Union Mills</li>
