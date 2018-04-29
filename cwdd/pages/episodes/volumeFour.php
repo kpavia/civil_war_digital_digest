@@ -146,6 +146,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e8.jpg" alt="Civil War Digital Digest Vol.4 Episode 8" id="v4e8">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e9-div">
+                            <p class="popup" onclick="popup()" id="episode-nine-pop">Episode 9<br>Rest on Arms
+                                <span class="popuptext" id="episode-nine-slugline">How to Rest On Arms</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=EJ2ffx_n1cw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e9.jpg" alt="Civil War Digital Digest Vol.4 Episode 9" id="v4e9">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>

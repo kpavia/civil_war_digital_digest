@@ -119,6 +119,20 @@
                         </div>
                     </div>
                     <br>
+                    <h4><a href="#episode-nine" data-toggle="collapse" class="research-collapsibles">Episode 9: Rest on Arms</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-nine">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/0486497143/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486497143&linkCode=as2&tag=allmiccivwar-20&linkId=515badaf4f551a842c7366a0dfc52f6a">
+                                    Revised Regulations for the Army of the United States, 1861
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0486497143" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                            </p>
+                        </div>
+                    </div>
+                    <br>
                     <br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">To Volume IV Episodes</a>
