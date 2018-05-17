@@ -90,6 +90,7 @@
                             <li>Ross L. Lamoreaux</li>
                             <li>Kenneth Pavia</li>
                             <li>Scott Sheets</li>
+                            <li>Scott Gulley</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>

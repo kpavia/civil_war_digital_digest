@@ -154,6 +154,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e9.jpg" alt="Civil War Digital Digest Vol.4 Episode 9" id="v4e9">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e10-div">
+                            <p class="popup" onclick="popup()" id="episode-ten-pop">Episode 10<br>Why Pork?
+                                <span class="popuptext" id="episode-ten-slugline">Why pork was essential in the era</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=6GubMOXAYjw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e10.jpg" alt="Civil War Digital Digest Vol.4 Episode 10" id="v4e10">
+                            </a>
+                        </div>
                         
                     </div>
                     <p>
