@@ -60,12 +60,24 @@
                     <div class="container-fluid episodes">
                         <h1>Civil War Digital Digest<br> Patreon Supporters</h1>
                         <br>
-                        <h2>Brigade Level</h2>
+                        <h2>Corps Level</h2>
                         <ul class="text-center">
                             <li>Peter Berezuk</li>
-                            <li>Wanda and Ed Eichler</li>
+                            <li>Wanda & Ed Eichler</li>
+                            <li>Dora Rodriguez-Sharkey</li>
+                            <li>Cody Miller</li>
+                            <li>William Debord</li>
+                            <li>Paul Skinner</li>
+                        </ul>
+                        <br>
+                        <h2>Division Level</h2>
+                        <ul class="text-center">
                             <li>Brian Crater</li>
                             <li>John Connors</li>
+                        </ul>
+                        <br>
+                        <h2>Brigade Level</h2>
+                        <ul class="text-center">
                             <li>Tim Hallman</li>
                             <li>69th NYSV, Co.A</li>
                             <li>Agents Campbell and Pelican's Military Goods</li>
@@ -73,7 +85,6 @@
                             <li>South Union Mills</li>
                             <li>Michael Scheib</li>
                             <li>Josh Donbraska</li>
-                            <li>Cody Miller</li>
                             <li>Kyle Hibner</li>
                             <li>David and Kathleen Eichler</li>
                             <li>Jeff Williams</li>
@@ -85,12 +96,12 @@
                             <li>Mary B. Hayes</li>
                             <li>Don Woods</li>
                             <li>Robert Craig Milton</li>
-                            <li>William Debord</li>
-                            <li>Dora Rodriguez-Sharkey</li>
                             <li>Ross L. Lamoreaux</li>
                             <li>Kenneth Pavia</li>
                             <li>Scott Sheets</li>
                             <li>Scott Gulley</li>
+                            <li>Ray Lennard</li>
+                            <li>Kristopher Green</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>
@@ -123,6 +134,7 @@
                             <li>Laura Beach</li>
                             <li>Charles L. Lyons</li>
                             <li>William Eichler</li>
+                            <li>Jane Hall</li>
                         </ul>
                         
                         

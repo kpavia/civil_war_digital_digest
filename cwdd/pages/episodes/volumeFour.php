@@ -162,7 +162,22 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e10.jpg" alt="Civil War Digital Digest Vol.4 Episode 10" id="v4e10">
                             </a>
                         </div>
-                        
+                        <div class="container-fluid episode-div" id="v4e11-div">
+                            <p class="popup" onclick="popup()" id="episode-eleven-pop">Episode 11<br>Dry Cure Bacon
+                                <span class="popuptext" id="episode-eleven-slugline">How Pork was Dry Cured</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=r16iFy1Ekv0" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e11.jpg" alt="Civil War Digital Digest Vol.4 Episode 11" id="v4e11">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e12-div">
+                            <p class="popup" onclick="popup()" id="episode-twelve-pop">Episode 12<br>Womens' Short Sleeves
+                                <span class="popuptext" id="episode-twelve-slugline">Women’s Short Sleeves</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=clBOmHDkg9o" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e12.jpg" alt="Civil War Digital Digest Vol.4 Episode 12" id="v4e12">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

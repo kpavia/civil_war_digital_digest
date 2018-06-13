@@ -175,6 +175,10 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -196,6 +200,10 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -212,6 +220,10 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
     }
     
     ul {
@@ -232,6 +244,10 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
     }
     
     ul {
@@ -256,6 +272,10 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -272,6 +292,10 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
     }
     
     ul {
@@ -292,6 +316,10 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -308,6 +336,10 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
+    }
+    
+    .sidenav {
+        height: 1900px;
     }
     
     ul {
@@ -330,6 +362,10 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -348,13 +384,30 @@ nav {
         height: 100%;
     }
     
+    .sidenav {
+        height: 1900px;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
+      text-align: center;
     }
     
     li {
         font-size: 20px;
+        padding: 5px 0px;
+    }
+    .inner-divs {
+        height: 100%;
+        padding: 0px 5px;
+    }
+    
+    #diaries, #histories, #period, #reference {
+        /*height: 500px;*/
+        /*border: 1px solid black;*/
+        width: 603.3px;
+        float: left;
     }
 
     /*End of centering episode rows */
@@ -364,10 +417,6 @@ nav {
 h2 {
     text-decoration: underline;
 }
-
-.sidenav {
-        height: 2200px;
-    }
   
 section, h1, h2, h3, h4, p {
     font-family: "IM Fell DW Pica", serif;
