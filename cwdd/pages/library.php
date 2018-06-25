@@ -59,7 +59,7 @@
                 <section class="col-sm-8 text-left">
                     <div class="container-fluid episodes">
                         <h1>CWDD Library</h1>
-                        <div>
+                        <div id="top-half">
                         <div id="diaries">
                             <div class="inner-divs">
                                 <h2>Diaries & Journals</h2>
@@ -102,7 +102,7 @@
                             </div>
                         </div>
                         </div>
-                        <div>
+                        <div id="bottom-half">
                         <div id="period">
                             <div class="inner-divs">
                                 <h2>Period Text</h2>

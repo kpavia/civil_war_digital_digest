@@ -385,7 +385,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 2100px; /* 1900px */
     }
     
     ul {
@@ -403,11 +403,25 @@ nav {
         padding: 0px 5px;
     }
     
-    #diaries, #histories, #period, #reference {
+    #diaries, #histories {
         /*height: 500px;*/
         /*border: 1px solid black;*/
         width: 603.3px;
         float: left;
+        height: 100%;
+    }
+    
+    #period, #reference {
+        width: 603.3px;
+        float: left;
+    }
+    
+    #top-half {
+        height: 1291px; /* height of longest section */
+    }
+    
+    #bottom-half {
+        height: 697px; /* height of longest section */
     }
 
     /*End of centering episode rows */
