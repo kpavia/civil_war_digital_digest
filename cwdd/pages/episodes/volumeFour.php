@@ -178,6 +178,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e12.jpg" alt="Civil War Digital Digest Vol.4 Episode 12" id="v4e12">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e13-div">
+                            <p class="popup" onclick="popup()" id="episode-thirteen-pop">Episode 13<br>1816 Conversions
+                                <span class="popuptext" id="episode-thirteen-slugline">Exploring 1816 Conversions </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=F8Uarajchyo&t=258s" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e13.jpg" alt="Civil War Digital Digest Vol.4 Episode 13" id="v4e13">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
