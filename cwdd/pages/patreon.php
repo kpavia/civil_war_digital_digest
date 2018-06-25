@@ -68,6 +68,7 @@
                             <li>Cody Miller</li>
                             <li>William Debord</li>
                             <li>Paul Skinner</li>
+                            <li>Michael Comer</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
@@ -119,6 +120,7 @@
                             <li>Ginny Wood</li>
                             <li>Brian Graves</li>
                             <li>Mitch Critel</li>
+                            <li>David Firestine</li>
                         </ul>
                         <br>
                         <h2>Company Level</h2>
@@ -129,7 +131,6 @@
                             <li>Dennis Brinker</li>
                             <li>Daniel Sabin</li>
                             <li>Doug Smith</li>
-                            <li>David Firestine</li>
                             <li>Johnny Lloyd</li>
                             <li>Laura Beach</li>
                             <li>Charles L. Lyons</li>
