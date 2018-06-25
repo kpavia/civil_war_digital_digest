@@ -91,18 +91,6 @@
                                 </ul>
                             </div>
                         </div>
-                        <div id="histories">
-                            <div class="inner-divs">
-                                <h2>Regimental Histories</h2>
-                                <ul id="histories_url">
-                                    <li>History of the 40th Regiment, New York Volunteers - Fred Floyd</li>
-                                    <li>History of the 9th Regiment, Massachusetts Infantry, June 1861-June 1864 - Daniel G. MacNamara</li>
-                                    <li>History of the 19th Regiment of Maine Volunteer Infantry, 1862-1865 - John Day Smith</li>
-                                </ul>
-                            </div>
-                        </div>
-                        </div>
-                        <div id="bottom-half">
                         <div id="period">
                             <div class="inner-divs">
                                 <h2>Period Text</h2>
@@ -119,6 +107,19 @@
                                     <li>Manual of Instruction for Volunteers and Militia of the United States - William Gilham</li>
                                     <li>Revised Regulations for the Army of the United States, 1861</li>
                                     <li>Handbook for Active Service: Containing Practical Instructions in Campaign Duties; For the Use of Volunteers - Egbert L. Viele</li>
+                                </ul>
+                            </div>
+                        </div>
+                        
+                        </div>
+                        <div id="bottom-half">
+                        <div id="histories">
+                            <div class="inner-divs">
+                                <h2>Regimental Histories</h2>
+                                <ul id="histories_url">
+                                    <li>History of the 40th Regiment, New York Volunteers - Fred Floyd</li>
+                                    <li>History of the 9th Regiment, Massachusetts Infantry, June 1861-June 1864 - Daniel G. MacNamara</li>
+                                    <li>History of the 19th Regiment of Maine Volunteer Infantry, 1862-1865 - John Day Smith</li>
                                 </ul>
                             </div>
                         </div>

@@ -403,17 +403,12 @@ nav {
         padding: 0px 5px;
     }
     
-    #diaries, #histories {
+    #diaries, #histories, #period, #reference {
         /*height: 500px;*/
         /*border: 1px solid black;*/
         width: 603.3px;
         float: left;
         height: 100%;
-    }
-    
-    #period, #reference {
-        width: 603.3px;
-        float: left;
     }
     
     #top-half {
