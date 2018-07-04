@@ -70,7 +70,14 @@
                         <br>
                         <p>
                             We are thrilled to be accepted to screen at the Adrian International Film Festival in Adrian, Michigan on May 19, 2018. 
-                            If you are close, we hope you will join us there! Find out more at: <a href="https://www.adrianfilm.org/" target="_blank">Adrian Film Festival</a>
+                            If you are close, we hope you will join us there! Find out more at <a href="https://www.adrianfilm.org/" target="_blank">Adrian Film Festival</a>.
+                        </p>
+                        <br>
+                        <img src="/images/hold-my-horse/cff500w.jpg" class="img-responsive" />
+                        <br>
+                        <p>
+                            We are excited to be selected to screen at the 2018 Chesapeake Film Festival! Join us out there October 11-14, 2018. We will update here with 
+                            our screening time when we get it. Find out more about the festival at <a href="http://chesapeakefilmfestival.com/" target="_blank">Chesapeake Film Festival</a>.
                         </p>
                         <br>
                         <img src="/images/hold-my-horse/eagle.jpg" class="img-responsive" />

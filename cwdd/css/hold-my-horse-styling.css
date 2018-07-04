@@ -519,7 +519,52 @@ nav {
     .hidden {
         display: hidden;
     }
-} /* END iPAD SCREENS, LANDSCAPE */
+} 
+
+/* END iPAD SCREENS, LANDSCAPE */
+
+
+/* FOR iPAD PRO SCREENS, PORTRAIT 1024x1366 */
+
+@media screen and (orientation: portrait) and (width: 1024px) {
+    nav {
+     /*   font-size: 20px; */
+    }
+    
+    h1 {
+        font-size: 78px;
+    }
+    
+    h3 {
+        font-size: 56px;
+    }
+    
+    #content-ads-holding-div p, #content-ads-holding-div li {
+        font-size: 48px;
+    }
+
+    #content-ads-holding-div { 
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 100%;
+    }
+    
+    .img-responsive {
+        margin: auto;
+    }
+    
+    #director, #troops {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px !important;
+    }
+    
+    .hidden {
+        display: hidden;
+    }
+} 
+
+/* FOR iPAD PRO SCREENS, PORTRAIT 1024x1366 */
 
 
 /* FOR TABLET SCREENS 
