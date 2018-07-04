@@ -133,6 +133,36 @@
                         </div>
                     </div>
                     <br>
+                    <h4><a href="#episode-fourteen" data-toggle="collapse" class="research-collapsibles">Episode 14: An Iron Brigade Mystery</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-fourteen">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/Those-Damned-Black-Hats-Gettysburg/dp/1932714839/ref=sr_1_1?ie=UTF8&qid=1530708627&sr=8-1&keywords=those+damned+black+hats">
+                                    Those Damned Black Hats! The Iron Brigade in the Gettysburg Campaign - Lance J. Herdegen
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0486497143" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                                <br>
+                                <a target="_blank" href="https://www.amazon.com/Iron-Brigade-Military-History-Connections/dp/0253208637/ref=sr_1_1?s=books&ie=UTF8&qid=1530708666&sr=1-1&keywords=the+iron+brigade+a+military+history">
+                                    The Iron Brigade: A Military History - Alan T. Nolan
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0486497143" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                                <br>
+                                <a target="_blank" href="https://www.amazon.com/Chancellorsville-Gettysburg-Campaigns-Civil-War/dp/0306805499/ref=sr_1_2?s=books&ie=UTF8&qid=1530708695&sr=1-2&keywords=Gettysburg+doubleday">
+                                    Chancellorsville and Gettysburg - Abner Doubleday
+                                </a>
+                                <img src="//ir-na.amazon-adsystem.com/e/ir?t=allmiccivwar-20&l=am2&o=1&a=0486497143" width="1" height="1" border="0" alt="" 
+                                 style="border:none !important; margin:0px !important;" />
+                                <br>
+                                <a target="_blank" href="https://archive.org/details/soldierscitizens01brow">
+                                    Soldiers' and Citizens' Album of Biographical Record - Archives.org
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <br>
                     <br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">To Volume IV Episodes</a>

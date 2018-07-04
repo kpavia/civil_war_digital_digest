@@ -25,6 +25,7 @@ footer {
 /* On small screens, set height to 'auto' for sidenav and grid */
 @media screen and (max-width: 767px) {
     .sidenav {
+        height: auto;
         padding: 15px;
     }
     .row.content {
@@ -151,6 +152,11 @@ nav {
 
 /* FOR PHONE SCREENS: PORTRAIT */
 @media screen and (min-width: 167px) and (max-width: 414px) {
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 100%;
+    }
+    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -166,11 +172,11 @@ nav {
 @media screen and (width: 768px) and (orientation: portrait) {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3000px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
@@ -191,11 +197,11 @@ nav {
 @media screen and (orientation: landscape) and (width: 1024px) {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
@@ -213,11 +219,11 @@ nav {
 @media screen and (min-width: 853px) and (max-width: 1024px) {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
@@ -237,26 +243,20 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
     }
 }
 /* END 1152 x 864 */
@@ -269,26 +269,20 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2800px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
     }
 } /* END SMALL LAPTOP SCREENS: 1280 x 800 */
 
@@ -297,27 +291,21 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2700px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
-    }
+    } 
 } /* END 1366x768 SCREENS */
 
 /* FOR 1440x900 SCREENS */
@@ -325,27 +313,21 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2600px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
-    }
+    } 
 } /* END 1440x900 SCREENS */
 
 /* FOR 1600x900 SCREENS */
@@ -353,26 +335,20 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2500px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
     }
 } /* END 1600x900 SCREENS */
 
@@ -383,26 +359,20 @@ nav {
     
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2400px;
+        height: 100%;
     }
     
     .sidenav {
-        height: 100%;
+        height: 1900px;
     }
     
     ul {
       list-style-type: none;
       padding: 0px;
-      text-align: center;
     }
     
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
+    li {
         font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        height: 100%;
-        padding: 0px 5px;
     }
 } /* END 1680x1050 SCREENS */
 
@@ -411,43 +381,11 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2400px;
-    }
-    
-    .sidenav {
-        height: 100%; /* 2100px */
-    }
-    
-    ul {
-      list-style-type: none;
-      padding: 0px;
-      text-align: center;
-    }
-    
-    #diaries_journals_ul li, #period_ul li, #histories_url li, #reference_ul li {
-        font-size: 20px;
-        padding: 5px 0px;
-    }
-    .inner-divs {
-        /*height: 100%;*/
-        padding: 0px 5px;
-    }
-    
-    #diaries, #histories, #period, #reference {
-        /*height: 500px;*/
-        /*border: 1px solid black;*/
-        width: 603.3px;
-        float: left;
         height: 100%;
     }
     
-    #top-half {
-        height: 1291px; /* height of longest section */
-        margin-bottom: 50px;
-    }
-    
-    #bottom-half {
-        height: 100%; /* height of longest section 697*/
+    .sidenav {
+        height: 2100px; /* 1900px */
     }
 
     /*End of centering episode rows */

@@ -186,6 +186,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e13.jpg" alt="Civil War Digital Digest Vol.4 Episode 13" id="v4e13">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e14-div">
+                            <p class="popup" onclick="popup()" id="episode-fourteen-pop">Episode 14<br>An Iron Brigade Mystery
+                                <span class="popuptext" id="episode-fourteen-slugline">Research on the Iron Brigade</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=jWk8ssFsCmo" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e14.jpg" alt="Civil War Digital Digest Vol.4 Episode 14" id="v4e14">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
