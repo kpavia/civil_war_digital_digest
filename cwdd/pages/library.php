@@ -102,15 +102,33 @@
                                     <li>
                                         <a href="https://www.amazon.com/gp/product/080326111X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=080326111X&linkCode=as2&tag=allmiccivwar-20&linkId=427a2d3413041e091cb16fe9d7d54f8b" target="_blank">Hardtack and Coffee - John Billings</a>
                                     </li>
-                                    <li>One of Jackson's Foot Cavalry: His Experience and What He Saw during the War 1861-1865 - John H. Worsham</li>
-                                    <li>The Story of a Common Soldier of Army Life in the Civil War 1861-1865 - Leander Stillwell</li>
-                                    <li>A Soldier's Story of the Siege of Vicksburg - Osborn H. Oldroyd</li>
-                                    <li>Inside the Army of the Potomac: Civil War Experience of Cpt. Francis Adams Donaldson - J. Gregory Acken & Edwin C. Bearss</li>
-                                    <li>We Were Marching on Christmas Day - Kevin Rawlings</li>
-                                    <li>Unholy Rebellion: Civil War Diary of Charles Adam Wetherbee</li>
-                                    <li>A Mississippi Rebel in the Army of Northern Virginia: The Civil War Memoirs of Pvt. David Holt - Thomas D. Cockrell</li>
-                                    <li>Practicing Medicine in a Black Regiment: Civil War Diary of Burt G. Wilder, 55th Massachusetts - Richard M. Reid</li>
-                                    <li>Corporal Si Klegg and His "Pard" - Wilber F. Hinman</li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1467979058/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1467979058&linkCode=as2&tag=allmiccivwar-20&linkId=1fa932341229ec9c2ff90a04ccfa9df6" target="_blank">One of Jackson's Foot Cavalry: His Experience and What He Saw during the War 1861-1865 - John H. Worsham</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1532773919/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1532773919&linkCode=as2&tag=allmiccivwar-20&linkId=70d9d355e095db808fcf051ca938d92e" target="_blank">The Story of a Common Soldier of Army Life in the Civil War 1861-1865 - Leander Stillwell</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1582188416/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1582188416&linkCode=as2&tag=allmiccivwar-20&linkId=44b53be4facc5fbea89431b7a5e8e2c4" target="_blank">A Soldier's Story of the Siege of Vicksburg - Osborn H. Oldroyd</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0811709019/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0811709019&linkCode=as2&tag=allmiccivwar-20&linkId=da99e51aa4314ee77ca500322ddac744" target="_blank">Inside the Army of the Potomac: Civil War Experience of Cpt. Francis Adams Donaldson - J. Gregory Acken & Edwin C. Bearss</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0961267062/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0961267062&linkCode=as2&tag=allmiccivwar-20&linkId=42dbf8849c17f6c54a0843bd0890c3ac" target="_blank">We Were Marching on Christmas Day - Kevin Rawlings</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1483459098/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1483459098&linkCode=as2&tag=allmiccivwar-20&linkId=e0edd6f03ce19ef45b9445862d3f91d9" target="_blank">Unholy Rebellion: Civil War Diary of Charles Adam Wetherbee</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0807127345/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0807127345&linkCode=as2&tag=allmiccivwar-20&linkId=00b9e1e088ee8c7233dd347cfff7e5e7" target="_blank">A Mississippi Rebel in the Army of Northern Virginia: The Civil War Memoirs of Pvt. David Holt - Thomas D. Cockrell</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1558497390/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1558497390&linkCode=as2&tag=allmiccivwar-20&linkId=8bb606454aa5eecfbf1251d3ff6addb7" target="_blank">Practicing Medicine in a Black Regiment: Civil War Diary of Burt G. Wilder, 55th Massachusetts - Richard M. Reid</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0803224737/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0803224737&linkCode=as2&tag=allmiccivwar-20&linkId=85b628ff5b2b44fa07f32bd52c5c7abe" target="_blank">Corporal Si Klegg and His "Pard" - Wilber F. Hinman</a>
+                                    </li>
                                     <li>
                                         <a href="https://www.amazon.com/Chancellorsville-Gettysburg-Campaigns-Civil-War/dp/0306805499/ref=sr_1_2?s=books&ie=UTF8&qid=1530708695&sr=1-2&keywords=Gettysburg+doubleday" target="_blank">Chancellorsville and Gettysburg - Abner Doubleday</a>
                                     </li>
@@ -130,15 +148,37 @@
                                     <li>
                                         <a href="https://www.amazon.com/gp/product/148204613X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=148204613X&linkCode=as2&tag=allmiccivwar-20&linkId=b2ab7db7eae7054cc1257507de88d9a4" target="_blank">The Military Dictionary - HL Scott</a>
                                     </li>
-                                    <li>A Culinary Campaign - A. Soyer</li>
-                                    <li>Kentucky Housewife: Containing Nearly 1,300 Full Recipes - Lettice Bryan</li>
-                                    <li>Jerry Thomas' Bartender's Guide 1862 Reprint: How to Mix Drinks - Jerry Thomas</li>
-                                    <li>The Art of Hairwork - Mark Campbell</li>
-                                    <li>The American Hoyle, or Gentelman's Handbook of Games - Williams Brisbane Dick & Edmond Hoyle</li>
-                                    <li>Camp Fires & Camp Cooking, or Culinary Hints for the Soldier - James M. Sanderson</li>
-                                    <li>Manual of Instruction for Volunteers and Militia of the United States - William Gilham</li>
-                                    <li>Revised Regulations for the Army of the United States, 1861</li>
-                                    <li>Handbook for Active Service: Containing Practical Instructions in Campaign Duties; For the Use of Volunteers - Egbert L. Viele</li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/B018PLNWG4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018PLNWG4&linkCode=as2&tag=allmiccivwar-20&linkId=0c6067ea1b697186d6f16f96cf029ae6" target="_blank">A Culinary Campaign - A. Soyer</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1557095140/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557095140&linkCode=as2&tag=allmiccivwar-20&linkId=66c14acf8948b7d0f0240111b830f330" target="_blank">Kentucky Housewife: Containing Nearly 1,300 Full Recipes - Lettice Bryan</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1507555709/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1507555709&linkCode=as2&tag=allmiccivwar-20&linkId=f37a718b8b1386ae45cd6157f1bf08c6" target="_blank">Jerry Thomas' Bartender's Guide 1862 Reprint: How to Mix Drinks - Jerry Thomas</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0916896315/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0916896315&linkCode=as2&tag=allmiccivwar-20&linkId=6d4fe4b3cff5999410c688b4a93ebe80" target="_blank">The Art of Hairwork - Mark Campbell</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://books.google.com/books?id=NRsXAAAAYAAJ&dq=hoyle+gentleman%27s+games&pg=PA461&hl=en#v=onepage&q&f=false" target="_blank">
+                                            The American Hoyle, or Gentelman's Handbook of Games - Williams Brisbane Dick & Edmond Hoyle
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://books.google.com/books?id=QiBXAAAAcAAJ&printsec=frontcover&dq=camp+fires+and+camp+cooking+culinary&hl=en&sa=X&ved=0ahUKEwi6q_aRiK7XAhUDYiYKHdwaDuMQ6AEIKDAA#v=onepage&q=camp%20fires%20and%20camp%20cooking%20culinary&f=false" target="_blank">
+                                            Camp Fires & Camp Cooking, or Culinary Hints for the Soldier - James M. Sanderson
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0243108109/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0243108109&linkCode=as2&tag=allmiccivwar-20&linkId=3fa6c87908256c8f784d7a8cdda447f0" target="_blank">Manual of Instruction for Volunteers and Militia of the United States - William Gilham</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0486497143/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486497143&linkCode=as2&tag=allmiccivwar-20&linkId=515badaf4f551a842c7366a0dfc52f6a" target="_blank">Revised Regulations for the Army of the United States, 1861</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/Hand-Book-Active-Service-Containing-Instructions/dp/1331439051/ref=sr_1_5?ie=UTF8&qid=1522238090&sr=8-5&keywords=handbook+for+active+service+viele" target="_blank">Handbook for Active Service: Containing Practical Instructions in Campaign Duties; For the Use of Volunteers - Egbert L. Viele</a>
+                                    </li>
                                     <li>
                                         <a href="https://archive.org/details/soldierscitizens01brow" target="_blank">
                                             Soldiers' and Citizens' Album of Biographical Record - Archives.org
@@ -157,8 +197,14 @@
                                     <li>
                                         <a  href="https://www.amazon.com/gp/product/1289814880/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1289814880&linkCode=as2&tag=allmiccivwar-20&linkId=578c23d2947c9efafedd071ff5d8dbaf" target="_blank">History of the 40th Regiment, New York Volunteers - Fred Floyd</a>
                                     </li>
-                                    <li>History of the 9th Regiment, Massachusetts Infantry, June 1861-June 1864 - Daniel G. MacNamara</li>
-                                    <li>History of the 19th Regiment of Maine Volunteer Infantry, 1862-1865 - John Day Smith</li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0823220567/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0823220567&linkCode=as2&tag=allmiccivwar-20&linkId=eef054cb04fc9133f0cfe1b7a1789849" target="_blank">History of the 9th Regiment, Massachusetts Infantry, June 1861-June 1864 - Daniel G. MacNamara</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://books.google.com/books/about/The_History_of_the_Nineteenth_Regiment_o.html?id=TY4vAAAAYAAJ" target="_blank">
+                                            History of the 19th Regiment of Maine Volunteer Infantry, 1862-1865 - John Day Smith
+                                        </a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -184,11 +230,21 @@
                                     <li>
                                         <a href="https://www.amazon.com/gp/product/0852635036/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0852635036&linkCode=as2&tag=allmiccivwar-20&linkId=5a4374cc70eb636ae2daad519fec17ad" target="_blank">Jet Jewellery & Ornaments - Helen Muller</a>
                                     </li>
-                                    <li>A Taste for War: Culinary History of the Blue & the Gray - William C. Davis</li>
-                                    <li>The Loyal, True, and Brave: America's Civil War Soldiers - Steven E. Woodworth</li>
-                                    <li>Christmas in America: A History - Penne Restad</li>
-                                    <li>The Battle for Christmas: A Social & Cultural History of Our Most Cherished Holiday - Stephen Nissenbaum</li>
-                                    <li>Cadet Gray and Butternut Brown: Notes on Confederate Uniforms - Tom Arliskas</li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0811700186/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0811700186&linkCode=as2&tag=allmiccivwar-20&linkId=fc50eaf025b87c08a378d6c272183e3b" target="_blank">A Taste for War: Culinary History of the Blue & the Gray - William C. Davis</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0842029303/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0842029303&linkCode=as2&tag=allmiccivwar-20&linkId=56ccbf105c700417cbe67a006bd3e224" target="_blank">The Loyal, True, and Brave: America's Civil War Soldiers - Steven E. Woodworth</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0195109805/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195109805&linkCode=as2&tag=allmiccivwar-20&linkId=1ac1bd79a14fca45c2c48b9e0de7438a" target="_blank">Christmas in America: A History - Penne Restad</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/0679740384/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679740384&linkCode=as2&tag=allmiccivwar-20&linkId=f571b64e5fa20a7173bd092c19f584d4" target="_blank">The Battle for Christmas: A Social & Cultural History of Our Most Cherished Holiday - Stephen Nissenbaum</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.amazon.com/gp/product/1577471229/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1577471229&linkCode=as2&tag=allmiccivwar-20&linkId=0dca3a9b3cc9b14117cf802ce2371722" target="_blank">Cadet Gray and Butternut Brown: Notes on Confederate Uniforms - Tom Arliskas</a>
+                                    </li>
                                     <li>
                                         <a href="https://www.amazon.com/Iron-Brigade-Military-History-Connections/dp/0253208637/ref=sr_1_1?s=books&ie=UTF8&qid=1530708666&sr=1-1&keywords=the+iron+brigade+a+military+history" target="_blank">The Iron Brigade: A Military History - Alan T. Nolan</a>
                                     </li>
