@@ -194,6 +194,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e14.jpg" alt="Civil War Digital Digest Vol.4 Episode 14" id="v4e14">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e15-div">
+                            <p class="popup" onclick="popup()" id="episode-fifteen-pop">Episode 15<br>Cucumbers
+                                <span class="popuptext" id="episode-fifteen-slugline">A quick cucumber recipe</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=0bjaVO2QuMk" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e15.jpg" alt="Civil War Digital Digest Vol.4 Episode 15" id="v4e15">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

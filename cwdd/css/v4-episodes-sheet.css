@@ -128,7 +128,7 @@ nav {
         text-align: center;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 } /*END PHONES IN LANDSCAPE MODE */
@@ -170,7 +170,7 @@ nav {
         margin: auto !important;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 }  /* END PHONE SCREENS, PORTRAIT */
@@ -214,7 +214,7 @@ nav {
         padding: 0px;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 }
@@ -262,7 +262,7 @@ nav {
         text-align: center;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 }
@@ -307,7 +307,7 @@ nav {
         text-align: center;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 }
@@ -347,7 +347,7 @@ nav {
         padding: 0px;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 40px;
     }
 }
@@ -360,7 +360,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 5700px;
+        height: 6100px;
     }
     
     section h1 {
@@ -387,7 +387,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 50px;
     }
     
@@ -402,7 +402,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 5700px !important;
+        height: 6100px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -435,7 +435,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 50px;
     }
 
@@ -450,7 +450,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 5700px !important;
+        height: 6100px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -483,7 +483,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e14-div {
+    #v4e15-div {
         margin-bottom: 50px;
     }
 
@@ -503,7 +503,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 3300px;
     }
     .img-responsive {
         margin: auto;
@@ -534,12 +534,12 @@ nav {
         margin-left: 0px;
     }
     
-    /* for rows with one episode, set margin-left to 187.5px
-    #v4e13-div {
+    /* for rows with one episode, set margin-left to 187.5px */
+    #v4e15-div {
         margin-left: 187.5px !important;
     } 
     
-    end one episode row */
+    /* end one episode row */
 }
 /* END 1152 x 864 */
 
@@ -557,7 +557,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 3300px;
     }
     .img-responsive {
         margin: auto;
@@ -588,12 +588,12 @@ nav {
     
     /*end two column layout */
   
-    /* set margin-left to 231px if episode is on its own row
+    /* set margin-left to 231px if episode is on its own row */
     
-    #v4e13-div {
+    #v4e15-div {
         margin-left: 231px;
     }
-    end one episode row */
+    /* end one episode row */
 
     /*End of centering episode rows */
     
@@ -615,7 +615,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 3300px;
     }
     .img-responsive {
         margin: auto;
@@ -651,8 +651,8 @@ nav {
 
     /* end two column layout */
     
-    /* set margin-left to 260px if an episode is on its own row
-    #v4e13-div {
+    /* set margin-left to 260px if an episode is on its own row */
+    #v4e15-div {
         margin-left: 260px;
     }
     /* end one episode row */
@@ -679,7 +679,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 3300px;
     }
     .img-responsive {
         margin: auto;
@@ -713,12 +713,12 @@ nav {
    /* end two column layout */
     
     /* one column layout 
-    set margin-left to 283px if an episode is on its own row
-    #v4e13-div {
+    set margin-left to 283px if an episode is on its own row */
+    #v4e15-div {
         margin-left: 285px;
         margin-bottom: 25px;
     }
-    end one column layout */
+    /* end one column layout */
     
     /*End of centering episode rows */
     
@@ -740,7 +740,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2900px;
+        height: 3300px;
     }
     .img-responsive {
         margin: auto;
@@ -775,12 +775,12 @@ nav {
     
     /*end two column layout */
    
-    /*one episode row: set margin-left to 338px if one episode is on its own row
+    /*one episode row: set margin-left to 338px if one episode is on its own row */
     
-    #v4e13-div {
+    #v4e15-div {
         margin-left: 338px;
     } 
-    end one episode row */
+    /* end one episode row */
    
     
     
@@ -840,28 +840,28 @@ nav {
     /*end left column */
     
     /* middle column */
-    #v4e2-div, #v4e5-div, #v4e8-div, #v4e11-div {
+    #v4e2-div, #v4e5-div, #v4e8-div, #v4e11-div, #v4e13-div {
         margin-left: 7px;
     }
     
     /* end middle column */
     
     /*right column */
-    #v4e3-div, #v4e6-div, #v4e9-div, #v4e12-div {
+    #v4e3-div, #v4e6-div, #v4e9-div, #v4e12-div, #v4e14-div {
         margin-left: 6px !important;
     }
     /*end right column */
 
     
     /* bottom row: when there's one episode
-    #v4e13-div {
+    #v4e15-div {
         margin-left: 364.33px;
     } 
     end one episode row */
     
     
     
-    /* bottom row: when there's two episodes */
+    /* bottom row: when there's two episodes
     #v4e13-div {
         padding-right: 15px;
         margin-left: 190px;
@@ -870,7 +870,7 @@ nav {
     #v4e14-div {
         margin-left: 6px;
     }
-    /* end two episode row */
+    end two episode row */
     
 }
 
@@ -926,12 +926,12 @@ nav {
     /* 3 episode row */
     
     /*left column: set left margin */
-    #v4e1-div, #v4e4-div, #v4e7-div, #v4e10-div {
+    #v4e1-div, #v4e4-div, #v4e7-div, #v4e10-div, #v4e13-div {
         margin-left: 81.5px;
     } 
     
     /*center column: set left and right margins */
-    #v4e2-div, #v4e5-div, #v4e8-div, #v4e11-div {
+    #v4e2-div, #v4e5-div, #v4e8-div, #v4e11-div, #v4e14-div {
         margin-left: 58px;  
         margin-right: 58px;
     }
@@ -944,7 +944,7 @@ nav {
     }
     end one row*/
     
-    /* bottom row: for two episode row */
+    /* bottom row: for two episode row
     #v4e13-div{
         margin-left: 272px;
     }
@@ -952,7 +952,7 @@ nav {
     #v4e14-div {
         margin-left: 58px;
     }
-    /* end two episodes row */
+    end two episodes row */
     
 }
 
