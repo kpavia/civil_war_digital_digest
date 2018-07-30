@@ -463,6 +463,10 @@ section, h1, h2, h3, h4, p {
     text-align: center;
 }
 
+#top-intro-sentences {
+    font-size: 20px;
+}
+
 #left-side-aside p {
     margin-top: auto;
     margin-bottom: auto;

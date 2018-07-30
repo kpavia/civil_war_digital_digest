@@ -59,6 +59,9 @@
                 <section class="col-sm-8 text-left">
                     <div class="container-fluid episodes">
                         <h1>CWDD Library</h1>
+                        <p class="text-center" id="top-intro-sentences">A consolidated list of the resources used for episodes to add for your own library.<br>
+                            Many are affiliate links where you can support the Civil War Digital Digest by making your purchases through these links.
+                        </p>
                         <div id="top-half">
                         <div id="diaries">
                             <div class="inner-divs">
@@ -137,7 +140,7 @@
                         </div>
                         <div id="period">
                             <div class="inner-divs">
-                                <h2>Period Text</h2>
+                                <h2>Period Texts</h2>
                                 <ul id="period_ul">
                                     <li>
                                         <a href="https://www.amazon.com/gp/product/B00DGBMJM2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DGBMJM2&linkCode=as2&tag=allmiccivwar-20&linkId=eb200214eff610cef9fab54ad3e5368e" target="_blank">Revised US Army Regulations of 1861, printed in 1863</a>
