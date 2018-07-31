@@ -385,7 +385,7 @@ nav {
     }
     
     .sidenav {
-        height: 2100px; /* 1900px */
+        height: 900px; /* 1900px */
     }
 
     /*End of centering episode rows */
@@ -406,6 +406,19 @@ section, h1, h2, h3, h4, p {
     margin-bottom: auto;
 }
 
+#qm-ul-list {
+    text-align: center;
+    font-size: 22px;
+    list-style-type: none;
+}
+
+#qm-ul-list li {
+    padding: 5px 0px;
+}
+
+#qm-container a {
+    color: #000;
+}
 /* DROPDOWN MENU BUTTONS */
 .dropdown-menu li a, .dropdown-menu li, .icon-bar {
     color: #000000 !important;

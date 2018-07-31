@@ -57,7 +57,97 @@
                     </script>         
                 </aside>
                 <section class="col-sm-8 text-left">
-                    
+                    <div id="qm-container">
+                        <h1>CWDD Quartermaster</h1>
+                        <br>
+                        <ul id="qm-ul-list">
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00AN91QCY/_encoding=UTF8?coliid=I1R3GQV8536BE&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
+                                    Yellow Corn Meal Flour, Stone Ground
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B004VLVN7S/_encoding=UTF8?coliid=I24D36FS56A00E&amp=undefined&colid=34NAY8EDBX11N&th=1" target="_blank">
+                                    Medium Grind Cornmeal
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B004VLVK58/_encoding=UTF8?coliid=I2QJ3EB8Q62MUE&amp&colid=34NAY8EDBX11N&amp&psc=1" target="_blank">
+                                    Green Split Peas
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B004VLVQ4I/_encoding=UTF8?coliid=IOPS9WTYR27DY&amp&colid=34NAY8EDBX11N&amp&psc=1" target="_blank">
+                                    Wheat Farina
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B0039QXWWA/_encoding=UTF8?coliid=I1O9W6505KSY9Q&amp=undefined&colid=34NAY8EDBX11N&th=1" target="_blank">
+                                    Dried Potatoes
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B0039QOS3C/_encoding=UTF8?coliid=I182I2MVF89HW0&amp=undefined&colid=34NAY8EDBX11N&th=1" target="_blank">
+                                    Dried Cabbage
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B01EDWMQYI/_encoding=UTF8?coliid=ICSU5BLGGV767&amp&colid=34NAY8EDBX11N&amp&psc=1" target="_blank">
+                                    Dried Mixed Vegetables
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00F5NULEC/_encoding=UTF8?coliid=I234KJJRR58BFS&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
+                                    Hominy
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B004ZXZFU8/_encoding=UTF8?coliid=I2OYFG7C12HV3L&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
+                                    Five lbs Unbleached All Purpose Flour
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B007O58268/_encoding=UTF8?coliid=I2D7KE758GK4QK&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
+                                    Cane Sugar Rough Cut Cubes
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B001F1W8YO/_encoding=UTF8?coliid=I2Q81CLJ3D7QQH&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
+                                    Castile Soap
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00WNG4CQM/_encoding=UTF8?coliid=I2RKQWOEP5T9C&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
+                                    Lye Soap
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B0015QUCPG/_encoding=UTF8?coliid=I2LH1MN8TADO2B&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
+                                    Plain White Covered Box Wood Matches
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B0763LR4QS/_encoding=UTF8?coliid=I1VWN1551KK870&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
+                                    Cheesecloth
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00004VWLB/_encoding=UTF8?coliid=I1OAJ5HFRB76A9&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
+                                    Tool Sharpening Stone
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00002NCFX/_encoding=UTF8?coliid=I3CI9J5T830L9L&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
+                                    Wood Snath for Scythe
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/0911469192/_encoding=UTF8?coliid=I2IERS53M4S3WX&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
+                                    The Scythe Book
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
