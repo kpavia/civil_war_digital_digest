@@ -129,6 +129,14 @@ nav {
     }
 } /* END IPHONE 3, 4, 5 LANDSCAPE */
 
+
+/* iPHONE X landscape */
+@media screen and (max-width: 812px){
+    aside {
+        height: 796px;
+    }
+}
+
  
 
 
@@ -176,7 +184,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -201,7 +209,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -223,7 +231,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -247,7 +255,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -273,7 +281,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -295,7 +303,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -317,7 +325,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -339,7 +347,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
@@ -363,7 +371,7 @@ nav {
     }
     
     .sidenav {
-        height: 1900px;
+        height: 900px;
     }
     
     ul {
