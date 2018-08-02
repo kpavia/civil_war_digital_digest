@@ -60,6 +60,10 @@
                     <div id="qm-container">
                         <h1>CWDD Quartermaster</h1>
                         <br>
+                        <p class="text-center" id="top-intro-sentences">We have searched Amazon and found many ration and other items that can be useful for the living historian.
+                             Even useful for creating a soldier meal for that teacher or historian.  
+                             These are affiliate links and every purchase through these links will help support the Civil War Digital Digest.
+                        </p>
                         <ul id="qm-ul-list">
                             <li>
                                 <a href="https://www.amazon.com/dp/B00AN91QCY/_encoding=UTF8?coliid=I1R3GQV8536BE&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
@@ -77,7 +81,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.amazon.com/dp/B004VLVQ4I/_encoding=UTF8?coliid=IOPS9WTYR27DY&amp&colid=34NAY8EDBX11N&amp&psc=1" target="_blank">
+                                <a href="https://www.amazon.com/Bobs-Red-Mill-Cereal-24-Ounce/dp/B001HTG52A/ref=pd_sim_325_1?_encoding=UTF8&pd_rd_i=B001HTG52A&pd_rd_r=H3MXFWXC8039W6CMPDAR&pd_rd_w=J7nQF&pd_rd_wg=R6WHF&psc=1&refRID=H3MXFWXC8039W6CMPDAR" target="_blank">
                                     Wheat Farina
                                 </a>
                             </li>

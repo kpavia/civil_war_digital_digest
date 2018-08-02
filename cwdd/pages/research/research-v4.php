@@ -15,7 +15,6 @@
             $(document).ready(function() {
                 $("#episodes-dropdown").removeClass("active");
                 $("#research-dropdown").addClass("active");
-            
             }); //end ready function
         </script>
         <script>
@@ -68,6 +67,9 @@
                     <h1>Civil War Digital Digest</h1>
                     <h2>Research</h2>
                     <br>
+                    <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/library.php" id="library-link">Library of Sources</a>
+                    </p>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php" id="v4-top-link">To Volume IV Episodes</a>
                     </p>

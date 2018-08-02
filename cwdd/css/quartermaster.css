@@ -403,6 +403,10 @@ nav {
 h2 {
     text-decoration: underline;
 }
+
+#top-intro-sentences {
+    font-size: 20px;
+}
   
 section, h1, h2, h3, h4, p {
     font-family: "IM Fell DW Pica", serif;

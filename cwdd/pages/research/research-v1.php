@@ -51,6 +51,9 @@
                     <h2>Research</h2>
                     <br>
                     <p class="text-center">
+                        <a href="http://civilwardigitaldigest.com/pages/library.php" id="library-link">Library of Sources</a>
+                    </p>
+                    <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php" id="v2-top-link">To Volume I Episodes</a>
                     </p>
                     <p class="text-center">
