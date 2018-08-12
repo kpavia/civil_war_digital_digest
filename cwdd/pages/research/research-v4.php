@@ -181,25 +181,11 @@
                     <br>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    
-                        <!-- Responsive Adsense -->
-                    
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
-                    
-                        <ins class="adsbygoogle"
-                            style="display:block"
-                            data-ad-client="ca-pub-5786123947739131"
-                            data-ad-slot="6275650007"
-                            data-ad-format="auto"> 
-                        </ins>
-                    
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>   
-                    
-                        
+                    <p>
+                        <a href="http://www.comersgunworks.com/" target="_blank" media="screen, handheld">
+                            <img src="/images/comer-ad.jpg" class="img-responsive" id="second-right-ad-pic" alt="Link goes Comer's Gunworks">
+                        </a>
+                    </p>
                 </aside>
                 
             </div>

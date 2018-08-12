@@ -202,6 +202,22 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e15.jpg" alt="Civil War Digital Digest Vol.4 Episode 15" id="v4e15">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e16-div">
+                            <p class="popup" onclick="popup()" id="episode-sixteen-pop">Episode 16<br>Casey's Stack
+                                <span class="popuptext" id="episode-sixteen-slugline">Teaching Stack Arms</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=J0RGd_Iylc4" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e16.jpg" alt="Civil War Digital Digest Vol.4 Episode 16" id="v4e16">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e16a-div">
+                            <p class="popup" onclick="popup()" id="episode-sixteena-pop">Episode 16a<br>Drawing Rammers
+                                <span class="popuptext" id="episode-sixteena-slugline">Draw Rammers Patch</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=iObR3b8hDCI" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e16a.jpg" alt="Civil War Digital Digest Vol.4 Episode 16a" id="v4e16a">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
