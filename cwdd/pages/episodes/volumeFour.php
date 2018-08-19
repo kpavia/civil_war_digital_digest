@@ -218,6 +218,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e16a.jpg" alt="Civil War Digital Digest Vol.4 Episode 16a" id="v4e16a">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e17-div">
+                            <p class="popup" onclick="popup()" id="episode-seventeen-pop">Episode 17<br>Tomato Cakes
+                                <span class="popuptext" id="episode-seventeen-slugline">Tomato Griddle Cakes Prepared</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Q-miyflIXo8" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e17.jpg" alt="Civil War Digital Digest Vol.4 Episode 17" id="v4e17">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
