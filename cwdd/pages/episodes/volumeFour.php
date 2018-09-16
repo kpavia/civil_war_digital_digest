@@ -226,6 +226,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e17.jpg" alt="Civil War Digital Digest Vol.4 Episode 17" id="v4e17">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e18-div">
+                            <p class="popup" onclick="popup()" id="episode-eighteen-pop">Episode 18<br>All Fours
+                                <span class="popuptext" id="episode-eighteen-slugline">Learn All Fours or Old Sledge</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=kJ1DAmlMVRM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e18.jpg" alt="Civil War Digital Digest Vol.4 Episode 18" id="v4e18">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
