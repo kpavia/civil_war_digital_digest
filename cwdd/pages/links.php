@@ -106,6 +106,10 @@
                     <p>
                         <a href="http://www.rosenfeldinjurylawyers.com/historical-nurses-all-about-clara-barton.html" target="_blank">Brief history of Clara Barton</a><br>Provided by a young viewer
                     </p>
+                    <br>
+                    <p>
+                        <a href="https://hhbennettstudio.wisconsinhistory.org/">H.H. Bennett Studio</a>
+                    </p>
                     
                     
                 </section>

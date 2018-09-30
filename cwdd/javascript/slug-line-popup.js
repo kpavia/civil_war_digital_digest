@@ -16,6 +16,14 @@ $(document).ready(function() {
         $("#episode-two-slugline").removeClass("show");
     });
     
+    $("#episode-twoa-pop").mouseenter(function() {
+        $("#episode-twoa-slugline").addClass("show");
+    });
+    
+    $("#episode-twoa-pop").mouseleave(function() {
+        $("#episode-twoa-slugline").removeClass("show");
+    });
+    
     $("#episode-three-pop").mouseenter(function() {
         $("#episode-three-slugline").addClass("show");
     });
@@ -46,6 +54,14 @@ $(document).ready(function() {
     
     $("#episode-six-pop").mouseleave(function() {
         $("#episode-six-slugline").removeClass("show");
+    });
+    
+    $("#episode-sixa-pop").mouseenter(function() {
+        $("#episode-sixa-slugline").addClass("show");
+    });
+    
+    $("#episode-sixa-pop").mouseleave(function() {
+        $("#episode-sixa-slugline").removeClass("show");
     });
     
     $("#episode-seven-pop").mouseenter(function() {
@@ -80,6 +96,14 @@ $(document).ready(function() {
         $("#episode-ten-slugline").removeClass("show");
     });
     
+    $("#episode-tena-pop").mouseenter(function() {
+        $("#episode-tena-slugline").addClass("show");
+    });
+    
+    $("#episode-tena-pop").mouseleave(function() {
+        $("#episode-tena-slugline").removeClass("show");
+    });
+    
     $("#episode-eleven-pop").mouseenter(function() {
         $("#episode-eleven-slugline").addClass("show");
     });
@@ -94,6 +118,14 @@ $(document).ready(function() {
     
     $("#episode-elevenintro-pop").mouseleave(function() {
         $("#episode-elevenintro-slugline").removeClass("show");
+    });
+    
+    $("#episode-elevena-pop").mouseenter(function() {
+        $("#episode-elevena-slugline").addClass("show");
+    });
+    
+    $("#episode-elevena-pop").mouseleave(function() {
+        $("#episode-elevena-slugline").removeClass("show");
     });
     
     $("#episode-twelve-pop").mouseenter(function() {
@@ -174,6 +206,14 @@ $(document).ready(function() {
     
     $("#episode-twenty-pop").mouseleave(function() {
         $("#episode-twenty-slugline").removeClass("show");
+    });
+    
+    $("#episode-twentya-pop").mouseenter(function() {
+        $("#episode-twentya-slugline").addClass("show");
+    });
+    
+    $("#episode-twentya-pop").mouseleave(function() {
+        $("#episode-twentya-slugline").removeClass("show");
     });
     
     $("#episode-twentyone-pop").mouseenter(function() {

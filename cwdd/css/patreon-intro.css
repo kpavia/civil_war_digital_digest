@@ -316,14 +316,14 @@ nav {
 }  /* END PHONE SCREENS: PORTRAIT */
 
 
-/* FOR iPAD SCREENS, PORTRAIT */
-@media screen and (width: 768px) and (orientation: portrait) {
+/* FOR iPAD SCREENS, PORTRAIT 768px*/
+@media screen and (max-width: 1024px) and (orientation: portrait) {
     nav {
         font-size: 20px;
     }
     
     #content-ads-holding-div { 
-        height: 700px;
+        height: 1150px;
     }
     
     section h1 {
@@ -343,13 +343,13 @@ nav {
 
 /* FOR iPAD SCREENS, LANDSCAPE */
 
-@media screen and (orientation: landscape) and (width: 1024px) {
+@media screen and (orientation: landscape) and (max-width: 1366px) {
     nav {
         font-size: 20px;
     }
     
     #content-ads-holding-div { 
-        height: 700px !important;
+        height: 1150px !important;
     }
 
     section p {
@@ -515,7 +515,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 700px;
+        height: 1000px;
     }
     
     .img-responsive {
@@ -536,6 +536,22 @@ nav {
     
    
 } /* END BIG DESKTOP SCREENS */
+
+
+/* HANDLES BOTTOM FOOTER OVERFLOW */
+
+@media screen and (max-width: 500px) {
+    #content-ads-holding-div {
+        height: 100%;
+    }
+}
+
+/* END HANDLES BOTTOM FOOTER OVERFLOW */
+
+
+#patreon-logo {
+    margin-bottom: 50px;
+}
 
 #main-content {
     margin-top: 150px;

@@ -59,8 +59,7 @@
                 </aside>
                 <section class="col-sm-8 text-left">
                     <div class="container-fluid episodes" id="main-content">
-                        <br>
-                        <img src="/images/hold-my-horse/eagle.jpg" class="img-responsive text-center"/>
+                        <img src="/images/hold-my-horse/eagle.jpg" class="img-responsive text-center" id="eagle"/>
                         <br>
                         <p>This video is available to our Patrons only.<br>
                             As a group, they are called the CWDD Coffee Grinders and their support helps historic preservation as well as our efforts here.<br>
@@ -68,6 +67,11 @@
                             You will get access to all premium videos, as well as other awards based on your level of support.<br>
                             Click <a href="https://www.patreon.com/civilwardigitaldigest" target="_blank">here</a> to learn more!
                         </p>
+                        <img src="/images/vol_four_episodes/patreon_extras/patreon-intro.jpg" class="img-responsive text-center" id="patreon-pic" />
+                        <br>
+                        <a href="https://www.patreon.com/civilwardigitaldigest/" target="_blank">
+                            <img src="/images/vol_four_episodes/patreon_extras/patreon-logo.png" class="img-responsive text-center" id="patreon-logo"/>
+                        </a>
                         
                         
                         
