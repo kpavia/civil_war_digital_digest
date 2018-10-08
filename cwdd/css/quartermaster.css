@@ -371,7 +371,7 @@ nav {
     }
     
     .sidenav {
-        height: 900px;
+        height: 970px;
     }
     
     ul {
@@ -386,6 +386,8 @@ nav {
 
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
+    
+    
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
@@ -393,7 +395,7 @@ nav {
     }
     
     .sidenav {
-        height: 900px; /* 1900px */
+        height: 970px; /* 1900px */
     }
 
     /*End of centering episode rows */
@@ -418,13 +420,13 @@ section, h1, h2, h3, h4, p {
     margin-bottom: auto;
 }
 
-#qm-ul-list {
+#rations-ul-list, #tools-ul-list, #sundries-ul-list {
     text-align: center;
     font-size: 22px;
     list-style-type: none;
 }
 
-#qm-ul-list li {
+#rations-ul-list, #tools-ul-list, #sundries-ul-list {
     padding: 5px 0px;
 }
 

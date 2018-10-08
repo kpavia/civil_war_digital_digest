@@ -28,6 +28,7 @@
             
     }); //end ready function
   </script>
+  
 </head>
     <body>
         <header>
@@ -75,6 +76,7 @@
                         <ul class="text-center">
                             <li>Brian Crater</li>
                             <li>John Connors</li>
+                            <li>James Olson</li>
                         </ul>
                         <br>
                         <h2>Brigade Level</h2>
@@ -103,6 +105,8 @@
                             <li>Scott Gulley</li>
                             <li>Ray Lennard</li>
                             <li>Kristopher Green</li>
+                            <li>Tom Burke</li>
+                            <li>James Niebel</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>
@@ -121,12 +125,13 @@
                             <li>Brian Graves</li>
                             <li>Mitch Critel</li>
                             <li>David Firestine</li>
+                            <li>Ron Westlake</li>
+                            <li>Dave Rambow</li>
                         </ul>
                         <br>
                         <h2>Company Level</h2>
                         <ul class="text-center">
                             <li>James S. Brown</li>
-                            <li>William Ricketts</li>
                             <li>Sheree Watson</li>
                             <li>Dennis Brinker</li>
                             <li>Daniel Sabin</li>
@@ -136,12 +141,8 @@
                             <li>Charles L. Lyons</li>
                             <li>William Eichler</li>
                             <li>Jane Hall</li>
+                            <li>Simon Sobolewski</li>
                         </ul>
-                        
-                        
-                        
-                        
-                    
                     </div>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
@@ -168,6 +169,7 @@
         </div>
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            <script src="/javascript/copy-height.js"></script>
         </footer>
     </body>
 </html>

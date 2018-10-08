@@ -58,13 +58,14 @@
                 </aside>
                 <section class="col-sm-8 text-left">
                     <div id="qm-container">
-                        <h1>CWDD Quartermaster</h1>
+                        <h1>CWDD General Store</h1>
                         <br>
                         <p class="text-center" id="top-intro-sentences">We have searched Amazon and found many ration and other items that can be useful for the living historian.
                              Even useful for creating a soldier meal for that teacher or historian.  
                              These are affiliate links and every purchase through these links will help support the Civil War Digital Digest.
                         </p>
-                        <ul id="qm-ul-list">
+                        <h2>Rations</h2>
+                        <ul id="rations-ul-list">
                             <li>
                                 <a href="https://www.amazon.com/dp/B00AN91QCY/_encoding=UTF8?coliid=I1R3GQV8536BE&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
                                     Yellow Corn Meal Flour, Stone Ground
@@ -115,24 +116,13 @@
                                     Cane Sugar Rough Cut Cubes
                                 </a>
                             </li>
-                            <li>
-                                <a href="https://www.amazon.com/dp/B001F1W8YO/_encoding=UTF8?coliid=I2Q81CLJ3D7QQH&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
-                                    Castile Soap
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.amazon.com/dp/B00WNG4CQM/_encoding=UTF8?coliid=I2RKQWOEP5T9C&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
-                                    Lye Soap
-                                </a>
-                            </li>
+                        </ul>
+                        <br>
+                        <h2>Tools</h2>
+                        <ul id="tools-ul-list">
                             <li>
                                 <a href="https://www.amazon.com/dp/B0015QUCPG/_encoding=UTF8?coliid=I2LH1MN8TADO2B&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
                                     Plain White Covered Box Wood Matches
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://www.amazon.com/dp/B0763LR4QS/_encoding=UTF8?coliid=I1VWN1551KK870&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
-                                    Cheesecloth
                                 </a>
                             </li>
                             <li>
@@ -148,6 +138,25 @@
                             <li>
                                 <a href="https://www.amazon.com/dp/0911469192/_encoding=UTF8?coliid=I2IERS53M4S3WX&amp&colid=34NAY8EDBX11N&amp&psc=0" target="_blank">
                                     The Scythe Book
+                                </a>
+                            </li>
+                        </ul>
+                        <br>
+                        <h2>Sundries</h2>
+                        <ul id="sundries-ul-list">
+                            <li>
+                                <a href="https://www.amazon.com/dp/B001F1W8YO/_encoding=UTF8?coliid=I2Q81CLJ3D7QQH&amp;colid=34NAY8EDBX11N&amp;psc=1" target="_blank">
+                                    Castile Soap
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B00WNG4CQM/_encoding=UTF8?coliid=I2RKQWOEP5T9C&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
+                                    Lye Soap
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.amazon.com/dp/B0763LR4QS/_encoding=UTF8?coliid=I1VWN1551KK870&amp;colid=34NAY8EDBX11N&amp;psc=0" target="_blank">
+                                    Cheesecloth
                                 </a>
                             </li>
                         </ul>
