@@ -9,6 +9,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <script src="/javascript/slug-line-popup.js"></script>
+        
         <title>
             Civil War Digital Digest - Episodes Vol. III
         </title>
@@ -39,7 +40,7 @@
             </div>
         </header>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/nav-bar.php'; ?>
-        <div class="container-fluid text-center">
+        <div class="container-fluid text-center" id="top-parent-div">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                     
@@ -286,6 +287,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e20a.jpg" alt="Civil War Digital Digest Vol.4 Episode 20a" id="v4e20a">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e21-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyone-pop">Episode 21<br>Rice Pudding
+                                <span class="popuptext" id="episode-twentyone-slugline">Rice Pudding in the Field </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=IiVjF4O7kHs" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e21.jpg" alt="Civil War Digital Digest Vol.4 Episode 21" id="v4e21">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
@@ -323,7 +332,8 @@
             </div>
         </div>
         <footer class="container-fluid text-center">
-            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>  
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            <script src="/javascript/copy-height.js"></script>
         </footer>
     </body>
 </html>

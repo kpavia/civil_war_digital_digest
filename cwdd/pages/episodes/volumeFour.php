@@ -9,6 +9,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <script src="/javascript/slug-line-popup.js"></script>
+        
         <title>
             Civil War Digital Digest - Episodes Vol. III
         </title>
@@ -39,7 +40,7 @@
             </div>
         </header>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/nav-bar.php'; ?>
-        <div class="container-fluid text-center">
+        <div class="container-fluid text-center" id="top-parent-div">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                     
@@ -98,6 +99,15 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e2.jpg" alt="Civil War Digital Digest Vol.4 Episode 2" id="v4e2">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e2a-div">
+                            <p class="popup" onclick="popup()" id="episode-twoa-pop">Episode 2a<br> An Original Cartridge Box
+                                <span class="popuptext" id="episode-twoa-slugline">Examine an original cartridge box</span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e2a.jpg" 
+                                     alt="Civil War Digital Digest Vol.4 Episode 2a" id="v4e2a">
+                            </a>
+                        </div>
                         <div class="container-fluid episode-div" id="v4e3-div">
                             <p class="popup" onclick="popup()" id="episode-three-pop">Episode 3<br>Block Dominoes
                                 <span class="popuptext" id="episode-three-slugline">Block Dominoes</span>
@@ -128,6 +138,15 @@
                             </p>
                             <a href="https://www.youtube.com/watch?v=sLQm3f-a-kw" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e6.jpg" alt="Civil War Digital Digest Vol.4 Episode 6" id="v4e6">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e6a-div">
+                            <p class="popup" onclick="popup()" id="episode-sixa-pop">Episode 6a<br> Whitworth Rifle
+                                <span class="popuptext" id="episode-sixa-slugline">A closer look at a sharpshooter rifle</span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e6a.jpg" 
+                                     alt="Civil War Digital Digest Vol.4 Episode 6a" id="v4e6a">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v4e7-div">
@@ -162,12 +181,30 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e10.jpg" alt="Civil War Digital Digest Vol.4 Episode 10" id="v4e10">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e10a-div">
+                            <p class="popup" onclick="popup()" id="episode-tena-pop">Episode 10a<br> Why Pork Outtake
+                                <span class="popuptext" id="episode-tena-slugline">Outtake from shooting Why Pork episode </span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/episodes/episode-test-environ.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e10a.jpg" 
+                                     alt="Civil War Digital Digest Vol.4 Episode 10a" id="v4e10a">
+                            </a>
+                        </div>
                         <div class="container-fluid episode-div" id="v4e11-div">
                             <p class="popup" onclick="popup()" id="episode-eleven-pop">Episode 11<br>Dry Cure Bacon
                                 <span class="popuptext" id="episode-eleven-slugline">How Pork was Dry Cured</span>
                             </p>
                             <a href="https://www.youtube.com/watch?v=r16iFy1Ekv0" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e11.jpg" alt="Civil War Digital Digest Vol.4 Episode 11" id="v4e11">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e11a-div">
+                            <p class="popup" onclick="popup()" id="episode-elevena-pop">Episode 11a<br> Dry Cure Deleted Scene 
+                                <span class="popuptext" id="episode-elevena-slugline">Learn pork processing terminology</span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e11a.jpg" 
+                                     alt="Civil War Digital Digest Vol.4 Episode 11a" id="v4e11a">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v4e12-div">
@@ -234,6 +271,30 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e18.jpg" alt="Civil War Digital Digest Vol.4 Episode 18" id="v4e18">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e20-div">
+                            <p class="popup" onclick="popup()" id="episode-twenty-pop">Episode 20<br>Cold Rooms
+                                <span class="popuptext" id="episode-twenty-slugline">Cold Room</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=vVu0qUTlN54" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e20.jpg" alt="Civil War Digital Digest Vol.4 Episode 20" id="v4e20">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e20a-div">
+                            <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Rooms
+                                <span class="popuptext" id="episode-twentya-slugline">Cold Room</span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e20a.jpg" alt="Civil War Digital Digest Vol.4 Episode 20a" id="v4e20a">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e21-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyone-pop">Episode 21<br>Rice Pudding
+                                <span class="popuptext" id="episode-twentyone-slugline">Rice Pudding in the Field </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=IiVjF4O7kHs" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e21.jpg" alt="Civil War Digital Digest Vol.4 Episode 21" id="v4e21">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
@@ -271,7 +332,8 @@
             </div>
         </div>
         <footer class="container-fluid text-center">
-            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>  
+            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            <script src="/javascript/copy-height.js"></script>
         </footer>
     </body>
 </html>

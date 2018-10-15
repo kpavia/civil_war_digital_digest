@@ -4,8 +4,8 @@
     border-radius: 0;
 }
     
-/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-.row.content {height: 450px}
+/* Set height of the grid so .sidenav can be 100% (adjust as needed)
+.row.content {height: 450px} */
     
 /* Set gray background color and 100% height */
 .sidenav {
@@ -302,10 +302,6 @@ nav {
         height: 100%;
     }
     
-    .sidenav {
-        height: 900px;
-    }
-    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -324,10 +320,6 @@ nav {
         height: 100%;
     }
     
-    .sidenav {
-        height: 900px;
-    }
-    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -344,10 +336,6 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
-    }
-    
-    .sidenav {
-        height: 900px;
     }
     
     ul {
@@ -370,10 +358,6 @@ nav {
         height: 100%;
     }
     
-    .sidenav {
-        height: 970px;
-    }
-    
     ul {
       list-style-type: none;
       padding: 0px;
@@ -392,10 +376,6 @@ nav {
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
         height: 100%;
-    }
-    
-    .sidenav {
-        height: 970px; /* 1900px */
     }
 
     /*End of centering episode rows */

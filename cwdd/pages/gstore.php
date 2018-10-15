@@ -186,6 +186,7 @@
         </div>
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
+            <script src="/javascript/copy-height.js"></script>
         </footer>
     </body>
 </html>
