@@ -271,6 +271,14 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e18.jpg" alt="Civil War Digital Digest Vol.4 Episode 18" id="v4e18">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e19-div">
+                            <p class="popup" onclick="popup()" id="episode-nineteen-pop">Episode 19<br>Hudson Museum
+                                <span class="popuptext" id="episode-nineteen-slugline">Visit a local museum filled with Civil War artifacts</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=YhSS9vRwZPA" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e19.jpg" alt="Civil War Digital Digest Vol.4 Episode 19" id="v4e19">
+                            </a>
+                        </div>
                         <div class="container-fluid episode-div" id="v4e20-div">
                             <p class="popup" onclick="popup()" id="episode-twenty-pop">Episode 20<br>Cold Rooms
                                 <span class="popuptext" id="episode-twenty-slugline">Cold Room</span>
