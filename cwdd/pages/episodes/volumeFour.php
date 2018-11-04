@@ -288,7 +288,7 @@
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v4e20a-div">
-                            <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Rooms
+                            <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Room Deleted Scene
                                 <span class="popuptext" id="episode-twentya-slugline">Cold Room</span>
                             </p>
                             <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">

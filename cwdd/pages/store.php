@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="/css/second-bootstrap-stylesheet.css" >
+  <!-- <link rel="stylesheet" type="text/css" href="/css/second-bootstrap-stylesheet.css" >  -->
   <link rel="stylesheet" type="text/css" href="/css/store-sheet.css">
   <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -59,12 +59,37 @@
                     </script>       
                 </aside>
                 <section class="col-sm-8 text-left">
-                    <h1>Welcome to the Civil War Digital Digest</h1>
-                    <p>This is the store page. Coming soon so please check back for updates.</p>
+                    <br>
+                    <img src="/images/hold-my-horse/eagle.jpg" id="eagle" class="img-responsive" />
+                    <h1>
+                        <a href="http://civilwardigitaldigest.com/pages/gstore.php" rel="link to CWDD General Store">
+                            Civil War Digital Digest General Store
+                        </a>
+                    </h1>
+                    <p>Our general store is  place to find links to items we use in our episodes, whether food items or durable goods. 
+                        The links here help the Digest continue since they are affiliate links and we see a small commission from every purchase made.
+                    </p>
+                    <br>
+                    <h1>
+                        <a href="https://www.cafepress.com/civilwardigitaldigeststore" rel="link to CWDD General Store" target="_blank">
+                            Civil War Digital Digest CafePress Store
+                        </a>
+                    </h1>
+                    <p>Want to show your support for CWDD - check out the items in our cafe press store! 
+                        Whether it’s a mug, shirt, bag or other items, get your logo wear here.
+                    </p>
+                    <br>
+                    <h1>
+                        <a href="http://civilwardigitaldigest.com/pages/library.php" rel="link to CWDD General Store">
+                            Civil War Digital Digest Library
+                        </a>
+                    </h1>
+                    <p>
+                        Want to see some of the books we use for research? Here’s a partial list. 
+                        If you can make a purchase through a link in here, it’s an affiliate link and 
+                        we will see a small portion of the sale to support our efforts.
+                    </p>
                         
-                    <br><br>
-                    
-                    <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank"><img src="/images/YouTube-logo-full_color.png" class="act                      img-responsive" id="youtube-logo" /></a>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
