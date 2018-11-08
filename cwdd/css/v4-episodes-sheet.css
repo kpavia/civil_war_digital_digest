@@ -128,7 +128,7 @@ nav {
         text-align: center;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 } /*END PHONES IN LANDSCAPE MODE */
@@ -170,7 +170,7 @@ nav {
         margin: auto !important;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 }  /* END PHONE SCREENS, PORTRAIT */
@@ -214,7 +214,7 @@ nav {
         padding: 0px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 }
@@ -262,7 +262,7 @@ nav {
         text-align: center;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 }
@@ -307,7 +307,7 @@ nav {
         text-align: center;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 }
@@ -347,7 +347,7 @@ nav {
         padding: 0px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 40px;
     }
 }
@@ -360,7 +360,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 9600px;
+        height: 10550px;
     }
     
     section h1 {
@@ -387,7 +387,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 50px;
     }
     
@@ -402,7 +402,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 9600px !important;
+        height: 10550px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -435,7 +435,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 50px;
     }
 
@@ -450,7 +450,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 7300px !important;
+        height: 10550px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -483,7 +483,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-bottom: 50px;
     }
 
@@ -503,7 +503,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5000px;
+        height: 5300px;
     }
     .img-responsive {
         margin: auto;
@@ -526,16 +526,16 @@ nav {
         text-align: center;
     }
     
-    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div {
+    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div, #v4e21-div {
         margin-left: 12px;
     }
     
-    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e20-div, #v4e21-div {
+    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e20-div, #v4e21-div, #v4e22-div {
         margin-left: 0px;
     }
     
     /* for rows with one episode, set margin-left to 187.5px  */
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 187.5px !important;
     } 
     
@@ -557,7 +557,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5000px;
+        height: 5300px;
     }
     .img-responsive {
         margin: auto;
@@ -577,11 +577,11 @@ nav {
     
     /* two column layout */
     
-    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div {
+    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div, #v4e21-div {
         margin-left: 22px;
     }
     
-    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div {
+    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div, #v4e22-div {
         margin-left: 67px;
     }
 
@@ -590,7 +590,7 @@ nav {
   
     /* set margin-left to 231px if episode is on its own row */
     
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 231px;
     }
     /* end one episode row */
@@ -615,7 +615,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5000px;
+        height: 5300px;
     }
     .img-responsive {
         margin: auto;
@@ -641,18 +641,18 @@ nav {
     
     /* two column layout */
     
-    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div {
+    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div, #v4e21-div {
         margin-left: 84px;
     }
     
-    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div {
+    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div, #v4e22-div {
         margin-left: 0px;
     }
 
     /* end two column layout */
     
     /* set margin-left to 260px if an episode is on its own row */
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 260px;
     }
     /* end one episode row */
@@ -679,7 +679,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5000px;
+        height: 5300px;
     }
     .img-responsive {
         margin: auto;
@@ -702,11 +702,11 @@ nav {
         float: left;
     }
     /* two column layout */
-    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div {
+    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div, #v4e21-div {
         margin-left: 105px;
     }
     
-    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div {
+    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div, #v4e22-div {
         margin-left: 0px;
     }
    
@@ -714,7 +714,7 @@ nav {
     
     /* one column layout 
     set margin-left to 283px if an episode is on its own row  */
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 285px;
         margin-bottom: 25px;
     }
@@ -740,7 +740,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 5000px;
+        height: 5300px;
     }
     .img-responsive {
         margin: auto;
@@ -764,11 +764,11 @@ nav {
     }
     
     /* two column layout */
-    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div {
+    #v4e1-div, #v4e2a-div, #v4e4-div, #v4e6-div, #v4e7-div, #v4e9-div, #v4e10a-div, #v4e11a-div, #v4e13-div, #v4e15-div, #v4e16a-div, #v4e18-div, #v4e20-div, #v4e21-div {
         margin-left: 103.5px;
     }
     
-    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div {
+    #v4e2-div, #v4e3-div, #v4e5-div, #v4e6a-div, #v4e8-div, #v4e10-div, #v4e11-div, #v4e12-div, #v4e14-div, #v4e16-div, #v4e17-div, #v4e19-div, #v4e20a-div, #v4e22-div {
         margin-left: 117px;
     }
     
@@ -777,7 +777,7 @@ nav {
    
     /*one episode row: set margin-left to 338px if one episode is on its own row */
     
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 338px;
     } 
     /* end one episode row */
@@ -804,7 +804,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3400px; /* add 300px for new episode row */
+        height: 3700px; /* add 300px for new episode row */
     }
     .img-responsive {
         margin: auto;
@@ -861,16 +861,16 @@ nav {
     
     
     
-    /* bottom row: when there's two episodes 
-    #v4e20a-div {
+    /* bottom row: when there's two episodes */
+    #v4e22-div {
         padding-right: 15px;
         margin-left: 190px;
     } 
     
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 6px;
     }
-     end two episode row */
+    /* end two episode row */
     
 }
 
@@ -890,7 +890,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 3400px;  /* add 300px for new episode row was 3400*/
+        height: 3700px;  /* add 300px for new episode row was 3400*/
     }
     .img-responsive {
         margin: auto;
@@ -944,15 +944,15 @@ nav {
     }
      end one row*/
     
-    /* bottom row: for two episode row
-    #v4e20a-div{
+    /* bottom row: for two episode row */
+    #v4e22-div{
         margin-left: 272px;
     }
     
-    #v4e21-div {
+    #v4e23-div {
         margin-left: 58px;
     }
-     end two episodes row */
+    /* end two episodes row */
     
 }
 

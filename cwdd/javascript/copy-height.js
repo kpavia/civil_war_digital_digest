@@ -1,11 +1,13 @@
 // takes the height of the main content div
 // and assigns it to the sidebars
 
-var sideHeight = $('#content-ads-holding-div').height();
+var sideHeight = $('#main-content-section').height();
 
-if (sideHeight < 970) {
+var body = $(body).width();
+
+if (body > 1152) {
     console.log('Copying ' + sideHeight + 'px for sidebars');
-    $('.col-sm-2').height(sideHeight);
+    $('#left-side-aside').height(sideHeight);
     console.log('Sidebar height assignment complete');
 }
 else {

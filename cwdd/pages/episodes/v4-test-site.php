@@ -8,7 +8,7 @@
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-        <script src="/javascript/slug-line-popup.js"></script>
+        
         
         <title>
             Civil War Digital Digest - Episodes Vol. III
@@ -31,7 +31,7 @@
             ga('send', 'pageview');
 
         </script>
-        
+        <script src="/javascript/slug-line-popup.js"></script>
     </head> 
     <body>
         <header>
@@ -288,11 +288,12 @@
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v4e20a-div">
-                            <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Rooms
+                            <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Room Deleted Scene
                                 <span class="popuptext" id="episode-twentya-slugline">Cold Room</span>
                             </p>
                             <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
-                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e20a.jpg" alt="Civil War Digital Digest Vol.4 Episode 20a" id="v4e20a">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e20a.jpg" 
+                                     alt="Civil War Digital Digest Vol.4 Episode 20a" id="v4e20a">
                             </a>
                         </div>
                         <div class="container-fluid episode-div" id="v4e21-div">
@@ -301,6 +302,22 @@
                             </p>
                             <a href="https://www.youtube.com/watch?v=IiVjF4O7kHs" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e21.jpg" alt="Civil War Digital Digest Vol.4 Episode 21" id="v4e21">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e22-div">
+                            <p class="popup" onclick="popup()" id="episode-twentytwo-pop">Episode 22<br>Five-Card Cribbage
+                                <span class="popuptext" id="episode-twentytwo-slugline">Learn Civil War Cribbage</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=subxhTL1lSE" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e22.jpg" alt="Civil War Digital Digest Vol.4 Episode 22" id="v4e22">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e23-div">
+                            <p class="popup" onclick="popup()" id="episode-twentythree-pop">Episode 23<br>Fried Beef Steaks
+                                <span class="popuptext" id="episode-twentythree-slugline">Preparing Fried Beef Steaks</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=2wXOtbYG7UU&t=2s" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e23.jpg" alt="Civil War Digital Digest Vol.4 Episode 23" id="v4e23">
                             </a>
                         </div>
                     </div>
@@ -341,7 +358,6 @@
         </div>
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
-            <script src="/javascript/copy-height.js"></script>
         </footer>
     </body>
 </html>

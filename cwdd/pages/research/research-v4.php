@@ -177,6 +177,18 @@
                         </div>
                     </div>
                     <br>
+                    <h4><a href="#episode-twentythree" data-toggle="collapse" class="research-collapsibles">Episode 23: Fried Beef Steaks</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-twentythree">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://www.amazon.com/gp/product/1557095140/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557095140&linkCode=as2&tag=allmiccivwar-20&linkId=66c14acf8948b7d0f0240111b830f330">
+                                    Kentucky Housewife: Containing Nearly 1,300 Full Recipe
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+                    <br>
                     <br>
                     <p class="text-center">
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">To Volume IV Episodes</a>
