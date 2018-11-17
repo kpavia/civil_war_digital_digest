@@ -72,7 +72,7 @@
                     </a>
                     <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
                     
-                    <a href="http://www.cafepress.com/civilwardigitaldigeststore" media="screen, handheld" target="_blank">
+                    <a href="http://civilwardigitaldigest.com/pages/store.php" media="screen, handheld" target="_blank">
                         <img class="img-responsive menu-buttons" id="store-menu-button" src="/images/new-store-button.jpg" alt="store episodes menu button">
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/support.php" media="screen, handheld">
