@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="/css/episode-test-environ-styling.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v4-episodes-sheet.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -289,7 +289,7 @@
                         </div>
                         <div class="container-fluid episode-div" id="v4e20a-div">
                             <p class="popup" onclick="popup()" id="episode-twentya-pop">Episode 20a<br>Cold Room Deleted Scene
-                                <span class="popuptext" id="episode-twentya-slugline">Cold Room Deleted Scene</span>
+                                <span class="popuptext" id="episode-twentya-slugline">Cold Room</span>
                             </p>
                             <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e20a.jpg" 
@@ -318,6 +318,15 @@
                             </p>
                             <a href="https://www.youtube.com/watch?v=2wXOtbYG7UU&t=2s" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e23.jpg" alt="Civil War Digital Digest Vol.4 Episode 23" id="v4e23">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e24-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24<br>
+                                <span id="smaller-title">HH Bennett-Carpenter, Soldier, Photographer</span>
+                                <span class="popuptext" id="episode-twentyfour-slugline">Story of a Civil War Vet turned photographer</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=mCYNfzkMogM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e24.jpg" alt="Civil War Digital Digest Vol.4 Episode 24" id="v4e24">
                             </a>
                         </div>
                     </div>

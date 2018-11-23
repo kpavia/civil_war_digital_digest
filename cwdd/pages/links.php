@@ -104,12 +104,16 @@
                     </p>
                     <br>
                     <p>
-                        <a href="http://www.rosenfeldinjurylawyers.com/historical-nurses-all-about-clara-barton.html" target="_blank">Brief history of Clara Barton</a><br>Provided by a young viewer
+                        Provided by a young viewer<br>
+                        <a href="http://www.rosenfeldinjurylawyers.com/historical-nurses-all-about-clara-barton.html" target="_blank">
+                            Brief history of Clara Barton</a><br>
                     </p>
                     <br>
                     <p>
-                        <a href="https://hhbennettstudio.wisconsinhistory.org/">H.H. Bennett Studio</a>
+                        Plan a visit to the H.H. Bennett Studio<br>
+                        <a href="https://hhbennettstudio.wisconsinhistory.org/" target="_blank">H.H. Bennett Studio</a>
                     </p>
+                    
                     
                     
                 </section>

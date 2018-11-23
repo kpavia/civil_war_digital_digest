@@ -320,6 +320,15 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e23.jpg" alt="Civil War Digital Digest Vol.4 Episode 23" id="v4e23">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e24-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24<br>
+                                <span id="smaller-title">HH Bennett-Carpenter, Soldier, Photographer</span>
+                                <span class="popuptext" id="episode-twentyfour-slugline">Story of a Civil War Vet turned photographer</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=mCYNfzkMogM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e24.jpg" alt="Civil War Digital Digest Vol.4 Episode 24" id="v4e24">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
