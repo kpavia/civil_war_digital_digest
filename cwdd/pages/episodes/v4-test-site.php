@@ -329,6 +329,24 @@
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e24.jpg" alt="Civil War Digital Digest Vol.4 Episode 24" id="v4e24">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v4e25-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfive-pop">Episode 25<br>
+                                <span id="smaller-title">Draw Dominoes</span>
+                                <span class="popuptext" id="episode-twentyfive-slugline">Play Block Dominoes</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=0WqW2nQR2bg" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e25.jpg" alt="Civil War Digital Digest Vol.4 Episode 25" id="v4e25">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v4e26-div">
+                            <p class="popup" onclick="popup()" id="episode-twentysix-pop">Episode 26<br>
+                                <span id="smaller-title">Moore, Nast & Santa</span>
+                                <span class="popuptext" id="episode-twentysix-slugline">The story of Moore, Nast, & Santa</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=eEyWuE2Avqg&t=9s" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/vol_four_episodes/v4e26.jpg" alt="Civil War Digital Digest Vol.4 Episode 26" id="v4e26">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
