@@ -23,6 +23,7 @@
                                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">Volume II (2016)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php">Volume III (2017)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">Volume IV (2018)</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/v5-episodes.php">Volume V (2019)</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown" id="research-dropdown">
@@ -32,6 +33,7 @@
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v2.php">Volume II (2016)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v3.php">Volume III (2017)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v4.php">Volume IV (2018)</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v5.php">Volume V (2019)</a></li>
                                 </ul>
                             </li>
                             <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php" target="_blank">Store</a></li>

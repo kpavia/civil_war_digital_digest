@@ -1,6 +1,6 @@
 
 <br>
-<p>&copy; 2015 - 2018, Look Around You Ventures, LLC<br>
+<p>&copy; 2015 - 2019, Look Around You Ventures, LLC<br>
    Site built and maintained by Crow Web Design Studios<br>
-   Last updated December 20, 2018
+   Last updated January 3, 2019
 </p>

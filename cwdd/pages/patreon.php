@@ -70,6 +70,7 @@
                             <li>William Debord</li>
                             <li>Paul Skinner</li>
                             <li>Michael Comer</li>
+                            <li>Scott Johnson</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
@@ -77,6 +78,8 @@
                             <li>Brian Crater</li>
                             <li>John Connors</li>
                             <li>James Olson</li>
+                            <li>Sarah Krans</li>
+                            <li>Ethan Smith</li>
                         </ul>
                         <br>
                         <h2>Brigade Level</h2>
@@ -93,7 +96,6 @@
                             <li>Jeff Williams</li>
                             <li>Michael Collins</li>
                             <li>Michael Shafto</li>
-                            <li>Scott Johnson</li>
                             <li>Bridger Zadina</li>
                             <li>Robert Gobtop</li>
                             <li>Mary B. Hayes</li>
@@ -107,6 +109,9 @@
                             <li>Kristopher Green</li>
                             <li>Tom Burke</li>
                             <li>James Niebel</li>
+                            <li>Jason Brown</li>
+                            <li>William Green</li>
+                            <li>Andrew J. Ackeret</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>
@@ -120,18 +125,20 @@
                             <li>Greg Starbuck</li>
                             <li>Tim Koenig</li>
                             <li>Pat Price</li>
-                            <li>Andrew J. Ackeret</li>
                             <li>Ginny Wood</li>
                             <li>Brian Graves</li>
                             <li>Mitch Critel</li>
                             <li>David Firestine</li>
                             <li>Ron Westlake</li>
                             <li>Dave Rambow</li>
+                            <li>Neil Ferdinand</li>
+                            <li>Korey Saunders</li>
+                            <li>Maurice Imhoff</li>
+                            <li>Rob Van</li>
                         </ul>
                         <br>
                         <h2>Company Level</h2>
                         <ul class="text-center">
-                            <li>James S. Brown</li>
                             <li>Sheree Watson</li>
                             <li>Dennis Brinker</li>
                             <li>Daniel Sabin</li>
@@ -142,6 +149,7 @@
                             <li>William Eichler</li>
                             <li>Jane Hall</li>
                             <li>Simon Sobolewski</li>
+                            <li>Patrick Branson</li>
                         </ul>
                     </div>
                 </section>
