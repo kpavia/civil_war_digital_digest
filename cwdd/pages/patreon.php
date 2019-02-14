@@ -112,6 +112,7 @@
                             <li>Jason Brown</li>
                             <li>William Green</li>
                             <li>Andrew J. Ackeret</li>
+                            <li>Amanda Fross</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>
@@ -135,6 +136,7 @@
                             <li>Korey Saunders</li>
                             <li>Maurice Imhoff</li>
                             <li>Rob Van</li>
+                            <li>Eric Urbanas</li>
                         </ul>
                         <br>
                         <h2>Company Level</h2>
@@ -150,6 +152,8 @@
                             <li>Jane Hall</li>
                             <li>Simon Sobolewski</li>
                             <li>Patrick Branson</li>
+                            <li>Craig Marshall</li>
+                            <li>Steve Milam</li>
                         </ul>
                     </div>
                 </section>

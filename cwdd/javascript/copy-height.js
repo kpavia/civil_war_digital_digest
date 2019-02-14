@@ -2,14 +2,16 @@
 // and assigns it to the sidebars
 
 var sideHeight = $('#main-content-section').height();
+var original = $('#content-ads-holding-div').height();
 
-var body = $(body).width();
+var body = $('body').width();
 
 if (body > 1152) {
     console.log('Copying ' + sideHeight + 'px for sidebars');
-    $('#left-side-aside').height(sideHeight);
+    var newHeight = sideHeight;
+    $('#content-ads-holding-div').height(newHeight);
     console.log('Sidebar height assignment complete');
 }
-else {
+if (body < 1152) {
     console.log('Mobile detected. Sidebar copying canceled.');
 }

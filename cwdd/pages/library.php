@@ -254,6 +254,11 @@
                                     <li>
                                         <a href="https://www.amazon.com/Those-Damned-Black-Hats-Gettysburg/dp/1932714839/ref=sr_1_1?ie=UTF8&qid=1530708627&sr=8-1&keywords=those+damned+black+hats" target="_blank">Those Damned Black Hats! The Iron Brigade in the Gettysburg Campaign - Lance J. Herdegen</a>
                                     </li>
+                                    <li>
+                                        <a href="https://books.google.com/books/about/The_Military_Hand_book_and_Soldier_s_Man.html?id=sMwpAAAAYAAJ" target="_blank">
+                                            The Military Handbook and Soldier's Manual of Information
+                                        </a>
+                                    </li>
                                 </ul>
                                 </ul>
                             </div>

@@ -90,7 +90,30 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e1.jpg" alt="Civil War Digital Digest Vol.5 Episode 1" id="v5e1">
                             </a>
                         </div>
-                        
+                        <div class="container-fluid episode-div" id="v5e2-div">
+                            <p class="popup" onclick="popup()" id="episode-two-pop">Episode 2<br>From Erasers to Tires
+                                <span class="popuptext" id="episode-two-slugline">Introduction to Rubber in 19th Century</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=j-XmsKbXXoM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e2.jpg" alt="Civil War Digital Digest Vol.5 Episode 2" id="v5e2">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e3-div">
+                            <p class="popup" onclick="popup()" id="episode-three-pop">Episode 3<br>Brass Bands
+                                <span class="popuptext" id="episode-three-slugline">Brass Bands in the War</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=7cPbuTLVYJQ" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e3.jpg" alt="Civil War Digital Digest Vol.5 Episode 3" id="v5e3">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e4-div">
+                            <p class="popup" onclick="popup()" id="episode-four-pop">Episode 4<br>Pineapple
+                                <span class="popuptext" id="episode-four-slugline">To Eat Fresh Pineapple</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Zz2QzqthBng" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e4.jpg" alt="Civil War Digital Digest Vol.5 Episode 4" id="v5e4">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
