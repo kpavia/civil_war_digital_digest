@@ -114,6 +114,30 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e4.jpg" alt="Civil War Digital Digest Vol.5 Episode 4" id="v5e4">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e5-div">
+                            <p class="popup" onclick="popup()" id="episode-five-pop">Episode 5<br>US Blankets Couching Stitch
+                                <span class="popuptext" id="episode-five-slugline">One way to stitch US on blankets</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=tzEfiOdeQqY" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e5.jpg" alt="Civil War Digital Digest Vol.5 Episode 5" id="v5e5">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e5a-div">
+                            <p class="popup" onclick="popup()" id="episode-fivea-pop">Episode 5a<br>Blanket Stitch
+                                <span class="popuptext" id="episode-fivea-slugline">Blanket Stitch</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=ZkBEYX2Lggw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e5a.jpg" alt="Civil War Digital Digest Vol.5 Episode 5a" id="v5e5a">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e6-div">
+                            <p class="popup" onclick="popup()" id="episode-six-pop">Episode 6<br>Photographic Types
+                                <span class="popuptext" id="episode-six-slugline">Explore different photograph types</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Zfs65t6uqq4&t=1s" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e6.jpg" alt="Civil War Digital Digest Vol.5 Episode 6" id="v5e6">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

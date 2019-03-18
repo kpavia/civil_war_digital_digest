@@ -48,6 +48,14 @@ $(document).ready(function() {
         $("#episode-five-slugline").removeClass("show");
     });
     
+    $("#episode-fivea-pop").mouseenter(function() {
+        $("#episode-fivea-slugline").addClass("show");
+    });
+    
+    $("#episode-fivea-pop").mouseleave(function() {
+        $("#episode-fivea-slugline").removeClass("show");
+    });
+    
     $("#episode-six-pop").mouseenter(function() {
         $("#episode-six-slugline").addClass("show");
     });

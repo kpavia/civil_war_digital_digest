@@ -64,21 +64,21 @@
                         <h2>Corps Level</h2>
                         <ul class="text-center">
                             <li>Peter Berezuk</li>
-                            <li>Wanda & Ed Eichler</li>
-                            <li>Dora Rodriguez-Sharkey</li>
-                            <li>Cody Miller</li>
-                            <li>William Debord</li>
-                            <li>Paul Skinner</li>
                             <li>Michael Comer</li>
+                            <li>William Debord</li>
+                            <li>Justin Dorsey</li>
+                            <li>Wanda & Ed Eichler</li>
                             <li>Scott Johnson</li>
+                            <li>Cody Miller</li>
+                            <li>Dora Rodriguez-Sharkey</li>
+                            <li>Paul Skinner</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
                         <ul class="text-center">
-                            <li>Brian Crater</li>
                             <li>John Connors</li>
+                            <li>Brian Crater</li>
                             <li>James Olson</li>
-                            <li>Sarah Krans</li>
                             <li>Ethan Smith</li>
                         </ul>
                         <br>
