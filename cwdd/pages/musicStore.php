@@ -53,7 +53,7 @@
                                 <th>Purchase</th>
                             </tr>
                             <tr>
-                                <td><a style="font-size: 20px;" href="/audio/03 Friends and Lovers.wma">Friends & Lovers</a></td>
+                                <td><a style="font-size: 20px;" href="/audio/friendsandlovers.wma">Friends & Lovers</a></td>
                                 <td>Incubus</td>
                                 <td>$0.01</td>
                                 <td>
@@ -62,6 +62,21 @@
                                         <input type="hidden" name="hosted_button_id" value="BKLGCPE5U5K7E">
                                         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" 
                                             alt="PayPal - The safer, easier way to pay online!">
+                                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                                    </form>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Promises, Promises</td>
+                                <td>Incubus</td>
+                                <td>$0.01</td>
+                                <td>
+                                    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                                        <input type="hidden" name="cmd" value="_s-xclick">
+                                        <input type="hidden" name="hosted_button_id" value="W4WFKELZFCWN8">
+                                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" 
+                                               border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                                         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                                     </form>
 

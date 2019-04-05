@@ -138,6 +138,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e6.jpg" alt="Civil War Digital Digest Vol.5 Episode 6" id="v5e6">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e7-div">
+                            <p class="popup" onclick="popup()" id="episode-seven-pop">Episode 7<br>Chain Stitch
+                                <span class="popuptext" id="episode-seven-slugline">How to chain stitch on blankets</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=AkCppBqu0M0" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e7.jpg" alt="Civil War Digital Digest Vol.5 Episode 7" id="v5e7">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
