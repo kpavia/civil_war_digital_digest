@@ -88,6 +88,14 @@ $(document).ready(function() {
         $("#episode-eight-slugline").removeClass("show");
     });
     
+    $("#episode-eighta-pop").mouseenter(function() {
+        $("#episode-eighta-slugline").addClass("show");
+    });
+    
+    $("#episode-eighta-pop").mouseleave(function() {
+        $("#episode-eighta-slugline").removeClass("show");
+    });
+    
     $("#episode-nine-pop").mouseenter(function() {
         $("#episode-nine-slugline").addClass("show");
     });

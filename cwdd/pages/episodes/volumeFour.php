@@ -185,7 +185,7 @@
                             <p class="popup" onclick="popup()" id="episode-tena-pop">Episode 10a<br> Why Pork Outtake
                                 <span class="popuptext" id="episode-tena-slugline">Outtake from shooting Why Pork episode </span>
                             </p>
-                            <a href="http://civilwardigitaldigest.com/pages/episodes/episode-test-environ.php" target="_blank">
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/vol_four_episodes/patreon_extras/v4e10a.jpg" 
                                      alt="Civil War Digital Digest Vol.4 Episode 10a" id="v4e10a">
                             </a>

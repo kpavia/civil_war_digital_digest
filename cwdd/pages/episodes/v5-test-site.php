@@ -154,6 +154,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e8.jpg" alt="Civil War Digital Digest Vol.5 Episode 8" id="v5e8">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e8a-div">
+                            <p class="popup" onclick="popup()" id="episode-eighta-pop">Episode 8a<br>Hard Rubber Deleted Scene
+                                <span class="popuptext" id="episode-eighta-slugline">Hard Rubber Deleted Scene</span>
+                            </p>
+                            <a href="http://civilwardigitaldigest.com/pages/patreon-intro.php" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e8.jpg" alt="Civil War Digital Digest Vol.5 Episode 8" id="v5e8a">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
