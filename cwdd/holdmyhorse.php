@@ -66,6 +66,12 @@
                             <li> <a href="http://shaf.org/" target="_blank">The Save Historic Antietam Foundation</a> - denoting where his service ended.
                         </ul>
                         <br>
+                        <img src="/images/hold-my-horse/wisconsinFilm500w.png" class="img-responsive" />
+                        <br>
+                        <p>
+                            We were proud to screen in the “Stories We Tell in Wisconsin” at the Wisconsin Film Festival on April 6, 2019.
+                        </p>
+                        <br>
                         <img src="/images/hold-my-horse/cff500w.jpg" class="img-responsive" />
                         <br>
                         <p>

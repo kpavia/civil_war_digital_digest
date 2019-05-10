@@ -22,7 +22,6 @@
 
                 ga('create', 'UA-81785309-2', 'auto');
                 ga('send', 'pageview');
-
             </script>
 </head>
     <body>
@@ -31,11 +30,9 @@
                 <img src="images/cwddBanner.jpg" class="img-responsive" id="banner-img">
             </div>
         </header>
-        
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                    
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     <!-- CWDDIndexResponsive -->
                     <ins class="adsbygoogle"
@@ -54,10 +51,9 @@
                         Avid living historians, relaxed armchair generals and teachers will find resources that both educate and entertain.
                     </p>
                     <br>
-                    
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
-                        <iframe id="current-video" src="https://www.youtube.com/embed/zj9027rDDUU" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/OEvycc4uuyI" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -93,8 +89,7 @@
                     <br>
                     <h2>Our Introduction Episode</h2>
                     <div id="intro-video-div">
-                        <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe> 
-                        
+                        <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <br><br>
                     <p>
@@ -103,7 +98,6 @@
                         </a>
                     </p>
                     <br><br>
-                    
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
@@ -117,19 +111,12 @@
                     </ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>    
-                        
+                    </script>
                 </aside>
             </div>
-            
-            
         </div>
-
         <footer class="container-fluid text-center">
             <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
-            
-            
         </footer>
-
     </body>
 </html>

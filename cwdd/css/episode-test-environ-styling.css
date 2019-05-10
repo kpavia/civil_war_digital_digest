@@ -128,7 +128,7 @@ nav {
         text-align: center;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 } /*END PHONES IN LANDSCAPE MODE */
@@ -170,7 +170,7 @@ nav {
         margin: auto !important;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 }  /* END PHONE SCREENS, PORTRAIT */
@@ -214,7 +214,7 @@ nav {
         padding: 0px;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 }
@@ -262,7 +262,7 @@ nav {
         text-align: center;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 }
@@ -307,7 +307,7 @@ nav {
         text-align: center;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 }
@@ -347,7 +347,7 @@ nav {
         padding: 0px;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 40px;
     }
 }
@@ -360,7 +360,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 3900px;
+        height: 4900px;
     }
     
     section h1 {
@@ -387,7 +387,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 50px;
     }
     
@@ -402,7 +402,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 3400px !important;
+        height: 4800px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -435,7 +435,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 50px;
     }
 
@@ -450,7 +450,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 4300px !important;
+        height: 4700px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -483,7 +483,7 @@ nav {
         margin-top: 30px;
     }
     
-    #v5e8a-div {
+    #v5e10-div {
         margin-bottom: 50px;
     }
 
@@ -503,7 +503,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2500px;
     }
     .img-responsive {
         margin: auto;
@@ -526,11 +526,11 @@ nav {
         text-align: center;
     }
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
         margin-left: 12px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
         margin-left: 0px;
     }
     
@@ -558,7 +558,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2500px;
     }
     .img-responsive {
         margin: auto;
@@ -577,11 +577,11 @@ nav {
     
     /* two column layout */
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
         margin-left: 22px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
         margin-left: 67px;
     }
 
@@ -615,7 +615,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2500px;
     }
     .img-responsive {
         margin: auto;
@@ -641,11 +641,11 @@ nav {
     
     /* two column layout */
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
         margin-left: 84px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
         margin-left: 0px;
     }
 
@@ -679,7 +679,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px;
+        height: 2500px;
     }
     .img-responsive {
         margin: auto;
@@ -702,11 +702,11 @@ nav {
         float: left;
     }
     /* two column layout */
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
         margin-left: 105px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
         margin-left: 0px;
     }
    
@@ -740,7 +740,7 @@ nav {
 
     /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
     #content-ads-holding-div { 
-        height: 2200px; /* add 600px */
+        height: 2500px; /* add 300px */
     }
     .img-responsive {
         margin: auto;
@@ -764,12 +764,12 @@ nav {
     }
     
     /* two column layout */
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div
     {
         margin-left: 103.5px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div 
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div
     {
         margin-left: 117px;
     }
@@ -836,30 +836,30 @@ nav {
     }
     
     /* left column: set left margin */
-    #v5e1-div, #v5e4-div, #v5e6-div {
+    #v5e1-div, #v5e4-div, #v5e6-div, #v5e8a-div {
         margin-left: 6px;
     } 
     /* end left column */
     
     /* middle column */
-    #v5e2-div, #v5e5-div, #v5e7-div {
+    #v5e2-div, #v5e5-div, #v5e7-div, #v5e9-div {
         margin-left: 7px;
     }
     
     /* end middle column */
     
     /*right column */
-    #v5e3-div, #v5e5a-div, #v5e8-div {
+    #v5e3-div, #v5e5a-div, #v5e8-div, #v5e10-div {
         margin-left: 6px !important;
     }
     /* end right column */
 
     
-    /* bottom row: when there's one episode */
+    /* bottom row: when there's one episode
     #v5e8a-div {
         margin-left: 364.33px;
     } 
-    /* end one episode row */
+    /end one episode row */
     
     
     
@@ -929,23 +929,23 @@ nav {
     
     /* left column: set left margin */
     
-    #v5e1-div, #v5e4-div, #v5e6-div {
+    #v5e1-div, #v5e4-div, #v5e6-div, #v5e8a-div {
         margin-left: 81.5px;
     } 
     
     /* center column: set left and right margins */
-    #v5e2-div, #v5e5-div, #v5e7-div  {
+    #v5e2-div, #v5e5-div, #v5e7-div, #v5e9-div  {
         margin-left: 58px;  
         margin-right: 58px;
     }
     
     /* end 3 episode row */
     
-    /* bottom row: for when there's a single episode */
+    /* bottom row: for when there's a single episode
     #v5e8a-div {
         margin-left: 460.33px;
     }
-    /* end one row*/
+    end one row*/
     
     /* bottom row: for two episode row
     #v5e6-div {

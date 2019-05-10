@@ -162,6 +162,22 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e8.jpg" alt="Civil War Digital Digest Vol.5 Episode 8" id="v5e8a">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e9-div">
+                            <p class="popup" onclick="popup()" id="episode-nine-pop">Episode 9<br>Brass Band Voices
+                                <span class="popuptext" id="episode-nine-slugline">Learn about military brass bands</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=zj9027rDDUU" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e9.jpg" alt="Civil War Digital Digest Vol.5 Episode 9" id="v5e9">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e10-div">
+                            <p class="popup" onclick="popup()" id="episode-ten-pop">Episode 10<br>The Hall Rifle
+                                <span class="popuptext" id="episode-ten-slugline">Learn about the Hall Rifle </span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=OEvycc4uuyI" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e10.jpg" alt="Civil War Digital Digest Vol.5 Episode 10" id="v5e10">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
