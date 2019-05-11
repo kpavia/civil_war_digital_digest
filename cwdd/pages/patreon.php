@@ -68,92 +68,100 @@
                             <li>William Debord</li>
                             <li>Justin Dorsey</li>
                             <li>Wanda & Ed Eichler</li>
+                            <li>Jenkins & Company</li>
                             <li>Scott Johnson</li>
                             <li>Cody Miller</li>
                             <li>Dora Rodriguez-Sharkey</li>
                             <li>Paul Skinner</li>
+                            <li>Matthew Tolan</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
                         <ul class="text-center">
                             <li>John Connors</li>
                             <li>Brian Crater</li>
+                            <li>Robert Dickson</li>
                             <li>James Olson</li>
                             <li>Ethan Smith</li>
                         </ul>
                         <br>
                         <h2>Brigade Level</h2>
                         <ul class="text-center">
-                            <li>Tim Hallman</li>
-                            <li>69th NYSV, Co.A</li>
-                            <li>Agents Campbell and Pelican's Military Goods</li>
-                            <li>Hiraeth Restorations, LLC</li>
-                            <li>South Union Mills</li>
-                            <li>Michael Scheib</li>
-                            <li>Josh Donbraska</li>
-                            <li>Kyle Hibner</li>
-                            <li>David and Kathleen Eichler</li>
-                            <li>Jeff Williams</li>
-                            <li>Michael Collins</li>
-                            <li>Michael Shafto</li>
-                            <li>Bridger Zadina</li>
-                            <li>Robert Gobtop</li>
-                            <li>Mary B. Hayes</li>
-                            <li>Don Woods</li>
-                            <li>Robert Craig Milton</li>
-                            <li>Ross L. Lamoreaux</li>
-                            <li>Kenneth Pavia</li>
-                            <li>Scott Sheets</li>
-                            <li>Scott Gulley</li>
-                            <li>Ray Lennard</li>
-                            <li>Kristopher Green</li>
-                            <li>Tom Burke</li>
-                            <li>James Niebel</li>
-                            <li>Jason Brown</li>
-                            <li>William Green</li>
                             <li>Andrew J. Ackeret</li>
+                            <li>Agents Campbell and Pelican's Military Goods</li>
+                            <li>Jason Brown</li>
+                            <li>Tom Burke</li>
+                            <li>Michael Collins</li>
+                            <li>Josh Donbraska</li>
+                            <li>David & Kathleen Eichler</li>
                             <li>Amanda Fross</li>
+                            <li>Robert Gobtop</li>
+                            <li>Kristopher Green</li>
+                            <li>William Green</li>
+                            <li>Scott Gulley</li>
+                            <li>Tim Hallman</li>
+                            <li>Mary B. Hayes</li>
+                            <li>Chris Henderson</li>
+                            <li>Kyle Hibner</li>
+                            <li>Hiraeth Restorations, LLC</li>
+                            <li>Robert Huck</li>
+                            <li>Ross L. Lamoreaux</li>
+                            <li>Ray Lennard</li>
+                            <li>Robert Craig Milton</li>
+                            <li>James Niebel</li>
+                            <li>Kenneth Pavia</li>
+                            <li>Michael Scheib</li>
+                            <li>Michael Shafto</li>
+                            <li>Scott Sheets</li>
+                            <li>South Union Mills</li>
+                            <li>Jeff Williams</li>
+                            <li>Don Woods</li>
+                            <li>Bridger Zadina</li>
+                            <li>9th Ohio: A Living History</li>
+                            <li>69th NYSV, Co.A</li>
                         </ul>
                         <br>
                         <h2>Regimental Level</h2>
                         <ul class="text-center">
-                            <li>John Weaver</li>
-                            <li>Konstantin Nikolaievich</li>
-                            <li>Aaron Rowland</li>
-                            <li>Eugene West</li>
-                            <li>Greg Swank</li>
-                            <li>Scott Parish</li>
-                            <li>Greg Starbuck</li>
-                            <li>Tim Koenig</li>
-                            <li>Pat Price</li>
-                            <li>Ginny Wood</li>
-                            <li>Brian Graves</li>
                             <li>Mitch Critel</li>
-                            <li>David Firestine</li>
-                            <li>Ron Westlake</li>
-                            <li>Dave Rambow</li>
                             <li>Neil Ferdinand</li>
-                            <li>Korey Saunders</li>
+                            <li>David Firestine</li>
+                            <li>Brian Graves</li>
                             <li>Maurice Imhoff</li>
-                            <li>Rob Van</li>
+                            <li>Tim Koenig</li>
+                            <li>Konstantin Nikolaievich</li>
+                            <li>Scott Parish</li>
+                            <li>Pat Price</li>
+                            <li>Dave Rambow</li>
+                            <li>Aaron Rowland</li>
+                            <li>Korey Saunders</li>
+                            <li>Greg Starbuck</li>
+                            <li>Greg Swank</li>
                             <li>Eric Urbanas</li>
+                            <li>Rob Van</li>
+                            <li>John Weaver</li>
+                            <li>Eugene West</li>
+                            <li>Ron Westlake</li>
+                            <li>Ginny Wood</li>
                         </ul>
                         <br>
                         <h2>Company Level</h2>
                         <ul class="text-center">
-                            <li>Sheree Watson</li>
-                            <li>Dennis Brinker</li>
-                            <li>Daniel Sabin</li>
-                            <li>Doug Smith</li>
-                            <li>Johnny Lloyd</li>
                             <li>Laura Beach</li>
-                            <li>Charles L. Lyons</li>
+                            <li>Patrick Branson</li>
+                            <li>Dennis Brinker</li>
+                            <li>Michael Cairns</li>
                             <li>William Eichler</li>
                             <li>Jane Hall</li>
-                            <li>Simon Sobolewski</li>
-                            <li>Patrick Branson</li>
+                            <li>Johnny Lloyd</li>
+                            <li>Charles L. Lyons</li>
+                            <li>Brent Marshall</li>
                             <li>Craig Marshall</li>
                             <li>Steve Milam</li>
+                            <li>Daniel Sabin</li>
+                            <li>Doug Smith</li>
+                            <li>Simon Sobolewski</li>
+                            <li>Sheree Watson</li>
                         </ul>
                     </div>
                 </section>
