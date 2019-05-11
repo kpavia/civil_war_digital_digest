@@ -82,6 +82,7 @@
                             <li>Brian Crater</li>
                             <li>Robert Dickson</li>
                             <li>James Olson</li>
+                            <li>Kenneth Pavia</li>
                             <li>Ethan Smith</li>
                         </ul>
                         <br>
@@ -109,7 +110,6 @@
                             <li>Ray Lennard</li>
                             <li>Robert Craig Milton</li>
                             <li>James Niebel</li>
-                            <li>Kenneth Pavia</li>
                             <li>Michael Scheib</li>
                             <li>Michael Shafto</li>
                             <li>Scott Sheets</li>
