@@ -1,0 +1,42 @@
+/* ==== UNIVERSAL CSS ==== */
+
+/* header */
+header {
+    height: 250px;
+    font-family: 'Fredericka the Great', cursive;
+    background-color: #112A60;    /*#383E4B;*/
+    color: #FFF;
+    text-align: center;
+}
+
+#title-banner {
+    margin-top: 100px;
+}
+
+/* sidebars */
+
+.aside {
+    background-color: #383E4B;
+}
+
+/* main content area */
+
+#content {
+    height: 100%;
+    text-align: center;
+}
+
+/* footer */
+footer {
+    background-color: #000;
+    height: 250px;
+    color: #FFF;
+    text-align: center;
+}
+
+
+/* ==== END UNIVERSAL CSS ==== */
+
+.menu-img {
+    margin-bottom: 50px;
+}
