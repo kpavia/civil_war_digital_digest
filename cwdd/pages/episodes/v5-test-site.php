@@ -16,18 +16,7 @@
         <script>
             $(document).ready(function() {
             
-                $("#episodes-dropdown").addClass("active");
-                var device = $('body').width();
-                var mainHeight = $('#main-content-section').height();
-                if (device > 1152){
-                    console.log('lengthening sidebars');
-                    
-                    $('#content-ads-holding-div').height(mainHeight);
-                    console.log('changing to height ' + mainHeight);
-                }
-                else {
-                    console.log('mobile detected');
-                }
+                
             
             }); //end ready function
         </script>
@@ -189,12 +178,12 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e10.jpg" alt="Civil War Digital Digest Vol.5 Episode 10" id="v5e10">
                             </a>
                         </div>
-                        <div class="container-fluid episode-div" id="v5e10-div">
-                            <p class="popup" onclick="popup()" id="episode-ten-pop">Episode 10<br>The Hall Rifle
-                                <span class="popuptext" id="episode-ten-slugline">Learn about the Hall Rifle </span>
+                        <div class="container-fluid episode-div" id="v5e12-div">
+                            <p class="popup" onclick="popup()" id="episode-twelve-pop">Episode 12<br>Plowing
+                                <span class="popuptext" id="episode-twelve-slugline">Plowing a Field</span>
                             </p>
-                            <a href="https://www.youtube.com/watch?v=OEvycc4uuyI" target="_blank">
-                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e10.jpg" alt="Civil War Digital Digest Vol.5 Episode 10" id="v5e10">
+                            <a href="https://www.youtube.com/watch?v=j49wDv5uDeo" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e12.jpg" alt="Civil War Digital Digest Vol.5 Episode 12" id="v5e12">
                             </a>
                         </div>
                     </div>
