@@ -360,7 +360,7 @@ nav {
     }
     
     #content-ads-holding-div { 
-        height: 5100px;
+        height: 5600px;
     }
     
     section h1 {
@@ -402,7 +402,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 5100px !important;
+        height: 5600px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -450,7 +450,7 @@ nav {
     
     /* add 400px for each episode */
     #content-ads-holding-div { 
-        height: 5100px !important;
+        height: 5600px !important;
     }
     
     /* sets dimensions for embedded video on small screens */
@@ -526,21 +526,21 @@ nav {
         text-align: center;
     }
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div {
         margin-left: 12px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div {
         margin-left: 0px;
     }
     
     
-    /* for rows with one episode, set margin-left to 187.5px */
+    /* for rows with one episode, set margin-left to 187.5px
     #v5e12-div {
         margin-left: 187.5px !important;
     } 
     
-    /* end one episode row */
+     end one episode row */
 }
 /* END 1152 x 864 */
 
@@ -577,23 +577,23 @@ nav {
     
     /* two column layout */
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div {
         margin-left: 22px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div {
         margin-left: 67px;
     }
 
     
     /* end two column layout */
   
-    /* set margin-left to 231px if episode is on its own row */
+    /* set margin-left to 231px if episode is on its own row
     
     #v5e12-div {
         margin-left: 231px;
     }
-    /* end one episode row */
+     end one episode row */
 
     /*End of centering episode rows */
     
@@ -641,21 +641,21 @@ nav {
     
     /* two column layout */
     
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div {
         margin-left: 84px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div {
         margin-left: 0px;
     }
 
     /* end two column layout */
     
-    /* set margin-left to 260px if an episode is on its own row */
+    /* set margin-left to 260px if an episode is on its own row
     #v5e12-div {
         margin-left: 260px;
     }
-    /* end one episode row */
+     end one episode row */
 
     /* End of centering episode rows */
     
@@ -702,23 +702,23 @@ nav {
         float: left;
     }
     /* two column layout */
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div {
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div {
         margin-left: 105px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div {
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div {
         margin-left: 0px;
     }
    
     /* end two column layout */
     
     /* one column layout
-    set margin-left to 283px if an episode is on its own row */
+    set margin-left to 283px if an episode is on its own row 
     #v5e12-div {
         margin-left: 285px;
         margin-bottom: 25px;
     }
-    /* end one column layout */
+    end one column layout */
     
     /* End of centering episode rows */
     
@@ -764,12 +764,12 @@ nav {
     }
     
     /* two column layout */
-    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div
     {
         margin-left: 103.5px;
     }
     
-    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div
     {
         margin-left: 117px;
     }
@@ -777,16 +777,16 @@ nav {
     
     /* end two column layout */
    
-    /*one episode row: set margin-left to 338px if one episode is on its own row */
+    /*one episode row: set margin-left to 338px if one episode is on its own row
     
     #v5e12-div {
         margin-left: 338px;
     } 
-    /* end one episode row */
+     end one episode row */
    
     
     
-    /*End of centering episode rows */
+    /* End of centering episode rows */
     
 }
 
@@ -855,24 +855,24 @@ nav {
     /* end right column */
 
     
-    /* bottom row: when there's one episode */
+    /* bottom row: when there's one episode
     #v5e12-div {
         margin-left: 364.33px;
     } 
-    /* end one episode row */
+     end one episode row */
     
     
     
-    /* bottom row: when there's two episodes
-    #v5e6-div {
+    /* bottom row: when there's two episodes */
+    #v5e11-div {
         padding-right: 15px;
         margin-left: 190px;
     }
     
-    #v5e7-div {
+    #v5e12-div {
         margin-left: 6px;
     }
-     end two episode row */
+    /* end two episode row */
     
 }
 
@@ -941,21 +941,21 @@ nav {
     
     /* end 3 episode row */
     
-    /* bottom row: for when there's a single episode */
+    /* bottom row: for when there's a single episode
     #v5e12-div {
         margin-left: 460.33px;
     }
-    /* end one row*/
+    end one row*/
     
-    /* bottom row: for two episode row
-    #v5e6-div {
+    /* bottom row: for two episode row */
+    #v5e11-div {
         margin-left: 272px;
     }
     
-    #v5e7-div {
+    #v5e12-div {
         margin-left: 58px;
     }
-    end two episodes row */
+    /* end two episodes row */
     
 
     

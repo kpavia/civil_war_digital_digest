@@ -72,12 +72,14 @@
                             <li>Scott Johnson</li>
                             <li>Cody Miller</li>
                             <li>Dora Rodriguez-Sharkey</li>
+                            <li>Raleigh Depot</li>
                             <li>Paul Skinner</li>
                             <li>Matthew Tolan</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
                         <ul class="text-center">
+                            <li>Mark Benning</li>
                             <li>John Connors</li>
                             <li>Brian Crater</li>
                             <li>Robert Dickson</li>
@@ -89,6 +91,7 @@
                         <h2>Brigade Level</h2>
                         <ul class="text-center">
                             <li>Andrew J. Ackeret</li>
+                            <li>Marvin B. Speed</li>
                             <li>Agents Campbell and Pelican's Military Goods</li>
                             <li>Jason Brown</li>
                             <li>Tom Burke</li>
@@ -124,11 +127,13 @@
                         <h2>Regimental Level</h2>
                         <ul class="text-center">
                             <li>Mitch Critel</li>
+                            <li>Travis Daniel</li>
                             <li>Neil Ferdinand</li>
                             <li>David Firestine</li>
                             <li>Brian Graves</li>
                             <li>Maurice Imhoff</li>
                             <li>Tim Koenig</li>
+                            <li>Kevin Lindsey</li>
                             <li>Konstantin Nikolaievich</li>
                             <li>Scott Parish</li>
                             <li>Pat Price</li>
@@ -153,6 +158,7 @@
                             <li>Michael Cairns</li>
                             <li>William Eichler</li>
                             <li>Jane Hall</li>
+                            <li>Sebastian Hardinger</li>
                             <li>Johnny Lloyd</li>
                             <li>Charles L. Lyons</li>
                             <li>Brent Marshall</li>

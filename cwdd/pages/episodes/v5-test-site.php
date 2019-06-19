@@ -178,6 +178,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e10.jpg" alt="Civil War Digital Digest Vol.5 Episode 10" id="v5e10">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e11-div">
+                            <p class="popup" onclick="popup()" id="episode-eleven-pop">Episode 11<br>George Houghton
+                                <span class="popuptext" id="episode-eleven-slugline">George Houghton - War Photographer</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=kRGspNjWbQc" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e11.jpg" alt="Civil War Digital Digest Vol.5 Episode 11" id="v5e11">
+                            </a>
+                        </div>
                         <div class="container-fluid episode-div" id="v5e12-div">
                             <p class="popup" onclick="popup()" id="episode-twelve-pop">Episode 12<br>Plowing
                                 <span class="popuptext" id="episode-twelve-slugline">Plowing a Field</span>
