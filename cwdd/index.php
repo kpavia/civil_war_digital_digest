@@ -53,7 +53,7 @@
                     <br>
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
-                        <iframe id="current-video" src="https://www.youtube.com/embed/jikNvkrgtXU" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/4fzgRHq0PBQ" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -82,6 +82,9 @@
                     </a>
                     <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/new-links-button.jpg" alt="links menu button">
+                    </a>
+                    <a href="https://historytunes.net" media="screen, handheld">
+                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/music.JPG" alt="History Tunes menu button">
                     </a>
                     </div>
                     <br>

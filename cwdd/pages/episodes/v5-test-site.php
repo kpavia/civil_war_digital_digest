@@ -194,6 +194,22 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e12.jpg" alt="Civil War Digital Digest Vol.5 Episode 12" id="v5e12">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e13-div">
+                            <p class="popup" onclick="popup()" id="episode-thirteen-pop">Episode 13<br>Why Collect?
+                                <span class="popuptext" id="episode-thirteen-slugline">Matt Woodburn Interview</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=jikNvkrgtXU" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e13.jpg" alt="Civil War Digital Digest Vol.5 Episode 13" id="v5e13">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e14-div">
+                            <p class="popup" onclick="popup()" id="episode-fourteen-pop">Episode 14<br>Frank Cobb
+                                <span class="popuptext" id="episode-fourteen-slugline">Sharpshooter Veteran Story</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=4fzgRHq0PBQ" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e14.jpg" alt="Civil War Digital Digest Vol.5 Episode 14" id="v5e14">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
