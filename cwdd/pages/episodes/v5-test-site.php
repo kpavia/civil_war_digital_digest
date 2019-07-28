@@ -210,6 +210,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e14.jpg" alt="Civil War Digital Digest Vol.5 Episode 14" id="v5e14">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e15-div">
+                            <p class="popup" onclick="popup()" id="episode-fifteen-pop">Episode 15<br>Gilham's Inspection & Stack
+                                <span class="popuptext" id="episode-fifteen-slugline">Gilham’s Inspection & Stack Arms</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=T39MzFOnAqc" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e15.jpg" alt="Civil War Digital Digest Vol.5 Episode 15" id="v5e15">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
