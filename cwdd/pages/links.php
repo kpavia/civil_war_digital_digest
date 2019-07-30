@@ -113,6 +113,10 @@
                         Plan a visit to the H.H. Bennett Studio<br>
                         <a href="https://hhbennettstudio.wisconsinhistory.org/" target="_blank">H.H. Bennett Studio</a>
                     </p>
+                    <br>
+                    <p>
+                        <a href="https://civilwartalk.com/" target="_blank">Civil War Talk</a>
+                    </p>
                     
                     
                     
