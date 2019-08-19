@@ -1,0 +1,1044 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+    
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {height: 450px}
+    
+/* Set gray background color and 100% height */
+.sidenav {
+    padding-top: 20px;
+    background-color: #394650; /*#f1f1f1;*/
+    height: 100%;
+}
+    
+/* Set black background color, white text and some padding */
+footer {
+    background-color: #8D8B8B; /*#555;*/
+    color: #000000;
+    padding: 15px;
+    font-family: "IM Fell DW Pica", serif;
+    font-size: 18px;
+}
+    
+/* On small screens, set height to 'auto' for sidenav and grid */
+@media screen and (max-width: 767px) {
+    .sidenav {
+        height: auto;
+        padding: 15px;
+    }
+    .row.content {
+        height:auto;
+    }
+    /* centers ads on small screens */
+    aside img {
+       margin: 0px auto; 
+    }
+}
+    
+/* centers banner img */
+#banner-img {
+    margin: 0px auto;
+}
+    
+header {
+    background-color: #B6BEC0; /*#394650;*/ /* background color of header */
+}
+
+/* === NAV BAR === */
+nav {
+    font-family: "IM Fell DW Pica", serif;  /* font style of nav bar */
+    font-size: 23px;  /* font size of nav bar */
+}
+    
+#myNavBar ul li{
+    text-align: center;
+    
+}
+
+/*color of nav bar text without affecting the active class*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #000000;
+}
+
+/*changes nav color; delete this to change back to original*/
+.navbar-inverse {
+    background-color: #A0A75A; /* lighter charcoal: #8D8B8B; */
+}
+
+/* CENTERS NAV BAR */
+#nav-div-center, #nav-ul {
+    margin: 0px auto;
+}
+
+/* CENTERS NAV BAR */
+@media (min-width: 768px) {
+    .navbar-nav {
+        margin: 0px auto;
+        float: none;
+        display: table;
+    }
+}
+
+/* === END NAV BAR === */
+
+/* FOR PHONES IN LANDSCAPE MODE */
+@media screen and (width: 640px) and (orientation: landscape) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+
+    
+    #left-ad-pic {
+        content: url("/ads/don-smith-mobile-ad.jpg");
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+} /*END PHONES IN LANDSCAPE MODE */
+
+
+/* FOR PHONE SCREENS, PORTRAIT */
+@media screen and (min-width: 167px) and (max-width: 480px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    .episode-pic {
+        margin: auto !important;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+}  /* END PHONE SCREENS, PORTRAIT */
+
+
+/* iPhone 5 - 320x568
+ * iPhone 4 - 320x480
+*/
+
+
+/* IPHONE 3, 4, 5 PORTRAIT */
+
+@media screen and (width: 320px) {
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+}
+
+/* END IPHONE 3, 4, 5 PORTRAIT */
+
+
+/* IPHONE 3, 4, 5 LANDSCAPE */
+
+@media screen and (width: 568px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes ads */
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+}
+/* END IPHONE 3, 4, 5 LANDSCAPE */
+
+
+/* IPHONE 6 LANDSCAPE */
+
+@media screen and (width: 667px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    aside p a img {
+        margin: 0px auto;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+
+    .episodes div img {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+}
+/* END IPHONE 6 LANDSCAPE */
+
+
+/* IPHONE 6 PORTRAIT */
+
+@media screen and (width: 375px){
+    nav {
+        font-size: 40px;  /* changes font size on smaller screens */
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    /* changes header image */
+    #banner-img {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 35px;
+        margin-bottom: 100px;
+        padding: 0px;
+    }
+    
+    .episodes div p, .episode-div img {
+        padding: 0px;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 40px;
+    }
+}
+/* END IPHONE 6 PORTRAIT */
+
+/* FOR iPAD SCREENS, PORTRAIT (768x1024) */
+@media screen and (width: 768px) and (orientation: portrait) {
+    nav {
+        font-size: 20px;
+    }
+    
+    #content-ads-holding-div { 
+        height: 6900px;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+    }
+    
+    .episode-div img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #v5e1-div {
+        margin-top: 30px;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 50px;
+    }
+    
+}  /* END iPAD SCREENS, PORTRAIT (768x1024) */
+
+
+/* IPAD SCREENS, LANDSCAPE 1024x768 */
+@media screen and (orientation: landscape) and (width: 1024px) {
+    nav {
+        font-size: 20px;
+    }
+    
+    /* add 400px for each episode */
+    #content-ads-holding-div { 
+        height: 6900px !important;
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+    }
+    
+    .episode-div img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #v5e1-div {
+        margin-top: 30px;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 50px;
+    }
+
+} /* END iPAD SCREENS, LANDSCAPE (1024x768) */
+
+
+/* IPAD PRO SCREENS, PORTRAIT 1024X1366 */
+@media screen and (orientation: portrait) and (width: 1024px) {
+    nav {
+        font-size: 20px;
+    }
+    
+    /* add 400px for each episode */
+    #content-ads-holding-div { 
+        height: 6900px !important;
+    }
+    
+    /* sets dimensions for embedded video on small screens */
+    #intro-video-div {
+        height: auto;
+        width: auto;
+    }
+    
+    section h1 {
+        font-size: 40px;
+    }
+
+    section p {
+        font-size: 25px;
+    }
+    
+    .episode-div {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 80px;
+    }
+    
+    .episode-div img {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #v5e1-div {
+        margin-top: 30px;
+    }
+    
+    #v5e15-div {
+        margin-bottom: 50px;
+    }
+
+} /* END iPAD SCREENS, LANDSCAPE (1024x768) */
+
+/* 1152 x 864 */
+@media screen and (min-width: 1100px) and (max-width: 1152px) {
+    
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 3500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+        text-align: center;
+    }
+    
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div, #v5e13-div {
+        margin-left: 12px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div, #v5e14-div {
+        margin-left: 0px;
+    }
+    
+    
+    /* for rows with one episode, set margin-left to 187.5px */
+    #v5e15-div {
+        margin-left: 187.5px !important;
+    } 
+    
+    /* end one episode row */
+}
+/* END 1152 x 864 */
+
+
+/* FOR SMALL LAPTOP SCREENS: 1280 x 800 */
+@media screen and (min-width: 1153px) and (max-width: 1365px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 3500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+        text-align: center;
+    }
+    
+    /* two column layout */
+    
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div, #v5e13-div {
+        margin-left: 22px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div, #v5e14-div {
+        margin-left: 67px;
+    }
+
+    
+    /* end two column layout */
+  
+    /* set margin-left to 231px if episode is on its own row */
+    
+    #v5e15-div {
+        margin-left: 231px;
+    }
+    /* end one episode row */
+
+    /*End of centering episode rows */
+    
+}
+
+/* END SMALL LAPTOP SCREENS: 1280 x 800 */
+
+
+/* FOR 1366 x 768 SCREENS */
+@media screen and (min-width: 1281px) and (max-width: 1366px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 3500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+     
+    
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+    }
+    
+    /* two column layout */
+    
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div, #v5e13-div {
+        margin-left: 84px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div, #v5e14-div {
+        margin-left: 0px;
+    }
+
+    /* end two column layout */
+    
+    /* set margin-left to 260px if an episode is on its own row */
+    #v5e15-div {
+        margin-left: 260px;
+    }
+    /* end one episode row */
+
+    /* End of centering episode rows */
+    
+}
+
+/* END FOR 1366 x 768 SCREENS */
+
+
+
+
+/* FOR 1440 x 900 SCREENS */
+@media screen and (min-width: 1367px) and (max-width: 1440px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 3500px;
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes div {
+        text-align: center;
+    }
+
+    
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+    }
+    /* two column layout */
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div, #v5e13-div {
+        margin-left: 105px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div, #v5e14-div {
+        margin-left: 0px;
+    }
+   
+    /* end two column layout */
+    
+    /* one column layout
+    set margin-left to 283px if an episode is on its own row */
+    #v5e15-div {
+        margin-left: 285px;
+        margin-bottom: 25px;
+    }
+    /* end one column layout */
+    
+    /* End of centering episode rows */
+    
+}
+
+/* END 1440 x 900 SCREENS */
+
+
+/* FOR 1600 x 900 SCREENS   1441*/
+@media screen and (min-width: 1441px) and (max-width: 1601px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 3500px; /* add 300px */
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+    }
+    
+    /* two column layout */
+    #v5e1-div, #v5e3-div, #v5e5-div, #v5e6-div, #v5e8-div, #v5e9-div, #v5e11-div, #v5e13-div
+    {
+        margin-left: 103.5px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div, #v5e7-div, #v5e8a-div, #v5e10-div, #v5e12-div, #v5e14-div
+    {
+        margin-left: 117px;
+    }
+    
+    
+    /* end two column layout */
+   
+    /*one episode row: set margin-left to 338px if one episode is on its own row */
+    
+    #v5e15-div {
+        margin-left: 338px;
+    } 
+    /* end one episode row */
+   
+    
+    
+    /* End of centering episode rows */
+    
+}
+
+/* END FOR 1600 x 900 SCREENS */
+
+
+/* FOR 1680 x 1050 SCREENS */
+@media screen and (min-width: 1601px) and (max-width: 1680px) {
+     
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 2600px; /* add 300px for new episode row */
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    aside p {
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+        /* Centering episode rows */
+    
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+    }
+    
+    /* top row: set margin top */
+    #v5e1-div, #v5e2-div,#v5e3-div {
+        margin-top: 25px;
+    }
+    
+    /* left column: set left margin */
+    #v5e1-div, #v5e4-div, #v5e6-div, #v5e8a-div, #v5e11-div {
+        margin-left: 6px;
+    } 
+    /* end left column */
+    
+    /* middle column */
+    #v5e2-div, #v5e5-div, #v5e7-div, #v5e9-div, #v5e12-div {
+        margin-left: 7px;
+    }
+    
+    /* end middle column */
+    
+    /*right column */
+    #v5e3-div, #v5e5a-div, #v5e8-div, #v5e10-div, #v5e13-div {
+        margin-left: 6px !important;
+    }
+    /* end right column */
+
+    
+    /* bottom row: when there's one episode
+    #v5e14-div {
+        margin-left: 364.33px;
+    } 
+     end one episode row */
+    
+    
+    
+    /* bottom row: when there's two episodes */
+    #v5e14-div {
+        padding-right: 15px;
+        margin-left: 190px;
+    }
+    
+    #v5e15-div {
+        margin-left: 6px;
+    }
+    /* end two episode row */
+    
+}
+
+/* END FOR 1680 x 1050 SCREENS  */
+
+
+/* FOR BIG DESKTOP SCREENS: 23"+ */
+@media screen and (min-width: 1681px) {
+    
+    section h1 {
+        font-size: 36px;
+    }
+    
+    section p {
+        font-size: 20px;
+    }
+
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    #content-ads-holding-div { 
+        height: 2600px;  /* add 300px for new episode row was 3400*/
+    }
+    .img-responsive {
+        margin: auto;
+    }
+    
+    .menu-buttons {
+        width: 450px;
+        height: 62px;
+    }
+
+    #store-menu-button {
+        margin: 0px auto;
+    }
+    
+    /* === EPISODE LAYOUT === */
+    
+    .episodes {
+        text-align: center;
+        padding: 0px;
+    }
+    
+    .episode-div {
+        margin-bottom: 60px;
+        float: left;
+        padding: 0px;
+    }
+    
+    /* top row: set margin top */
+    #v5e1-div, #v5e2-div, #v5e3-div {
+        margin-top: 25px;
+    }
+    
+    /* 3 episode row */
+    
+    /* left column: set left margin */
+    
+    #v5e1-div, #v5e4-div, #v5e6-div, #v5e8a-div, #v5e11-div {
+        margin-left: 81.5px;
+    } 
+    
+    /* center column: set left and right margins */
+    #v5e2-div, #v5e5-div, #v5e7-div, #v5e9-div, #v5e12-div  {
+        margin-left: 58px;  
+        margin-right: 58px;
+    }
+    
+    /* end 3 episode row */
+    
+    /* bottom row: for when there's a single episode
+    #v5e14-div {
+        margin-left: 460.33px;
+    }
+    end one row*/
+    
+    /* bottom row: for two episode row */
+    #v5e14-div {
+        margin-left: 272px;
+    }
+    
+    #v5e15-div {
+        margin-left: 58px;
+    }
+    /* end two episodes row */
+    
+
+    
+}
+
+
+/* END FOR BIG DESKTOP SCREENS: 23"+ */
+
+#smaller-title {
+    font-size: 16px;
+}
+  
+section, h1, h2, h3, p {
+    font-family: "IM Fell DW Pica", serif;
+    text-align: center;
+    position: static;
+}
+
+section a {
+    height: 100px;
+    width: 160px;
+}
+
+#left-side-aside p {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* DROPDOWN MENU BUTTONS */
+.dropdown-menu li a, .dropdown-menu li, .icon-bar {
+    color: #000000 !important;
+    font-size: 20px;
+}
+
+/* ===SLUGLINE POPUPS=== */
+
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+
+.popup .popuptext {
+    visibility: hidden;
+    width: 320px; /* 160px */
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+/* ===END SLUGLINE POPUPS=== */

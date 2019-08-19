@@ -68,21 +68,28 @@
                             <li>William Debord</li>
                             <li>Justin Dorsey</li>
                             <li>Wanda & Ed Eichler</li>
+                            <li>Tim Hallman</li>
+                            <li>Jordan Harrell</li>
                             <li>Jenkins & Company</li>
                             <li>Scott Johnson</li>
                             <li>Cody Miller</li>
+                            
                             <li>Dora Rodriguez-Sharkey</li>
                             <li>Raleigh Depot</li>
+                            <li>Ty Sanford</li>
                             <li>Paul Skinner</li>
                             <li>Matthew Tolan</li>
+                            <li>Brandon Wheeldon</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
                         <ul class="text-center">
+                            <li>Logan Banks</li>
                             <li>Mark Benning</li>
                             <li>John Connors</li>
                             <li>Brian Crater</li>
                             <li>Robert Dickson</li>
+                            <li>Marc Hallacker</li>
                             <li>James Olson</li>
                             <li>Kenneth Pavia</li>
                             <li>Ethan Smith</li>
@@ -103,7 +110,7 @@
                             <li>Kristopher Green</li>
                             <li>William Green</li>
                             <li>Scott Gulley</li>
-                            <li>Tim Hallman</li>
+                            
                             <li>Mary B. Hayes</li>
                             <li>Chris Henderson</li>
                             <li>Kyle Hibner</li>
@@ -133,8 +140,10 @@
                             <li>Brian Graves</li>
                             <li>Maurice Imhoff</li>
                             <li>Tim Koenig</li>
+                            <li>Scott Lawalin</li>
                             <li>Kevin Lindsey</li>
                             <li>Konstantin Nikolaievich</li>
+                            <li>Jim O'Donnell</li>
                             <li>Scott Parish</li>
                             <li>Pat Price</li>
                             <li>Dave Rambow</li>
@@ -153,6 +162,7 @@
                         <h2>Company Level</h2>
                         <ul class="text-center">
                             <li>Laura Beach</li>
+                            <li>Marek Bennett</li>
                             <li>Patrick Branson</li>
                             <li>Dennis Brinker</li>
                             <li>Michael Cairns</li>
