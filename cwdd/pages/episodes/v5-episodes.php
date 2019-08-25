@@ -218,6 +218,22 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e15.jpg" alt="Civil War Digital Digest Vol.5 Episode 15" id="v5e15">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e16-div">
+                            <p class="popup" onclick="popup()" id="episode-sixteen-pop">Episode 16<br>19th century Merino Sheep
+                                <span class="popuptext" id="episode-sixteen-slugline">Learn about a period sheep breed & more</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=06xYHOw_Jxw" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e16.jpg" alt="Civil War Digital Digest Vol.5 Episode 16" id="v5e16">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e17-div">
+                            <p class="popup" onclick="popup()" id="episode-seventeen-pop">Episode 17<br>India Rubber World
+                                <span class="popuptext" id="episode-seventeen-slugline">Learn about India Rubber</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=sYU0PZb9wxI" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e17.jpg" alt="Civil War Digital Digest Vol.5 Episode 17" id="v5e17">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
