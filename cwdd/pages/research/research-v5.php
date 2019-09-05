@@ -120,6 +120,19 @@
                             <p class="text-center">
                                 <a href="https://www.amazon.com/gp/product/1577470206/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1577470206&linkCode=as2&tag=allmiccivwar-20&linkId=5b1189a2da8ec881a51a7db902b15064" target="_blank">Round Ball to Rimfire<br>A History of Civil War Small Arms Ammunition - Dean S. Thomas</a>
                             </p>
+                            <p class="text-center">
+                                <a href="https://www.amazon.com/gp/product/1577470206/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1577470206&linkCode=as2&tag=allmiccivwar-20&linkId=5b1189a2da8ec881a51a7db902b15064" target="_blank">Round Ball to Rimfire<br>A History of Civil War Small Arms Ammunition - Dean S. Thomas</a>
+                            </p>
+                            <p class="text-center">
+                                <a href="http://civilwardigitaldigest.com/docs/45lc-44-40-spencer.pdf" target="_blank">
+                                    .45 Long Colt & .44-40 Spencer box pattern - Kyle Windahl
+                                </a>
+                            </p>
+                            <p class="text-center">
+                                <a href="http://civilwardigitaldigest.com/docs/56-50-spencer.pdf" target="_blank">
+                                    .56-50 Spencer box pattern - Kyle Windahl
+                                </a>
+                            </p>
                         </div>
                     </div
                     
