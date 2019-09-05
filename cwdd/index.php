@@ -33,8 +33,9 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
+                    <!-- CWDDIndexResponsive
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- CWDDIndexResponsive -->
+                    
                     <ins class="adsbygoogle"
                          style="display:block"
                          data-ad-client="ca-pub-5786123947739131"
@@ -43,7 +44,8 @@
                     </ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>           
+                    </script>  
+                    -->
                 </aside>
                 <section class="col-sm-8 text-left">
                     <h1>Welcome to the Civil War Digital Digest</h1>
@@ -53,7 +55,7 @@
                     <br>
                     <h2>Our Latest Episode</h2>
                     <div id="current-video-div">
-                        <iframe id="current-video" src="https://www.youtube.com/embed/sYU0PZb9wxI" frameborder="0" allowfullscreen></iframe>
+                        <iframe id="current-video" src="https://www.youtube.com/embed/krsrVNERmeo" frameborder="0" allowfullscreen></iframe>
                         <br>
                     </div>
                     <br>
@@ -103,9 +105,9 @@
                     <br><br>
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    
+                    <!-- CWDDIndexResponsive
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    <!-- CWDDIndexResponsive -->
+                    
                     <ins class="adsbygoogle"
                          style="display:block"
                          data-ad-client="ca-pub-5786123947739131"
@@ -115,6 +117,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
+                    -->
                 </aside>
             </div>
         </div>

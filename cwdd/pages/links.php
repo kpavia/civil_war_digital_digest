@@ -42,11 +42,10 @@
         <div class="container-fluid text-center">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <!-- Responsive Adsense -->
-                    
+                       <!-- Responsive Adsense
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                   
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -54,7 +53,7 @@
                             data-ad-slot="6275650007"
                             data-ad-format="auto"> 
                         </ins>
-                    
+                    -->
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>         
@@ -117,17 +116,20 @@
                     <p>
                         <a href="https://civilwartalk.com/" target="_blank">Civil War Talk</a>
                     </p>
+                    <p>
+                        <a href="https://museums.kenosha.org/civilwar/" target="_blank">Kenosha Civil War Museum</a>
+                    </p>
                     
                     
                     
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                        <!-- Responsive Adsense -->
+                        <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -139,7 +141,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>   
-                        
+                        -->
                 </aside>
             </div>
         </div>

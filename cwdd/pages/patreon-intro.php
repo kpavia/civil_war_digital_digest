@@ -40,11 +40,11 @@
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                     
-                <!-- Responsive Adsense -->
+                <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -56,6 +56,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>  
+                -->
                 </aside>
                 <section class="col-sm-8 text-left">
                     <div class="container-fluid episodes" id="main-content">
@@ -80,11 +81,11 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                    <!-- Responsive Adsense -->
+                    <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -96,7 +97,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>   
-                        
+                        -->
                 </aside>
             </div>
         </div>

@@ -39,11 +39,10 @@
         <div class="container-fluid text-center">
             <div class="row content center-headline-text" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                       <!-- Responsive Adsense -->
+                       <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -54,7 +53,8 @@
                     
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>         
+                    </script>  
+                       -->
                 </aside>
                 <section class="col-sm-8 text-left">
                     <div class="container-fluid episodes">
@@ -260,7 +260,7 @@
                                         </a>
                                     </li>
                                 </ul>
-                                </ul>
+                                
                             </div>
                         </div>
                         </div>
@@ -268,11 +268,9 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                        <!-- Responsive Adsense -->
+                        <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <!-- CWDD responsive -->
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -284,7 +282,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>   
-                        
+                        -->
                 </aside>
             </div>
         </div>

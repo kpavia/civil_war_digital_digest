@@ -45,11 +45,11 @@
         <div class="container-fluid ">
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
-                    <!-- Responsive Adsense -->
+                    <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -61,7 +61,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script> 
-            
+            -->
                 </aside>
                 <section class="col-sm-8 tex-left" id="main-content-section">
                     <h1>Civil War Digital Digest</h1>
@@ -109,6 +109,19 @@
                             </p>
                         </div>
                     </div>
+                    <br>
+                    <h4><a href="#episode-18" data-toggle="collapse" class="research-collapsibles">Episode 18: Spencer & Henry Rifles</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-18">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a href="https://www.amazon.com/gp/product/0517636069/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0517636069&linkCode=as2&tag=allmiccivwar-20&linkId=d55a8c7543a0ab0755fec87f1c5956d1" target="_blank">Weapons of the Civil War - Ian Hogg</a>
+                            </p>
+                            <p class="text-center">
+                                <a href="https://www.amazon.com/gp/product/1577470206/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1577470206&linkCode=as2&tag=allmiccivwar-20&linkId=5b1189a2da8ec881a51a7db902b15064" target="_blank">Round Ball to Rimfire<br>A History of Civil War Small Arms Ammunition - Dean S. Thomas</a>
+                            </p>
+                        </div>
+                    </div
                     
                     <br>
                     <br>

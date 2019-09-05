@@ -44,11 +44,11 @@
             <div class="row content" id="content-ads-holding-div">
                 <aside class="col-sm-2 sidenav" id="left-side-aside">
                     
-                <!-- Responsive Adsense -->
+                <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -60,6 +60,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>  
+                -->
                 </aside>
                 <section class="col-sm-8 text-left" id="main-content-section">
                     <h1>Civil War Digital Digest</h1>
@@ -234,6 +235,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e17.jpg" alt="Civil War Digital Digest Vol.5 Episode 17" id="v5e17">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e18-div">
+                            <p class="popup" onclick="popup()" id="episode-eighteen-pop">Episode 18<br>Spencer & Henry
+                                <span class="popuptext" id="episode-eighteen-slugline">Spencer & Henry Rifles</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=krsrVNERmeo" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e18.jpg" alt="Civil War Digital Digest Vol.5 Episode 18" id="v5e18">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
@@ -250,11 +259,11 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                    <!-- Responsive Adsense -->
+                    <!-- Responsive Adsense 
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
-                    <!-- CWDD responsive -->
+                    
                     
                         <ins class="adsbygoogle"
                             style="display:block"
@@ -266,7 +275,7 @@
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>   
-                        
+                        -->
                 </aside>
             </div>
         </div>
