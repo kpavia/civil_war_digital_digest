@@ -134,7 +134,17 @@
                                 </a>
                             </p>
                         </div>
-                    </div
+                    </div>
+                    <br>
+                    <h4><a href="#episode-19" data-toggle="collapse" class="research-collapsibles">Episode 19: Camburn's Picket Stew</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-19">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="text-center">
+                                <a href="https://www.amazon.com/gp/product/1974001318/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1974001318&linkCode=as2&tag=allmiccivwar-20&linkId=2e61e3e433955b72f53c025977cf9eb7" target="_blank">Civil War Journal from the 2nd Michigan Infantry: Harmon Camburn 1842-1906</a>
+                            </p>
+                        </div>
+                    </div>
                     
                     <br>
                     <br>
