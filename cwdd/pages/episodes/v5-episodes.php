@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="/css/episode-test-environ-styling.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v5-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -243,6 +243,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e18.jpg" alt="Civil War Digital Digest Vol.5 Episode 18" id="v5e18">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e19-div">
+                            <p class="popup" onclick="popup()" id="episode-nineteen-pop">Episode 19<br>Camburn's Picket Stew
+                                <span class="popuptext" id="episode-nineteen-slugline">A Veteran’s stew recipe</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=ipZK10a4teA" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e19.jpg" alt="Civil War Digital Digest Vol.5 Episode 19" id="v5e19">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
@@ -259,7 +267,7 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     
-                    <!-- Responsive Adsense 
+                    <!-- Responsive Adsense
                     
                     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                     
