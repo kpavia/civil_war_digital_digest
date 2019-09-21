@@ -882,6 +882,8 @@ nav {
 /* FOR BIG DESKTOP SCREENS: 23"+ */
 @media screen and (min-width: 1681px) {
     
+    
+    /*
     section h1 {
         font-size: 36px;
     }
@@ -889,10 +891,12 @@ nav {
     section p {
         font-size: 20px;
     }
+    */
+    
 
-    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height */
+    /* this is the homepage; extends the height of the div holding the content & ads so that they stay together; they're a fixed height
     #content-ads-holding-div { 
-        height: 2600px;  /* add 300px for new episode row was 3400*/
+        height: 2600px;   add 300px for new episode row was 3400
     }
     .img-responsive {
         margin: auto;
@@ -906,8 +910,11 @@ nav {
     #store-menu-button {
         margin: 0px auto;
     }
+    */
     
-    /* === EPISODE LAYOUT === */
+    
+    
+    /* === EPISODE LAYOUT === 
     
     .episodes {
         text-align: center;
@@ -919,27 +926,31 @@ nav {
         float: left;
         padding: 0px;
     }
+    */
     
-    /* top row: set margin top */
+    
+    /* top row: set margin top
     #v5e1-div, #v5e2-div, #v5e3-div {
         margin-top: 25px;
     }
     
-    /* 3 episode row */
+     3 episode row */
     
-    /* left column: set left margin */
+    /* left column: set left margin
     
     #v5e1-div, #v5e4-div, #v5e6-div, #v5e8a-div, #v5e11-div {
         margin-left: 81.5px;
     } 
+    */
     
-    /* center column: set left and right margins */
+    
+    /* center column: set left and right margins 
     #v5e2-div, #v5e5-div, #v5e7-div, #v5e9-div, #v5e12-div  {
         margin-left: 58px;  
         margin-right: 58px;
     }
     
-    /* end 3 episode row */
+     end 3 episode row */
     
     /* bottom row: for when there's a single episode
     #v5e14-div {
@@ -947,7 +958,7 @@ nav {
     }
     end one row*/
     
-    /* bottom row: for two episode row */
+    /* bottom row: for two episode row
     #v5e14-div {
         margin-left: 272px;
     }
@@ -955,7 +966,7 @@ nav {
     #v5e15-div {
         margin-left: 58px;
     }
-    /* end two episodes row */
+     end two episodes row */
     
 
     
@@ -964,6 +975,7 @@ nav {
 
 /* END FOR BIG DESKTOP SCREENS: 23"+ */
 
+/*
 #smaller-title {
     font-size: 16px;
 }
@@ -983,6 +995,7 @@ section a {
     margin-top: auto;
     margin-bottom: auto;
 }
+*/
 
 /* DROPDOWN MENU BUTTONS */
 .dropdown-menu li a, .dropdown-menu li, .icon-bar {
