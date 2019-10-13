@@ -15,7 +15,9 @@
         </title>
         <script>
             $(document).ready(function() {
-                $("#episodes-dropdown").addClass("active");
+            
+                
+            
             }); //end ready function
         </script>
         <!-- Google Analytics Code -->
@@ -247,6 +249,22 @@
                             </p>
                             <a href="https://www.youtube.com/watch?v=ipZK10a4teA" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e19.jpg" alt="Civil War Digital Digest Vol.5 Episode 19" id="v5e19">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e20-div">
+                            <p class="popup" onclick="popup()" id="episode-twenty-pop">Episode 20<br>1817 Common Rifle
+                                <span class="popuptext" id="episode-twenty-slugline">About the 1817 Common Rifle</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Zh_m19NF-kM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e20.jpg" alt="Civil War Digital Digest Vol.5 Episode 20" id="v5e20">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e21-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyone-pop">Episode 21<br>Potato Soup
+                                <span class="popuptext" id="episode-twentyone-slugline">Potato Soup Recipe</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=5GfkHgt5fRs" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e21.jpg" alt="Civil War Digital Digest Vol.5 Episode 21" id="v5e21">
                             </a>
                         </div>
                     </div>
