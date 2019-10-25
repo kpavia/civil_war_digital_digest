@@ -88,6 +88,9 @@
                     <a href="https://historytunes.net" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/music.JPG" alt="History Tunes menu button">
                     </a>
+                    <a href="http://civilwardigitaldigest.com/holdmyhorse.php" media="screen, handheld">
+                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/movies-link.jpg" alt="History Tunes menu button">
+                    </a>
                     </div>
                     <br>
                     <br>

@@ -40,6 +40,8 @@
                             <li id="support"><a href="http://civilwardigitaldigest.com/pages/support.php">Support</a></li>
                             <li id="communicate"><a href="http://civilwardigitaldigest.com/pages/communicate.php">Communicate</a></li>
                             <li id="links"><a href="http://civilwardigitaldigest.com/pages/links.php">Links</a></li>
+                            <li id="music"><a href="https://historytunes.net/">Music</a></li>
+                            <li id="movies"><a href="http://civilwardigitaldigest.com/holdmyhorse.php">Movies</a></li>
                         </ul>
                     
                 </div>

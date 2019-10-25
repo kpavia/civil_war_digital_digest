@@ -11,7 +11,7 @@
   <script src="/javascript/slug-line-popup.js"></script>
   <title>Civil War Digital Digest - Episodes Vol. I</title>
   <script>
-      $(document).ready(function() {
+    $(document).ready(function() {
             
             $("#episodes-dropdown").addClass("active");
             

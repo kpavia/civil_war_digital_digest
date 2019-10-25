@@ -15,9 +15,7 @@
         </title>
         <script>
             $(document).ready(function() {
-            
-                
-            
+                $("#episodes-dropdown").addClass("active");
             }); //end ready function
         </script>
         <!-- Google Analytics Code -->
