@@ -15,7 +15,7 @@
         </title>
         <script>
             $(document).ready(function() {
-                $("#episodes-dropdown").addClass("active");
+                 $("#episodes-dropdown").addClass("active");
             }); //end ready function
         </script>
         <!-- Google Analytics Code -->
@@ -263,6 +263,14 @@
                             </p>
                             <a href="https://www.youtube.com/watch?v=5GfkHgt5fRs" target="_blank">
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e21.jpg" alt="Civil War Digital Digest Vol.5 Episode 21" id="v5e21">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e22-div">
+                            <p class="popup" onclick="popup()" id="episode-twentytwo-pop">Episode 22<br>Quinze
+                                <span class="popuptext" id="episode-twentytwo-slugline">Learn the Game of Quinze</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=zxGJnv1baaQ" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e22.jpg" alt="Civil War Digital Digest Vol.5 Episode 22" id="v5e22">
                             </a>
                         </div>
                     </div>

@@ -145,6 +145,18 @@
                             </p>
                         </div>
                     </div>
+                    <br>
+                    <h4><a href="#episode-22" data-toggle="collapse" class="research-collapsibles">Episode 22: Quinze</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-22">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://books.google.com/books/about/The_American_Hoyle_Or_Gentleman_s_Hand_b.html?id=NRsXAAAAYAAJ">
+                                    The American Hoyle, Or Gentleman's Hand-book of Games
+                                </a>
+                            </p>
+                        </div>
+                    </div>
                     
                     <br>
                     <br>
