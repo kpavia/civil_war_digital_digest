@@ -157,6 +157,18 @@
                             </p>
                         </div>
                     </div>
+                    <br>
+                    <h4><a href="#episode-23" data-toggle="collapse" class="research-collapsibles">Episode 23: A Goodyear Story</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-23">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                <a target="_blank" href="https://library.si.edu/digital-library/book/gumelasticitsva121853good">
+                                    Gum-elastic and Its Varieties - Charles Goodyear (1853)
+                                </a>
+                            </p>
+                        </div>
+                    </div>
                     
                     <br>
                     <br>

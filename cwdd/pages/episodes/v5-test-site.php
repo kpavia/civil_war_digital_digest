@@ -275,6 +275,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e22.jpg" alt="Civil War Digital Digest Vol.5 Episode 22" id="v5e22">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e23-div">
+                            <p class="popup" onclick="popup()" id="episode-twentythree-pop">Episode 23<br>A Goodyear Story
+                                <span class="popuptext" id="episode-twentythree-slugline">The story of Charles Goodyear</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=Lx59riuurv4" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e23.jpg" alt="Civil War Digital Digest Vol.5 Episode 23" id="v5e23">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

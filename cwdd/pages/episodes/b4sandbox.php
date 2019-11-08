@@ -51,7 +51,7 @@
                 </aside>
                 <div class="col-md-8 col-lg-8" id="content">
                     <div class="row">
-                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                        <div class="col-12">
                             <h1 class="center" id="header-title">Civil War Digital Digest</h1>
                             <h2 class="center">Episodes, Vol. V</h2>
                             <h4 class="center">Click on the image to view the episode</h4>
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="row episodes-row" id="1-3-row">
-                        <div class="col-12 col-sm-12 col-md-12 col-lg-12" id="test-col">
+                        <div class="col-12 align-content-center" id="test-col">
                             <div class="episode-div" id="v5e1-div" >
                                 <p class="popup episode-title" onclick="popup()" id="episode-one-pop">Episode 1<br>Austrian Lorenz
                                     <span class="popuptext" id="episode-one-slugline">The Austrian Lorenz Rifle</span>
@@ -84,7 +84,6 @@
                                     <img class="episode-pic" src="/images/v5-episodes/v5e3.jpg" alt="Civil War Digital Digest Vol.5 Episode 3" id="v5e3">
                                 </a>
                             </div>
-                            
                         </div>
                         
                     </div>
