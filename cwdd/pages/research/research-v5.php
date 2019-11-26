@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="/css/v4-research-sheet.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v5-research.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -167,6 +167,28 @@
                                     Gum-elastic and Its Varieties - Charles Goodyear (1853)
                                 </a>
                             </p>
+                        </div>
+                    </div>
+                    <br>
+                    <h4><a href="#episode-24" data-toggle="collapse" class="research-collapsibles">Episode 24: Battle of Franklin Artifacts</a></h4>
+                    <div class="collapse container-fluid book-overflow" id="episode-24">
+                        <br>
+                        <div class="book-overflow">
+                            <p class="center-headline-text">
+                                Brig Gen. John Adams<br>
+                                <img class="center-headline-text" src="/images/v5-research/gen_adams.jpg" alt="Confederate General John Adams, killed at the 2nd Battle of Franklin, 1864" />
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                General Thomas B. Smith<br>
+                                <img class="center-headline-text" src="/images/v5-research/gen_smith.jpg" alt="Confederate General Thomas B. Smith" />
+                            </p>
+                            <br>
+                            <p class="center-headline-text">
+                                Brig Gen. Otho F. Strahl<br>
+                                <img class="center-headline-text" src="/images/v5-research/gen_strahl.jpg" alt="Confederate General Otho Strahl, killed at Franklin" />
+                            </p>
+                            
                         </div>
                     </div>
                     

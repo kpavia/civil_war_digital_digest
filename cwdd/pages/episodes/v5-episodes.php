@@ -283,6 +283,14 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e23.jpg" alt="Civil War Digital Digest Vol.5 Episode 23" id="v5e23">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e24-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfour-pop">Episode 24<br>Battle of Franklin Artifacts
+                                <span class="popuptext" id="episode-twentyfour-slugline">See Artifacts from the Battle of Franklin</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=A8OsXB8iBrY" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e24.jpg" alt="Civil War Digital Digest Vol.5 Episode 24" id="v5e24">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>

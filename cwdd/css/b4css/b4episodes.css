@@ -74,3 +74,60 @@ body {
     text-align: center;
 }
 
+/* Big screens */
+
+@media screen and (min-width: 1600px) {
+    .episode-div {
+        width: 320px;
+        text-align: center;
+    }
+
+    .episodes-col {
+        /* display: inline-block; */
+    }
+    
+    .wrapper {
+        width: 1020px;
+        height: auto;
+        margin: 0px auto;
+    }
+    
+    .middle-col {
+        margin: 0px 30px;
+    }
+    
+    .episode-div {
+        width: 320px;
+        float: left;
+        text-align: center;
+    }
+    
+}
+
+/* End Big screens */
+
+
+/* Medium screens */
+@media screen and (min-width: 1000px) and (max-width: 1599px){
+    .wrapper {
+        width: auto;
+        height: auto;
+    }
+    
+    
+    
+}
+
+/* End Medium screens */
+
+
+
+/* Mobile and Tablet screens */
+@media screen and (max-width: 999px){
+    
+    
+    
+    
+}
+
+/* Mobile and Tablet screens */
