@@ -54,7 +54,7 @@
                             <br>
                         </div>
                     </div>
-                    <div class="row episodes-row" id="1-3-row">
+                    <div class="row episodes-row">
                         <div class="col-12 align-content-center episodes-col">
                             <div class="wrapper">
                                 <div class="episode-div" id="v5e1-div" >
@@ -87,6 +87,30 @@
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=Zz2QzqthBng" target="_blank">
                                         <img class="episode-pic" src="/images/v5-episodes/v5e4.jpg" alt="Civil War Digital Digest Vol.5 Episode 4" id="v5e4">
+                                    </a>
+                                </div>
+                                <div class="container-fluid episode-div" id="v5e5-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-five-pop">Episode 5<br>US Blankets Couching Stitch
+                                        <span class="popuptext" id="episode-five-slugline">One way to stitch US on blankets</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=tzEfiOdeQqY" target="_blank">
+                                        <img class="episode-pic" src="/images/v5-episodes/v5e5.jpg" alt="Civil War Digital Digest Vol.5 Episode 5" id="v5e5">
+                                    </a>
+                                </div>
+                                <div class="container-fluid episode-div" id="v5e5a-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-fivea-pop">Episode 5a<br>Blanket Stitch
+                                        <span class="popuptext" id="episode-fivea-slugline">Blanket Stitch</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=ZkBEYX2Lggw" target="_blank">
+                                        <img class="episode-pic" src="/images/v5-episodes/v5e5a.jpg" alt="Civil War Digital Digest Vol.5 Episode 5a" id="v5e5a">
+                                    </a>
+                                </div>
+                                <div class="container-fluid episode-div" id="v5e6-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-six-pop">Episode 6<br>Photographic Types
+                                        <span class="popuptext" id="episode-six-slugline">Explore different photograph types</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=Zfs65t6uqq4&t=1s" target="_blank">
+                                        <img class="episode-pic" src="/images/v5-episodes/v5e6.jpg" alt="Civil War Digital Digest Vol.5 Episode 6" id="v5e6">
                                     </a>
                                 </div>
                             </div>

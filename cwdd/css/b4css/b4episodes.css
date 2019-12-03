@@ -68,18 +68,14 @@ body {
     font-size: 20px;
 }
 
-.episode-div {
-    width: 320px;
-    float: left;
-    text-align: center;
-}
-
 /* Big screens */
 
 @media screen and (min-width: 1600px) {
     .episode-div {
         width: 320px;
         text-align: center;
+        padding: 0px;
+        float: left;
     }
 
     .episodes-col {
@@ -92,16 +88,51 @@ body {
         margin: 0px auto;
     }
     
-    .middle-col {
+    /* top row */
+    #v5e1-div, #v5e2-div, #v5e3-div {
+        margin-bottom: 50px;
+    }
+    
+    #v5e2-div {
         margin: 0px 30px;
     }
     
-    .episode-div {
-        width: 320px;
-        float: left;
-        text-align: center;
+    /* one episode row */
+    #v5e6-div {
+        margin-left: 350px;
+        margin-bottom: 50px;
     }
     
+    /* one episode row end */
+    
+    /* two episode row
+    #v5e4-div {
+        margin-left: 175px;
+        margin-bottom: 50px;
+    }
+    #v5e5-div {
+        margin-left: 30px;
+        padding: 0px;
+        margin-bottom: 50px;
+    }
+    
+     two episode row end */
+    
+    /* three episode row */
+    
+    #v5e4-div {
+        margin-bottom: 50px;
+    }
+    
+    #v5e5-div {
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-bottom: 50px;
+    }
+    
+    #v5e5a-div {
+        margin-bottom: 50px;
+    }
 }
 
 /* End Big screens */
@@ -109,10 +140,45 @@ body {
 
 /* Medium screens */
 @media screen and (min-width: 1000px) and (max-width: 1599px){
-    .wrapper {
-        width: auto;
-        height: auto;
+    
+    .episode-div {
+        width: 320px;
+        text-align: center;
+        padding: 0px;
+        float: left;
     }
+    
+    .wrapper {
+        width: 690px;
+        height: auto;
+        margin: 0px auto;
+    }
+    
+    /* top row */
+    #v5e1-div, #v5e2-div {
+        margin-bottom: 50px;
+    }
+    
+    /* one episode row */
+    
+    #v5e6-div {
+        margin-left: 185px;
+        margin-right: 185px;
+        margin-bottom: 50px;
+    }
+    
+    /* two episode row */
+    #v5e1-div, #v5e3-div, #v5e5-div  {
+        margin-right: 25px;
+        margin-bottom: 50px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div   {
+        margin-left: 25px;
+        margin-bottom: 50px;
+    }
+    
+    
     
     
     
