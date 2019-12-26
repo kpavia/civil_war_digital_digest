@@ -291,6 +291,22 @@
                                 <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e24.jpg" alt="Civil War Digital Digest Vol.5 Episode 24" id="v5e24">
                             </a>
                         </div>
+                        <div class="container-fluid episode-div" id="v5e25-div">
+                            <p class="popup" onclick="popup()" id="episode-twentyfive-pop">Episode 25<br>5 Great US Enlisted Books
+                                <span class="popuptext" id="episode-twentyfive-slugline">Favorite Union enlisted books</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=ZLMAYTAGHRM" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e25.jpg" alt="Civil War Digital Digest Vol.5 Episode 25" id="v5e25">
+                            </a>
+                        </div>
+                        <div class="container-fluid episode-div" id="v5e26-div">
+                            <p class="popup" onclick="popup()" id="episode-twentysix-pop">Episode 26<br>The Christmas Carol
+                                <span class="popuptext" id="episode-twentysix-slugline">The Christmas Carol</span>
+                            </p>
+                            <a href="https://www.youtube.com/watch?v=PgJYLsJNlzs" target="_blank">
+                                <img class="img-responsive episode-pic" src="/images/v5-episodes/v5e26.jpg" alt="Civil War Digital Digest Vol.5 Episode 26" id="v5e26">
+                            </a>
+                        </div>
                     </div>
                     <p>
                         <a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">To Volume I Episodes</a>
