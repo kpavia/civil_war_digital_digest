@@ -68,7 +68,7 @@ body {
     font-size: 20px;
 }
 
-/* Big screens */
+/* Big screens: 3 episode row */
 
 @media screen and (min-width: 1600px) {
     .episode-div {
@@ -84,7 +84,7 @@ body {
     
     .wrapper {
         width: 1020px;
-        height: auto;
+        height: 100%;
         margin: 0px auto;
     }
     
@@ -138,8 +138,8 @@ body {
 /* End Big screens */
 
 
-/* Medium screens */
-@media screen and (min-width: 1000px) and (max-width: 1599px){
+/* Medium screens A: 2 episode rows */
+@media screen and (min-width: 1080px) and (max-width: 1599px){
     
     .episode-div {
         width: 320px;
@@ -150,7 +150,7 @@ body {
     
     .wrapper {
         width: 690px;
-        height: auto;
+        height: 100%;
         margin: 0px auto;
     }
     
@@ -186,13 +186,70 @@ body {
 
 /* End Medium screens */
 
+/* Medium screens B: 2 episode rows */
+@media screen and (min-width: 1000px) and (max-width: 1070px){
+    
+    .episode-div {
+        width: 320px;
+        text-align: center;
+        padding: 0px;
+        float: left;
+    }
+    
+    .wrapper {
+        width: 660px;
+        height: 100%;
+        margin: 0px auto;
+    }
+    
+    .episodes-col {
+        padding: 0px;
+    }
+    
+    /* top row */
+    #v5e1-div, #v5e2-div {
+        margin-bottom: 50px;
+    }
+    
+    /* one episode row */
+    
+    #v5e6-div {
+        margin-left: 185px;
+        margin-right: 185px;
+        margin-bottom: 50px;
+    }
+    
+    /* two episode row */
+    #v5e1-div, #v5e3-div, #v5e5-div  {
+        margin-right: 20px;
+        margin-bottom: 50px;
+    }
+    
+    #v5e2-div, #v5e4-div, #v5e5a-div   {
+        margin-bottom: 50px;
+    }
+    
+}
+
+/* End Medium screens */
 
 
-/* Mobile and Tablet screens */
+
+/* Mobile and Tablet screens: 1 episode row */
 @media screen and (max-width: 999px){
+    .episode-div {
+        width: 320px;
+        text-align: center;
+        padding: 0px;
+        float: left;
+        margin-bottom: 50px;
+    }
     
-    
-    
+    .wrapper {
+        width: 320px;
+        height: 100%;
+        margin: 0px auto;
+    }
     
 }
 
