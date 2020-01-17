@@ -35,6 +35,7 @@
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v3.php">Volume III (2017)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v4.php">Volume IV (2018)</a></li>
                                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v5.php">Volume V (2019)</a></li>
+                                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v6.php">Volume VI (2020)</a></li>
                                 </ul>
                             </li>
                             <li id="store"><a href="http://civilwardigitaldigest.com/pages/store.php" target="_blank">Store</a></li>

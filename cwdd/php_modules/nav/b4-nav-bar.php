@@ -15,7 +15,7 @@
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php">Volume III (2017)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">Volume IV (2018)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/v5-episodes.php">Volume V (2019)</a></li>
-                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/v6-episodes.phpp">Volume VI (2020)</a></li>
+                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/v6-episodes.php">Volume VI (2020)</a></li>
                 </ul>
             </li>
             <li class="nav-item dropdown">
@@ -26,6 +26,7 @@
                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v3.php">Volume III (2017)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v4.php">Volume IV (2018)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/research/research-v5.php">Volume V (2019)</a></li>
+                    <li><a href="http://civilwardigitaldigest.com/pages/research/research-v6.php">Volume VI (2020)</a></li>
                 </ul>
             </li>
             <li class="nav-item">

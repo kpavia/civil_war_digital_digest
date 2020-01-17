@@ -4,16 +4,16 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-research.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
-            Vol. 6 Episodes - Civil War Digital Digest
+            Vol. 6 Research - Civil War Digital Digest
         </title>
         <style>
         </style>
         <script>
             $(document).ready(function() {
-                $("#episodes-dropdown").addClass("highlight-tab");
+                $("#research-dropdown").addClass("highlight-tab");
             }); //end ready function
         </script>
         <!-- Google Analytics Code -->
@@ -49,41 +49,33 @@
                     <div class="row">
                         <div class="col-12">
                             <h1 class="center" id="header-title">Civil War Digital Digest</h1>
-                            <h2 class="center">Episodes, Vol. VI</h2>
-                            <h4 class="center">Click on the image to view the episode</h4>
-                            <h3 class="center"><a href="http://civilwardigitaldigest.com/pages/research/research-v6.php">Vol. VI Research</a></h3>
+                            <h2 class="center">Research, Vol. VI</h2>
                             <br>
                         </div>
                     </div>
+                    <div class="row">
+                        <div class="col-12 center">
+                            <h3>
+                                <a href="http://civilwardigitaldigest.com/pages/episodes/v6-episodes.php">
+                                    Vol. VI Episodes
+                                </a>
+                            </h3>
+                        </div>
+                    </div>
+                    <br>
                     <div class="row episodes-row">
                         <div class="col-12 align-content-center episodes-col">
-                            <div class="wrapper">
-                                <div class="episode-div" id="v6e1-div" >
-                                    <p class="popup episode-title" onclick="popup()" id="episode-one-pop">Episode 1<br>Lucretia Gillett, Photographer
-                                        <span class="popuptext" id="episode-one-slugline">Lucretia Gillett, Photographer</span>
-                                    </p>
-                                    <a href="https://www.youtube.com/watch?v=fXvpJR2ZTGw" target="_blank">
-                                        <img class="episode-pic" src="/images/v6-episodes/v6e1.jpg" alt="Civil War Digital Digest Vol.6 Episode 1" id="v6e1">
-                                    </a>
-                                </div>
-                                <div class="episode-div middle-col" id="v6e2-div">
-                                    <p class="popup episode-title" onclick="popup()" id="episode-two-pop">Episode 2<br>Sword & Saber Nomenclature
-                                        <span class="popuptext" id="episode-two-slugline">Learn Sword & Saber Nomenclature</span>
-                                    </p>
-                                    <a href="https://www.youtube.com/watch?v=wZfqqGlb6mA" target="_blank">
-                                        <img class="episode-pic" src="/images/v6-episodes/v6e2.jpg" alt="Civil War Digital Digest Vol.6 Episode 2" id="v6e2">
-                                    </a>
-                                </div>
+                            <h4 class="center">
+                                <a href="#episode-two" data-toggle="collapse" class="research-collapsibles">Episode 2<br>Sword & Saber Nomenclature</a>
+                            </h4>
+                            <div id="episode-two" class="collapse center">
+                                <p>US 1862 Ordnance Manual</p>
+                                <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" 
+                                        src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=allmiccivwar-20&marketplace=amazon&region=US&placement=B00LCEKTIG&asins=B00LCEKTIG&linkId=95fe35908a42a31b935575e259c5e321&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+                                </iframe>
                             </div>
                         </div>
-                        
                     </div>
-                    <div class="row" id="4-6-row">
-                        <div class="col-12 col-sm-12 col-md-12 col-lg-12">
-                            
-                        </div>
-                    </div>
-                    
                 </div>
                 <aside class="col-md-2 col-lg-2 justify-content-center" id="right-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>

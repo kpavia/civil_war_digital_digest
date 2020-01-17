@@ -210,9 +210,7 @@
                 </section>
                 <aside class="col-sm-2 sidenav" id="right-side-aside">
                     <p>
-                        <a href="http://www.comersgunworks.com/" target="_blank" media="screen, handheld">
-                            <img src="/images/comer-ad.jpg" class="img-responsive" id="second-right-ad-pic" alt="Link goes Comer's Gunworks">
-                        </a>
+                        
                     </p>
                 </aside>
                 
