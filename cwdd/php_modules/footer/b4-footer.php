@@ -2,6 +2,6 @@
     <br>
     <p>&copy; 2015 - 2019, Look Around You Ventures, LLC<br>
        Site built and maintained by Crow Web Design Studios<br>
-       Last updated September 13, 2019
+       Last updated January 16, 2020
     </p>
 </footer>

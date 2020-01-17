@@ -1,0 +1,56 @@
+/* === header === */
+header {
+    background-color: #B6BEC0;
+}
+
+@media screen and (max-width: 700px) {
+    #logo {
+        content: url("/images/CWDDPhoneBanner.jpg");
+    }
+}
+
+/*=== nav bar ===*/
+#nav-bar {
+    background-color: #A0A75A;
+    padding: 0px !important;
+    border: 1px solid #000;
+}
+.nav-item > a {
+    color: #000;
+    font-size: 23px;
+    font-family: 'IM Fell DW Pica', serif;
+    padding: 15px 15px !important;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.highlight-tab {
+    background-color: #000;
+    color: #FFF !important;
+}
+
+.dropdown-menu > li > a {
+    color: #000;
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 20px;
+}
+
+/*=== sidebars ===*/
+
+aside {
+    background-color: #394650;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/*=== footer ===*/
+footer {
+    background-color: #8D8B8B;
+    color: #000;
+    font-family: 'IM Fell DW Pica', serif;
+    text-align: center;
+    height: 150px;
+}

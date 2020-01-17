@@ -15,6 +15,7 @@
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php">Volume III (2017)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeFour.php">Volume IV (2018)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/v5-episodes.php">Volume V (2019)</a></li>
+                    <li><a href="http://civilwardigitaldigest.com/pages/episodes/v6-episodes.phpp">Volume VI (2020)</a></li>
                 </ul>
             </li>
             <li class="nav-item dropdown">
@@ -38,6 +39,12 @@
             </li>
             <li class="nav-item">
                 <a id="links-dropdown" href="http://civilwardigitaldigest.com/pages/links.php" class="nav-link">Links</a>
+            </li>
+            <li class="nav-item">
+                <a id="music" class="nav-link" href="https://historytunes.net/">Music</a>
+            </li>
+            <li class="nav-item">
+                <a id="movies" class="nav-link" href="http://civilwardigitaldigest.com/holdmyhorse.php">Movies</a>
             </li>
         </ul>
     </div>
