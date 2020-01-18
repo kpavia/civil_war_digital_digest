@@ -65,7 +65,7 @@
                     <a href="http://civilwardigitaldigest.com/pages/episodes/v6-episodes.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/new-episodes-button.jpg" alt="episodes menu button">
                     </a>
-                    <a href="http://civilwardigitaldigest.com/pages/research/research-v5.php" media="screen, handheld">
+                    <a href="http://civilwardigitaldigest.com/pages/research/research-v6.php" media="screen, handheld">
                         <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/new-research-button.jpg" alt="research menu button" >
                     </a>
                     <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
