@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes-staging.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Episodes - Civil War Digital Digest
@@ -80,6 +80,14 @@
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=-nIeCReV3JI" target="_blank">
                                         <img class="episode-pic" src="/images/v6-episodes/v6e3.jpg" alt="Civil War Digital Digest Vol.6 Episode 3" id="v6e3">
+                                    </a>
+                                </div>
+                                <div class="episode-div middle-col" id="v6e4-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-four-pop">Episode 4<br>The Historical Campaign
+                                        <span class="popuptext" id="episode-four-slugline">About the non-profit The Historical Campaign</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=fQqmVBjBTVY" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e4.jpg" alt="Civil War Digital Digest Vol.6 Episode 4" id="v6e4">
                                     </a>
                                 </div>
                             </div>

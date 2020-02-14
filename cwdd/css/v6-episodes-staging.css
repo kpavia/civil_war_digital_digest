@@ -95,13 +95,13 @@ body {
     
     /* end top row */
     
-    /* one episode row
-    #v5e11-div {
+    /* one episode row */
+    #v6e4-div {
         margin-left: 350px;
         margin-bottom: 50px;
     }
     
-     one episode row end */
+    /* one episode row end */
     
     /* two episode row
     #v6e1-div {
@@ -159,7 +159,7 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row */
+    /* one episode row
     
     #v6e3-div {
         margin-left: 185px;
@@ -167,15 +167,15 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row end */
+     one episode row end */
     
     /* two episode row */
-    #v6e1-div {
+    #v6e1-div, #v6e3-div {
         margin-right: 25px;
         margin-bottom: 50px;
     }
     
-    #v6e2-div  {
+    #v6e2-div, #v6e4-div  {
         margin-left: 25px;
         margin-bottom: 50px;
     }
@@ -211,7 +211,7 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row */
+    /* one episode row
     
     #v6e3-div {
         margin-left: 185px;
@@ -219,15 +219,15 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row end */
+     one episode row end */
     
     /* two episode row */
-    #v6e1-div {
+    #v6e1-div, #v6e3-div {
         margin-right: 20px;
         margin-bottom: 50px;
     }
     
-    #v6e2-div {
+    #v6e2-div, #v6e4-div {
         margin-bottom: 50px;
     }
     /* end two episode row */
