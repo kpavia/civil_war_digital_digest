@@ -90,6 +90,14 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e4.jpg" alt="Civil War Digital Digest Vol.6 Episode 4" id="v6e4">
                                     </a>
                                 </div>
+                                <div class="episode-div middle-col" id="v6e5-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-five-pop">Episode 5<br>India Rubber: Military Uses
+                                        <span class="popuptext" id="episode-five-slugline">Rubber items in the military</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=yrs7EgqZ6W4" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e5.jpg" alt="Civil War Digital Digest Vol.6 Episode 5" id="v6e5">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         
