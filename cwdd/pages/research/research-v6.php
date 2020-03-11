@@ -76,6 +76,45 @@
                             </div>
                         </div>
                     </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#episode-six" data-toggle="collapse" class="research-collapsibles">Episode 6<br>Online Research</a>
+                            </h4>
+                            <div id="episode-six" class="collapse center">
+                                <p class="heading">Archive.org</p>
+                                <p class="link-size">
+                                    <a href="https://archive.org/details/volunteerunitsunion" target="_blank">
+                                        Compiled Records of Union Volunteer Military Units
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://archive.org/details/volunteerunitsconfederate" target="_blank">
+                                        Compiled Records of Confederate Volunteer Military Units
+                                    </a>
+                                </p>
+                                <br>
+                                <p class="heading">Official Records</p>
+                                <p class="link-size">
+                                    <a href="http://collections.library.cornell.edu/moa_new/waro.html" target="_blank">
+                                        Cornell University Library: Making of America
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://ehistory.osu.edu/books/official-records/index" target="_blank">
+                                        Ohio State University eLibrary
+                                    </a>
+                                </p>
+                                <br>
+                                <p class="heading">
+                                    <a href="https://www.loc.gov/pictures/collection/cwp/" target="_blank">
+                                        Library of Congress Civil War Photos
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <aside class="col-md-2 col-lg-2 justify-content-center" id="right-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
