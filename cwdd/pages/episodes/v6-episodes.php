@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-episodes-staging.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Episodes - Civil War Digital Digest
@@ -66,7 +66,7 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e1.jpg" alt="Civil War Digital Digest Vol.6 Episode 1" id="v6e1">
                                     </a>
                                 </div>
-                                <div class="episode-div middle-col" id="v6e2-div">
+                                <div class="episode-div" id="v6e2-div">
                                     <p class="popup episode-title" onclick="popup()" id="episode-two-pop">Episode 2<br>Sword & Saber Nomenclature
                                         <span class="popuptext" id="episode-two-slugline">Learn Sword & Saber Nomenclature</span>
                                     </p>
@@ -74,7 +74,7 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e2.jpg" alt="Civil War Digital Digest Vol.6 Episode 2" id="v6e2">
                                     </a>
                                 </div>
-                                <div class="episode-div middle-col" id="v6e3-div">
+                                <div class="episode-div" id="v6e3-div">
                                     <p class="popup episode-title" onclick="popup()" id="episode-three-pop">Episode 3<br>Hooker's Flying Column
                                         <span class="popuptext" id="episode-three-slugline">Learn about Hooker’s light division in 1863 </span>
                                     </p>
@@ -82,7 +82,7 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e3.jpg" alt="Civil War Digital Digest Vol.6 Episode 3" id="v6e3">
                                     </a>
                                 </div>
-                                <div class="episode-div middle-col" id="v6e4-div">
+                                <div class="episode-div" id="v6e4-div">
                                     <p class="popup episode-title" onclick="popup()" id="episode-four-pop">Episode 4<br>The Historical Campaign
                                         <span class="popuptext" id="episode-four-slugline">About the non-profit The Historical Campaign</span>
                                     </p>
@@ -90,12 +90,20 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e4.jpg" alt="Civil War Digital Digest Vol.6 Episode 4" id="v6e4">
                                     </a>
                                 </div>
-                                <div class="episode-div middle-col" id="v6e5-div">
+                                <div class="episode-div" id="v6e5-div">
                                     <p class="popup episode-title" onclick="popup()" id="episode-five-pop">Episode 5<br>India Rubber: Military Uses
                                         <span class="popuptext" id="episode-five-slugline">Rubber items in the military</span>
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=yrs7EgqZ6W4" target="_blank">
                                         <img class="episode-pic" src="/images/v6-episodes/v6e5.jpg" alt="Civil War Digital Digest Vol.6 Episode 5" id="v6e5">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e6-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-six-pop">Episode 6<br>3 Free Online Resources
+                                        <span class="popuptext" id="episode-six-slugline">Free Civil War research sources</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=_9x064alVqc" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e6.jpg" alt="Civil War Digital Digest Vol.6 Episode 6" id="v6e6">
                                     </a>
                                 </div>
                             </div>

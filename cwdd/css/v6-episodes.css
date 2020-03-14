@@ -103,7 +103,7 @@ body {
     
      one episode row end */
     
-    /* two episode row */
+    /* two episode row 
     #v6e4-div {
         margin-left: 175px;
         margin-bottom: 50px;
@@ -114,25 +114,25 @@ body {
         margin-bottom: 50px;
     }
     
-    /* two episode row end */
+     two episode row end */
     
-    /* three episode row
+    /* three episode row */
     
-    #v5e4-div, #v5e6-div, #v5e8a-div, #v5e11-div {
+    #v6e4-div {
         margin-bottom: 50px;
     }
     
-    #v5e5-div, #v5e7-div, #v5e9-div, #v5e12-div {
+    #v6e5-div {
         margin-left: 30px;
         margin-right: 30px;
         margin-bottom: 50px;
     }
     
-    #v5e5a-div, #v5e8-div, #v5e10-div, #v5e13-div {
+    #v6e6-div {
         margin-bottom: 50px;
     }
     
-     end three episode row  */
+    /* end three episode row  */
 }
 
 /* End Big screens */
@@ -159,7 +159,7 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row */
+    /* one episode row 
     
     #v6e5-div {
         margin-left: 185px;
@@ -167,15 +167,15 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row end */
+    one episode row end */
     
     /* two episode row */
-    #v6e1-div, #v6e3-div {
+    #v6e1-div, #v6e3-div, #v6e5-div {
         margin-right: 25px;
         margin-bottom: 50px;
     }
     
-    #v6e2-div, #v6e4-div  {
+    #v6e2-div, #v6e4-div, #v6e6-div  {
         margin-left: 25px;
         margin-bottom: 50px;
     }
@@ -211,7 +211,7 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row */
+    /* one episode row
     
     #v6e5-div {
         margin-left: 185px;
@@ -219,15 +219,15 @@ body {
         margin-bottom: 50px;
     }
     
-    /* one episode row end */
+    one episode row end */
     
     /* two episode row */
-    #v6e1-div, #v6e3-div {
+    #v6e1-div, #v6e3-div, #v6e5-div {
         margin-right: 20px;
         margin-bottom: 50px;
     }
     
-    #v6e2-div, #v6e4-div {
+    #v6e2-div, #v6e4-div, #v6e6-div {
         margin-bottom: 50px;
     }
     /* end two episode row */
