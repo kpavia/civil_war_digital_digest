@@ -67,41 +67,56 @@
                             <li>William Debord</li>
                             <li>Justin Dorsey</li>
                             <li>Wanda & Ed Eichler</li>
+                            <li>Embassy Security Group</li>
+                            <li>Chris Grant</li>
                             <li>Tim Hallman</li>
                             <li>Jordan Harrell</li>
                             <li>Jenkins & Company</li>
                             <li>Scott Johnson</li>
+                            <li>Christopher Lau</li>
+                            <li>David May</li>
                             <li>Cody Miller</li>
-                            
                             <li>Dora Rodriguez-Sharkey</li>
                             <li>Raleigh Depot</li>
                             <li>Ty Sanford</li>
                             <li>Paul Skinner</li>
                             <li>Matthew Tolan</li>
+                            <li>The Tube Factory</li>
+                            <li>Tyler Underwood</li>
+                            <li>Neil Wetherington</li>
                             <li>Brandon Wheeldon</li>
                         </ul>
                         <br>
                         <h2>Division Level</h2>
                         <ul class="text-center">
+                            <li>Andrew J. Ackeret</li>
                             <li>Logan Banks</li>
                             <li>Mark Benning</li>
                             <li>John Connors</li>
                             <li>Brian Crater</li>
                             <li>Robert Dickson</li>
+                            <li>Barry Dusel</li>
                             <li>Marc Hallacker</li>
+                            <li>Hiraeth Restorations, LLC</li>
+                            <li>Matt Nowlin</li>
                             <li>James Olson</li>
                             <li>Kenneth Pavia</li>
+                            <li>Daniel Sabin</li>
                             <li>Ethan Smith</li>
+                            <li>The Historical Campaign</li>
                         </ul>
                         <br>
                         <h2>Brigade Level</h2>
                         <ul class="text-center">
                             <li>Andrew J. Ackeret</li>
                             <li>Marvin B. Speed</li>
-                            <li>Agents Campbell and Pelican's Military Goods</li>
+                            <li>Agents Campbell & Pelican's Military Goods</li>
                             <li>Jason Brown</li>
+                            <li>Alton Bunn, Jr.</li>
                             <li>Tom Burke</li>
                             <li>Michael Collins</li>
+                            <li>Brandon Delvo</li>
+                            <li>Dorian Dolare</li>
                             <li>Josh Donbraska</li>
                             <li>David & Kathleen Eichler</li>
                             <li>Amanda Fross</li>
@@ -109,22 +124,26 @@
                             <li>Kristopher Green</li>
                             <li>William Green</li>
                             <li>Scott Gulley</li>
-                            
                             <li>Mary B. Hayes</li>
                             <li>Chris Henderson</li>
                             <li>Kyle Hibner</li>
                             <li>Hiraeth Restorations, LLC</li>
                             <li>Robert Huck</li>
+                            <li>Brad Ireland</li>
+                            <li>Scott Johnson</li>
+                            <li>Clay Joiner</li>
                             <li>Ross L. Lamoreaux</li>
                             <li>Ray Lennard</li>
-                            <li>Robert Craig Milton</li>
+                            <li>Robert C. Milton</li>
                             <li>James Niebel</li>
                             <li>Michael Scheib</li>
                             <li>Michael Shafto</li>
                             <li>Scott Sheets</li>
                             <li>South Union Mills</li>
+                            <li>Marvin B. Speed</li>
                             <li>Jeff Williams</li>
                             <li>Don Woods</li>
+                            <li>Yassilmissil Productions</li>
                             <li>Bridger Zadina</li>
                             <li>9th Ohio: A Living History</li>
                             <li>69th NYSV, Co.A</li>

@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes-staging.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Episodes - Civil War Digital Digest
@@ -104,6 +104,14 @@
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=_9x064alVqc" target="_blank">
                                         <img class="episode-pic" src="/images/v6-episodes/v6e6.jpg" alt="Civil War Digital Digest Vol.6 Episode 6" id="v6e6">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e7-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-seven-pop">Episode 7<br>US Musket Tools
+                                        <span class="popuptext" id="episode-seven-slugline">Overview of US rifle & musket tools</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=ihcbe2-2wNU" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e7.jpg" alt="Civil War Digital Digest Vol.6 Episode 7" id="v6e7">
                                     </a>
                                 </div>
                             </div>

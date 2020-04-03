@@ -106,6 +106,14 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e6.jpg" alt="Civil War Digital Digest Vol.6 Episode 6" id="v6e6">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="v6e7-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-seven-pop">Episode 7<br>US Musket Tools
+                                        <span class="popuptext" id="episode-seven-slugline">Overview of US rifle & musket tools</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=ihcbe2-2wNU" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e7.jpg" alt="Civil War Digital Digest Vol.6 Episode 7" id="v6e7">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         

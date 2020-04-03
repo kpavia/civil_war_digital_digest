@@ -1,0 +1,32 @@
+/*=== body/content ===*/
+body {
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+.center {
+    text-align: center;
+}
+
+#header-title {
+    margin-top: 30px;
+}
+
+.episode-title {
+    text-decoration: underline;
+}
+
+.heading {
+    font-size: 24px;
+}
+
+.link-size {
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 18px;
+}
