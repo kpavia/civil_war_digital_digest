@@ -48,5 +48,19 @@ $(document).ready(function() {
         $("#links-dropdown").css("color", "black");
     });
     
+    $("#music").mouseover(function(){
+        $("#music").css("color", "white");
+    });
+    $("#music").mouseout(function(){
+        $("#music").css("color", "black");
+    });
+    
+    $("#movies").mouseover(function(){
+        $("#movies").css("color", "white");
+    });
+    $("#movies").mouseout(function(){
+        $("#movies").css("color", "black");
+    });
+    
 });
 
