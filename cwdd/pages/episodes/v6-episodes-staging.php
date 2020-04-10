@@ -114,6 +114,22 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e7.jpg" alt="Civil War Digital Digest Vol.6 Episode 7" id="v6e7">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="v6e8-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-eight-pop">Episode 8<br>Shearing Sheep
+                                        <span class="popuptext" id="episode-eight-slugline">Civil War Era Sheep Shearing</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=dZO5wvx84KQ" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e8.jpg" alt="Civil War Digital Digest Vol.6 Episode 8" id="v6e8">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e9-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-nine-pop">Episode 9<br>US Packing for Chancellorsville
+                                        <span class="popuptext" id="episode-nine-slugline">Chancellorsville campaign packing</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=Z4hKb6doO8I" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e9.jpg" alt="Civil War Digital Digest Vol.6 Episode 9" id="v6e9">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         

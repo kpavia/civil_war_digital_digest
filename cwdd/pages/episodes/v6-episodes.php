@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-episodes-staging.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Episodes - Civil War Digital Digest
@@ -112,6 +112,22 @@
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=ihcbe2-2wNU" target="_blank">
                                         <img class="episode-pic" src="/images/v6-episodes/v6e7.jpg" alt="Civil War Digital Digest Vol.6 Episode 7" id="v6e7">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e8-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-eight-pop">Episode 8<br>Shearing Sheep
+                                        <span class="popuptext" id="episode-eight-slugline">Civil War Era Sheep Shearing</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=dZO5wvx84KQ" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e8.jpg" alt="Civil War Digital Digest Vol.6 Episode 8" id="v6e8">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e9-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-nine-pop">Episode 9<br>US Packing for Chancellorsville
+                                        <span class="popuptext" id="episode-nine-slugline">Chancellorsville campaign packing</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=Z4hKb6doO8I" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e9.jpg" alt="Civil War Digital Digest Vol.6 Episode 9" id="v6e9">
                                     </a>
                                 </div>
                             </div>
