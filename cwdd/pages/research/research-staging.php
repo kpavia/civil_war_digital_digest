@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-research.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-research-staging.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Research - Civil War Digital Digest
@@ -110,6 +110,105 @@
                                 <p class="heading">
                                     <a href="https://www.loc.gov/pictures/collection/cwp/" target="_blank">
                                         Library of Congress Civil War Photos
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#episode-nine" data-toggle="collapse" class="research-collapsibles">Episode 9<br>US Packing for Chancellorsville</a>
+                            </h4>
+                            <div id="episode-nine" class="collapse center">
+                                <p class="link-size">
+                                    <a href="https://babel.hathitrust.org/cgi/pt?id=coo.31924085376626&view=1up&seq=205" target="_blank">
+                                        Order to have five days of rations packed in knapsack
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#april-15-livestream" data-toggle="collapse" class="research-collapsibles">April 15, 2020<br>Livestream</a>
+                            </h4>
+                            <div id="april-15-livestream" class="collapse center">
+                                <p class="link-size">
+                                    <span class="underline">Books</span>
+                                    <br>
+                                    The Bloody Crucible of Courage - Brent Nosworthy
+                                    <br>
+                                    The Rifle Musket in Civil War Combat - Earl J. Hess
+                                    <br>
+                                    Hardee's Infantry Tactics
+                                    <br>
+                                    The Art of War - Baron Antonine Henri de Jomini
+                                    <br>
+                                    On War - Carl von Clausewitz
+                                    <br>
+                                    Right Hand of Command - R. Steven Jones
+                                    <br>
+                                    Battle Tactics of the Civil War - Paddy Griffith
+                                </p>
+                                <br>
+                                <p class="link-size">
+                                    <span class="underline">Scott's Tactics in PDF format</span>
+                                    <br>
+                                    <a href="https://drive.google.com/open?id=18ynO_BU7dTXtWygODCkZNfIJ0ZQG3XxP" target="_blank">
+                                        Volume 1
+                                    </a>
+                                    <br>
+                                    <a href="https://drive.google.com/open?id=1FEKHMVOM_RIWqzEmT1jXNwyRGMhUc02o" target="_blank">
+                                        Volume 2
+                                    </a>
+                                    <br>
+                                    <a href="https://drive.google.com/open?id=1whO7lHYfwxrHhcvy4AM1ZK7YFL9MvFmc" target="_blank">
+                                        Volume 3
+                                    </a>
+                                    <br>
+                                    <span class="underline">Scott's Tactics in HTML format</span>
+                                    <br>
+                                    <a href="http://www.drillnet.net/SCOTTSTACTICS/SCOTTSTACTICS.htm" target="_blank">
+                                        Scott's Infantry Tactics
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">French 1791 Tactics</span>
+                                    <br>
+                                    <a href="https://books.google.fr/books?id=CQ5OAAAAYAAJ&pg=PR1-PA33&redir_esc=y&hl=en#v=onepage&q&f=false" target="_blank">
+                                        Infantry Maneuvers
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">British Tactics(1858)</span>
+                                    <br>
+                                    <a href="https://books.google.com/books/about/Field_exercise_and_evolutions_of_infantr.html?id=uUYIAAAAQAAJ" target="_blank">
+                                        Infantry Field Exercises and Evolutions
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">Henry Heth Target Practice (1858)</span>
+                                    <br>
+                                    <a href="https://ia801709.us.archive.org/20/items/systemoftargetpr00henr/systemoftargetpr00henr.pdf" target="_blank">
+                                        A System of Target Practice for Use of Troops Armed with the Musket, Rifle-Musket, Rifle, or Carbine
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">US Army War College 1918 Circular</span>
+                                    <br>
+                                    <a href="https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t5h999p20&view=1up&seq=1" target="_blank">
+                                        Training Circular #5: Infantry Training
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">4th Infantry Division WW1 History (1920)</span>
+                                    <br>
+                                    <a href="https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t5h999p20&view=1up&seq=1" target="_blank">
+                                        4th ID Services and Achievements in the Great War - Col. Christian Bach, 4th ID Chief of Staff
                                     </a>
                                 </p>
                             </div>
