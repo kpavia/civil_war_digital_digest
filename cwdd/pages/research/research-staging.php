@@ -140,19 +140,33 @@
                                 <p class="link-size">
                                     <span class="underline">Books</span>
                                     <br>
-                                    The Bloody Crucible of Courage - Brent Nosworthy
+                                    <a href="https://amzn.to/3b8dNhn" target="_blank">
+                                        The Bloody Crucible of Courage - Brent Nosworthy
+                                    </a>
                                     <br>
-                                    The Rifle Musket in Civil War Combat - Earl J. Hess
+                                    <a href="https://amzn.to/2VugD9O" target="_blank">
+                                        The Rifle Musket in Civil War Combat - Earl J. Hess
+                                    </a>
                                     <br>
-                                    Hardee's Infantry Tactics
+                                    <a href="https://amzn.to/2VasFWU" target="_blank">
+                                        Hardee's Infantry Tactics
+                                    </a>
                                     <br>
-                                    The Art of War - Baron Antonine Henri de Jomini
+                                    <a href="https://amzn.to/2K5n6CX" target="_blank">
+                                        The Art of War - Baron Antonine Henri de Jomini
+                                    </a>
                                     <br>
-                                    On War - Carl von Clausewitz
+                                    <a href="https://amzn.to/2VcS2r8" target="_blank">
+                                        On War - Carl von Clausewitz
+                                    </a>
                                     <br>
-                                    Right Hand of Command - R. Steven Jones
+                                    <a href="https://amzn.to/3afxjXU" target="_blank">
+                                        Right Hand of Command - R. Steven Jones
+                                    </a>
                                     <br>
-                                    Battle Tactics of the Civil War - Paddy Griffith
+                                    <a href="https://amzn.to/3agIgZb" target="_blank">
+                                        Battle Tactics of the Civil War - Paddy Griffith
+                                    </a>
                                 </p>
                                 <br>
                                 <p class="link-size">
@@ -195,6 +209,13 @@
                                     <br>
                                     <a href="https://ia801709.us.archive.org/20/items/systemoftargetpr00henr/systemoftargetpr00henr.pdf" target="_blank">
                                         A System of Target Practice for Use of Troops Armed with the Musket, Rifle-Musket, Rifle, or Carbine
+                                    </a>
+                                    <br>
+                                    <br>
+                                    <span class="underline">Rifles and Rifle Practice - Cadmus M. Wilcox (1859)</span>
+                                    <br>
+                                    <a href="https://books.google.com/books/about/Rifles_and_Rifle_Practice.html?id=JNtEAAAAIAAJ&fbclid=IwAR238CQFzBKVa5RQvsBI3mtEXaphHI_BRcqUWgkZDnUhy0Jq_0vZ9YGcYRk" target="_blank">
+                                        A Treatise upon the Theory of Rifle Firing
                                     </a>
                                     <br>
                                     <br>
