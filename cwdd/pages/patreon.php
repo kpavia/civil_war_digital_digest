@@ -46,7 +46,7 @@
                         <div class="col-12 center">
                             <h1 id="header-title">Civil War Digital Digest</h1>
                             <h2>Patreon CWDD Coffee Grinders</h2>
-                            <img src="/images/eagle.jpg" alt="eagle" />
+                            <img class="img-fluid" src="/images/eagle.jpg" alt="eagle" />
                             <br>
                         </div>
                     </div>
@@ -61,24 +61,31 @@
                                 <li>Wanda & Ed Eichler</li>
                                 <li>Embassy Security Group</li>
                                 <li>Chris Grant</li>
+                                <li>Nicolas Godwin</li>
+                                <li>Scott Gulley</li>
                                 <li>Tim Hallman</li>
                                 <li>Jordan Harrell</li>
                                 <li>Jenkins & Company</li>
+                                <li>Brian D. Jankowski</li>
                                 <li>Scott Johnson</li>
                                 <li>Christopher Lau</li>
                                 <li>David May</li>
                                 <li>Cody Miller</li>
+                                <li>James Olson</li>
+                                <li>Andrew Pleva</li>
                                 <li>Dora Rodriguez-Sharkey</li>
                                 <li>Raleigh Depot</li>
                                 <li>Ty Sanford</li>
                                 <li>Paul Skinner</li>
+                                <li>Joe Smotherman</li>
                                 <li>Matthew Tolan</li>
                                 <li>The Tube Factory</li>
                                 <li>Tyler Underwood</li>
                                 <li>Neil Wetherington</li>
                                 <li>Brandon Wheeldon</li>
+                                <li>Wolf Pack Mess</li>
                             </ul>
-                            <img src="/images/eagle.jpg" alt="eagle" />
+                            <img class="img-fluid" src="/images/eagle.jpg" alt="eagle" />
                             <h2 class="tier">Division Level</h2>
                             <ul>
                                 <li>Andrew J. Ackeret</li>
@@ -88,21 +95,24 @@
                                 <li>Brian Crater</li>
                                 <li>Robert Dickson</li>
                                 <li>Barry Dusel</li>
+                                <li>David Dzierbicki</li>
                                 <li>Marc Hallacker</li>
+                                <li>Chris Lean</li>
                                 <li>Hiraeth Restorations, LLC</li>
                                 <li>Matt Nowlin</li>
-                                <li>James Olson</li>
                                 <li>Kenneth Pavia</li>
                                 <li>Daniel Sabin</li>
                                 <li>Ethan Smith</li>
+                                <li>Brian Wash</li>
                                 <li>The Historical Campaign</li>
                             </ul>
-                            <img src="/images/eagle.jpg" alt="eagle" />
+                            <img class="img-fluid" src="/images/eagle.jpg" alt="eagle" />
                             <h2 class="tier">Brigade Level</h2>
                             <ul class="text-center">
                                 <li>Andrew J. Ackeret</li>
-                                <li>Marvin B. Speed</li>
+                                <li>Gary Arndt</li>
                                 <li>Agents Campbell & Pelican's Military Goods</li>
+                                <li>Dennis Brinker</li>
                                 <li>Jason Brown</li>
                                 <li>Alton Bunn, Jr.</li>
                                 <li>Tom Burke</li>
@@ -115,7 +125,7 @@
                                 <li>Robert Gobtop</li>
                                 <li>Kristopher Green</li>
                                 <li>William Green</li>
-                                <li>Scott Gulley</li>
+                                <li>Christopher Harward</li>
                                 <li>Mary B. Hayes</li>
                                 <li>Chris Henderson</li>
                                 <li>Kyle Hibner</li>
@@ -128,11 +138,13 @@
                                 <li>Ray Lennard</li>
                                 <li>Robert C. Milton</li>
                                 <li>James Niebel</li>
+                                <li>John Oakley</li>
                                 <li>Michael Scheib</li>
                                 <li>Michael Shafto</li>
                                 <li>Scott Sheets</li>
                                 <li>South Union Mills</li>
                                 <li>Marvin B. Speed</li>
+                                <li>Franklin D. Van Valkenburg</li>
                                 <li>Jeff Williams</li>
                                 <li>Don Woods</li>
                                 <li>Yassilmissil Productions</li>
@@ -140,9 +152,10 @@
                                 <li>9th Ohio: A Living History</li>
                                 <li>69th NYSV, Co.A</li>
                             </ul>
-                            <img src="/images/eagle.jpg" alt="eagle" />
+                            <img class="img-fluid" src="/images/eagle.jpg" alt="eagle" />
                             <h2 class="tier">Regimental Level</h2>
                             <ul class="text-center">
+                                <li>Francis Chapple</li>
                                 <li>Mitch Critel</li>
                                 <li>Travis Daniel</li>
                                 <li>Neil Ferdinand</li>
@@ -152,6 +165,7 @@
                                 <li>Tim Koenig</li>
                                 <li>Scott Lawalin</li>
                                 <li>Kevin Lindsey</li>
+                                <li>Dick Milstead</li>
                                 <li>Konstantin Nikolaievich</li>
                                 <li>Jim O'Donnell</li>
                                 <li>Scott Parish</li>
@@ -159,6 +173,8 @@
                                 <li>Dave Rambow</li>
                                 <li>Aaron Rowland</li>
                                 <li>Korey Saunders</li>
+                                <li>Jim Scheidel</li>
+                                <li>Maury Schuh</li>
                                 <li>Greg Starbuck</li>
                                 <li>Greg Swank</li>
                                 <li>Eric Urbanas</li>
@@ -168,26 +184,36 @@
                                 <li>Ron Westlake</li>
                                 <li>Ginny Wood</li>
                             </ul>
-                            <img src="/images/eagle.jpg" alt="eagle" />
+                            <img class="img-fluid" src="/images/eagle.jpg" alt="eagle" />
                             <h2 class="tier">Company Level</h2>
                             <ul class="text-center">
+                                <li>Thomas B. Aagaard</li>
                                 <li>Laura Beach</li>
                                 <li>Marek Bennett</li>
                                 <li>Patrick Branson</li>
-                                <li>Dennis Brinker</li>
                                 <li>Michael Cairns</li>
+                                <li>Grant Denis</li>
                                 <li>William Eichler</li>
+                                <li>Callum Fox</li>
                                 <li>Jane Hall</li>
                                 <li>Sebastian Hardinger</li>
+                                <li>Mickey Holding</li>
+                                <li>Chris Lantz</li>
+                                <li>Richard Laur</li>
                                 <li>Johnny Lloyd</li>
                                 <li>Charles L. Lyons</li>
+                                <li>Brenna Malloy</li>
                                 <li>Brent Marshall</li>
                                 <li>Craig Marshall</li>
                                 <li>Steve Milam</li>
                                 <li>Daniel Sabin</li>
+                                <li>Dan Stilley</li>
                                 <li>Doug Smith</li>
                                 <li>Simon Sobolewski</li>
+                                <li>Paul Trainor</li>
                                 <li>Sheree Watson</li>
+                                <li>Mia Wickland</li>
+                                <li>Andres Yang</li>
                             </ul>
                         </div>
                     </div>

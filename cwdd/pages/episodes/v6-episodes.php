@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-episodes-staging.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Episodes - Civil War Digital Digest
@@ -128,6 +128,14 @@
                                     </p>
                                     <a href="https://www.youtube.com/watch?v=Z4hKb6doO8I" target="_blank">
                                         <img class="episode-pic" src="/images/v6-episodes/v6e9.jpg" alt="Civil War Digital Digest Vol.6 Episode 9" id="v6e9">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e10-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-ten-pop">Episode 10<br>Men's Summer Clothing
+                                        <span class="popuptext" id="episode-ten-slugline">Learn about summer clothing for men</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=3sYeseqr3xg" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e10.jpg" alt="Civil War Digital Digest Vol.6 Episode 10" id="v6e10">
                                     </a>
                                 </div>
                             </div>

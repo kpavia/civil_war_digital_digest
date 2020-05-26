@@ -130,6 +130,14 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e9.jpg" alt="Civil War Digital Digest Vol.6 Episode 9" id="v6e9">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="v6e10-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-ten-pop">Episode 10<br>Men's Summer Clothing
+                                        <span class="popuptext" id="episode-ten-slugline">Learn about summer clothing for men</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=3sYeseqr3xg" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e10.jpg" alt="Civil War Digital Digest Vol.6 Episode 10" id="v6e10">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         
