@@ -138,6 +138,22 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e10.jpg" alt="Civil War Digital Digest Vol.6 Episode 10" id="v6e10">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="v6e11-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-eleven-pop">Episode 11<br>Imported & CS Musket Tools
+                                        <span class="popuptext" id="episode-eleven-slugline">Overview of Foreign & CS made tools</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=swFFVZM5_UI" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e11.jpg" alt="Civil War Digital Digest Vol.6 Episode 11" id="v6e11">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e12-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-twelve-pop">Episode 12<br>CS Swords & Sabers
+                                        <span class="popuptext" id="episode-twelve-slugline">CS Swords Overview</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=ds_YBdwyOXs&t=302s" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e12.jpg" alt="Civil War Digital Digest Vol.6 Episode 12" id="v6e12">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         

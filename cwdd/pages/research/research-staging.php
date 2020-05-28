@@ -235,6 +235,43 @@
                             </div>
                         </div>
                     </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#episode-twelve" data-toggle="collapse" class="research-collapsibles">Episode 12<br>Confederate Swords & Sabers</a>
+                            </h4>
+                            <div id="episode-twelve" class="collapse center">
+                                <h4>Books</h4>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2M6ZdMg" target="_blank">
+                                        The American Sword, 1775-1945 - Harold L. Peterson
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2M2ol6M" target="_blank">
+                                        William Glaze and the Palmetto Armory – by Jack Allen Meyer
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2AbPxgT" target="_blank">
+                                        American Swords & Makers’ Marks – by Clegg Donald Furr
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/3esckDW" target="_blank">
+                                        A Photographic Supplement of Confederate Swords – by William A. Albaugh III
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="/docs/1978-B38-James-Conning-Confederate-Sword-Maker.pdf" target="_blank">
+                                        James Conning, CS Sword Maker PDF
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
                 </div>
                 <aside class="col-md-2 col-lg-2 justify-content-center" id="right-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
