@@ -4,7 +4,7 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <link rel="stylesheet" type="text/css" href="/css/universal.css" >
-        <link rel="stylesheet" type="text/css" href="/css/v6-research-staging.css" >
+        <link rel="stylesheet" type="text/css" href="/css/v6-research.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             Vol. 6 Research - Civil War Digital Digest
@@ -235,6 +235,59 @@
                             </div>
                         </div>
                     </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#episode-twelve" data-toggle="collapse" class="research-collapsibles">Episode 12<br>Confederate Swords & Sabers</a>
+                            </h4>
+                            <div id="episode-twelve" class="collapse center">
+                                <h4>Books</h4>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2M6ZdMg" target="_blank">
+                                        The American Sword, 1775-1945 - Harold L. Peterson
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2M2ol6M" target="_blank">
+                                        William Glaze and the Palmetto Armory – by Jack Allen Meyer
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/2AbPxgT" target="_blank">
+                                        American Swords & Makers’ Marks – by Clegg Donald Furr
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/3esckDW" target="_blank">
+                                        A Photographic Supplement of Confederate Swords – by William A. Albaugh III
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="/docs/1978-B38-James-Conning-Confederate-Sword-Maker.pdf" target="_blank">
+                                        James Conning, CS Sword Maker PDF
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#live-0513" data-toggle="collapse" class="research-collapsibles">Livestream 05/13/2020<br>The 3rd System</a>
+                            </h4>
+                            <div id="live-0513" class="collapse center">
+                                <h4>Books</h4>
+                                <p class="link-size">
+                                    <a href="https://www.amazon.com/gp/product/1732391610/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1732391610&linkCode=as2&tag=allmiccivwar-                                       20&linkId=944277cdf927a2bbebe4518b2e73fcd1" target="_blank">
+                                        A Legacy in Brick and Stone: American Coast Defense Forts of the Third System, 1816-1867 - John Weaver
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
                 </div>
                 <aside class="col-md-2 col-lg-2 justify-content-center" id="right-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>

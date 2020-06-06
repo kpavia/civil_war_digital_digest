@@ -154,6 +154,38 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e12.jpg" alt="Civil War Digital Digest Vol.6 Episode 12" id="v6e12">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="live-0415">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live1-pop">Livestream 04/15/20<br>Napoleonic or 1st Modern War #1
+                                        <span class="popuptext" id="episode-live1-slugline"></span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=kwNJJjWDSSA&t=810s" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0415.jpg" alt="Civil War Digital Digest Livestream" id="live1">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="live-0429">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live2-pop">Livestream 04/29/20<br>Napoleonic or 1st Modern War #2
+                                        <span class="popuptext" id="episode-live2-slugline"></span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=XVK7B2m7ubo" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0429.jpg" alt="Civil War Digital Digest Livestream" id="live2">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="live-0513">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live3-pop">Livestream 05/13/2020<br>The 3rd System
+                                        <span class="popuptext" id="episode-live3-slugline">Civil War Forts featuring John Weaver</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=3-H8oAbn7Hs" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0513.jpg" alt="Civil War Digital Digest Livestream" id="live3">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="live-0527">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live4-pop">Livestream 05/27/2020<br>Napoleonic or 1st Modern War #3
+                                        <span class="popuptext" id="episode-live4-slugline"></span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=xKOsL0aNlaY" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0527.jpg" alt="Civil War Digital Digest Livestream" id="live4">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         
