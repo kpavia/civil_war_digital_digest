@@ -10,6 +10,7 @@
             <li class="nav-item dropdown">
                 <a id="episodes-dropdown" class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">Episodes</a>
                 <ul class="dropdown-menu">
+                    <li><a href="http://civilwardigitaldigest.com/pages/premium.php">Premium Content</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeOne.php">Volume I (2015)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeTwo.php">Volume II (2016)</a></li>
                     <li><a href="http://civilwardigitaldigest.com/pages/episodes/volumeThree.php">Volume III (2017)</a></li>
