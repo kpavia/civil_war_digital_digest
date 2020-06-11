@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: /pages/patreon.php
+
+Sitemap: http://civilwardigitaldigest.com/sitemap.xml
