@@ -57,8 +57,46 @@
                     </div>
                     <div class="row">
                         <div class="col-12 center">
+                            <h3 class="underline">CWDD Volume 1</h3>
                             <ul>
                                 <li><a href="http://civilwardigitaldigest.com/recipes/hellfire-stew.php">Hell Fire Stew</a></li>
+                                <li>Coffee a la Zouave</li>
+                            </ul>
+                            <h3 class="underline">CWDD Volume 2</h3>
+                            <ul>
+                                <li>Beef Steak</li>
+                                <li>General Casey's Stew</li>
+                                <li>Simple Dumplings</li>
+                                <li>Making Coffee on Campaign</li>
+                                <li>Hooker's Retreat: A Whiskey Cocktail</li>
+                                <li>Preparing Salt Pork</li>
+                                <li>Roasting Coffee</li>
+                            </ul>
+                            <h3 class="underline">CWDD Volume 3</h3>
+                            <ul>
+                                <li>Camp Soup</li>
+                                <li>Dough Gods</li>
+                                <li>Cornmeal Mush</li>
+                                <li>Hoecakes</li>
+                                <li>Bubble & Squeak</li>
+                            </ul>
+                            <h3 class="underline">CWDD Volume 4</h3>
+                            <ul>
+                                <li>Griddle Cakes</li>
+                                <li>Cucumbers</li>
+                                <li>Tomato Cakes</li>
+                                <li>Fried Beef Steaks</li>
+                                <li>Fry Meat & Gravy</li>
+                                <li>Rice Pudding</li>
+                            </ul>
+                            <h3 class="underline">CWDD Volume 5</h3>
+                            <ul>
+                                <li>Pineapple</li>
+                                <li>Potato Soup</li>
+                                <li>Camburn's Picket Stew</li>
+                            </ul>
+                            <h3 class="underline">CWDD Volume 6</h3>
+                            <ul>
                                 <li><a href="http://civilwardigitaldigest.com/recipes/hardtack.php">Hardtack</a></li>
                             </ul>
                         </div>

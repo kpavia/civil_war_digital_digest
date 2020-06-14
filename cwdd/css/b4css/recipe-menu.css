@@ -1,0 +1,41 @@
+/* large screens */
+
+@media screen and (min-width: 1600px) {
+    
+}
+
+/* end large screens */
+
+
+/* medium screens */
+@media screen and (min-width: 1080px) and (max-width: 1599px){
+    
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 1070px){
+   
+}
+
+/*end medium screens */
+
+
+
+/* mobile & tablet screens */
+
+@media screen and (max-width: 999px){
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+ul li {
+    font-size: 24px;
+    font-family: 'IM Fell DW Pica', serif;
+}

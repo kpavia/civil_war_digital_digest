@@ -3,12 +3,12 @@
     <head>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
-        <meta name="description" content="Here is a list of all Civil War Era recipes done by Civil War Digital Digest">
+        <meta name="description" content="Learn how to make a simple and authentic Civil War hardtack stew">
         <link rel="stylesheet" type="text/css" href="/css/b4css/b4universal.css">
-        <link rel="stylesheet" type="text/css" href="/css/b4css/recipe-menu.css">
+        <link rel="stylesheet" type="text/css" href="/css/ind-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
-            Civil War Era Recipes
+            Hell Fire Stew
         </title>
         <style>
         </style>
@@ -51,16 +51,35 @@
                         <div class="col-12 center">
                             <h1 id="header-title">Civil War Digital Digest</h1>
                             <br>
-                            <h2 class="underline">Civil War Era Recipes</h2>
+                            <h2>Making Hell Fire Stew</h2>
                             <br>
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-md-4 col-lg-3">
+                            
+                        </div>
+                        <div id="video-wrapper" class="col-12 col-md-4 col-lg-6 center embed-responsive">
+                            <iframe src="https://www.youtube.com/embed/fZKuzP8fqAg" frameborder="0"></iframe>
+                        </div>
+                        <div class="col-md-4 col-lg-3">
+                            
+                        </div>
+                    </div>
+                    <br>
+                    <div class="row">
                         <div class="col-12 center">
+                            <h3 class="underline">Ingredients</h3>
                             <ul>
-                                <li><a href="http://civilwardigitaldigest.com/recipes/hellfire-stew.php">Hell Fire Stew</a></li>
-                                <li><a href="http://civilwardigitaldigest.com/recipes/hardtack.php">Hardtack</a></li>
+                                <li>2 hardtack crackers (crushed)</li>
+                                <li>water</li>
+                                <li>pork grease</li>
                             </ul>
+                            <p>For an in-depth guide on how to make the stew, please watch our brief video.</p>
+                            <p>Need to know how to make hardtack? Check out our link to 
+                                <a href="http://civilwardigitaldigest.com/volumes/v6/hardtack.php">
+                                    making Civil War hardtack
+                                </a>
                         </div>
                     </div>
                     <div class="row" id="4-6-row">

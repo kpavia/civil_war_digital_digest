@@ -14,6 +14,21 @@
         <changefreq>weekly</changefreq>
     </url>
     <url>
+        <loc>http://civilwardigitaldigest.com/recipes.php</loc>
+    </url>
+    <url>
+        <loc>http://civilwardigitaldigest.com/recipes/hardtack.php</loc>
+    </url>
+    <url>
+        <loc>http://civilwardigitaldigest.com/recipes/hellfire-stew.php</loc>
+    </url>
+    <url>
+        <loc>http://civilwardigitaldigest.com/volumes/v6/hardtack.php</loc>
+    </url>
+    <url>
+        <loc>http://civilwardigitaldigest.com/volumes/v1/hellfire-stew.php</loc>
+    </url>
+    <url>
         <loc>http://civilwardigitaldigest.com/pages/research/research-v5.php</loc>
         <changefreq>never</changefreq>
     </url>
