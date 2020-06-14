@@ -8,7 +8,7 @@
         <link rel="stylesheet" type="text/css" href="/css/ind-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
-            Hell Fire Stew
+            Hell Fire Stew - Civil War Recipes
         </title>
         <style>
         </style>
@@ -49,9 +49,7 @@
                 <div class="col-md-8 col-lg-8" id="content">
                     <div class="row">
                         <div class="col-12 center">
-                            <h1 id="header-title">Civil War Digital Digest</h1>
-                            <br>
-                            <h2>Making Hell Fire Stew</h2>
+                            <h1 id="header-title">Making Hell Fire Stew</h1>
                             <br>
                         </div>
                     </div>
@@ -79,7 +77,14 @@
                             <p>Need to know how to make hardtack? Check out our link to 
                                 <a href="http://civilwardigitaldigest.com/recipes/hardtack.php">
                                     making Civil War hardtack
-                                </a>
+                                </a>.
+                            </p>
+                            <p>Need to know how to prepare & cook your salt pork ration so you can use the grease to make
+                                Hell Fire Stew? Check out our episode on 
+                                <a href="http://civilwardigitaldigest.com/recipes/cooking-salt-pork.php">
+                                    preparing & cooking your salt pork ration
+                                </a>.
+                            </p>
                         </div>
                     </div>
                     <div class="row" id="4-6-row">

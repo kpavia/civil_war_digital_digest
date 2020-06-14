@@ -3,12 +3,12 @@
     <head>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
-        <meta name="description" content="Learn a simple and authentic way to make Civil War hardtack">
+        <meta name="description" content="Learn various simple ways to cook Civil War era salt pork ration">
         <link rel="stylesheet" type="text/css" href="/css/b4css/b4universal.css">
         <link rel="stylesheet" type="text/css" href="/css/ind-episodes.css" >
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
-            Civil War Hardtack - Civil War Recipes
+            Cooking Civil War Salt Pork - Civil War Recipes
         </title>
         <style>
         </style>
@@ -50,7 +50,7 @@
                     <div class="row">
                         <div class="col-12 center">
                             <br>
-                            <h1 id="header-title">Making Civil War Hardtack</h1>
+                            <h1 id="header-title">Cooking the Civil War Salt Pork Ration</h1>
                             <br>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                             
                         </div>
                         <div id="video-wrapper" class="col-12 col-md-4 col-lg-6 center embed-responsive">
-                            <iframe src="https://www.youtube.com/embed/Hs13B13o0Fg" frameborder="0"></iframe>
+                            <iframe src="https://www.youtube.com/embed/BKPltjbZ_7Y" frameborder="0"></iframe>
                         </div>
                         <div class="col-md-4 col-lg-3">
                             
@@ -68,23 +68,46 @@
                     <br>
                     <div class="row">
                         <div class="col-12 center">
-                            <h3 class="underline">Ingredients</h3>
-                            <ul>
-                                <li>3 cups all purpose flour</li>
-                                <li>1 cup whole wheat pastry flour</li>
-                                <li>1.5 cups water</li>
-                                <li>Pre-heat oven to 450 degrees F</li>
-                            </ul>
-                            <p>For an in-depth guide on how to make the hardtack, please watch our brief video.</p>
-                            <p>Interested in making the stew that Will mentioned to spice up your hardtack? Check out our link to 
-                                <a href="http://civilwardigitaldigest.com/recipes/hellfire-stew.php">
-                                    Hell Fire Stew.
-                                </a>
+                            
                         </div>
                     </div>
                     <div class="row" id="4-6-row">
-                        <div class="col-12">
-                            
+                        <div class="col-12 center">
+                            <h2 class="underline">Simple Ways to Prepare the Salt Pork Ration</h2>
+                            <ul>
+                                <li>Remove the salt layer, chop the ration, then soak in water</li>
+                                <li>Parboil the ration if you're short on time</li>
+                            </ul>
+                            <h2 class="underline">Simple Ways to Cook the Salt Pork Ration</h2>
+                            <ul>
+                                <li>Parboil it</li>
+                                <li>Boil it</li>
+                                <li>Bake it</li>
+                                <li>Fry it</li>
+                                <li>Broil it on a ramrod</li>
+                            </ul>
+                            <p>For an in-depth guide on how to prepare and cook your salt pork ration, watch our video above.</p>
+                            <h3 class="underline">Example Recipe for Boiling Salt Pork</h3>
+                            <p>This recipe comes from Eliza Smith in <i>The Complete Housewife</i>, published in London, 1758.</p>
+                            <p>With a pot of water, put in salt pork while the water is still cold.
+                                <br>If using fresh meat, wait until the water is boiling.
+                                <br>
+                               For time, boil for 15 minutes per pound of meat.
+                            </p>
+                            <p>
+                                For other recipes on how to prepare and cook salt pork, download the 
+                                <a href="http://civilwardigitaldigest.com/docs/salt-pork-doc.pdf" 
+                                   download="salt-pork-doc.pdf" 
+                                   rel="PDF File containing recipes and methods of cooking salt pork"
+                                   type="application/pdf">
+                                    guide for cooking salt pork here
+                                </a> mentioned by Will in the video.
+                            </p>
+                            <p>Don't know what to do with your leftover pork grease? Use it to make 
+                                <a href="http://civilwardigitaldigest.com/recipes/hellfire-stew.php">
+                                    Hell Fire Stew!
+                                </a>
+                            </p>
                         </div>
                     </div>
                 </div>

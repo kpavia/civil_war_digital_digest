@@ -69,7 +69,7 @@
                                 <li>Simple Dumplings</li>
                                 <li>Making Coffee on Campaign</li>
                                 <li>Hooker's Retreat: A Whiskey Cocktail</li>
-                                <li>Preparing Salt Pork</li>
+                                <li><a href="http://civilwardigitaldigest.com/recipes/cooking-salt-pork.php">Preparing Salt Pork</a></li>
                                 <li>Roasting Coffee</li>
                             </ul>
                             <h3 class="underline">CWDD Volume 3</h3>
