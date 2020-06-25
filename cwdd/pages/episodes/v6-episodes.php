@@ -186,6 +186,30 @@
                                         <img class="episode-pic" src="/images/v6-episodes/live_0527.jpg" alt="Civil War Digital Digest Livestream" id="live4">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="v6e13-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-thirteen-pop">Episode 13<br>The Real Gutta Percha
+                                        <span class="popuptext" id="episode-thirteen-slugline">What really is gutta percha</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=28M0-5vgLfc&t=1s" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e13.jpg" alt="Civil War Digital Digest Vol.6 Episode 13" id="v6e13">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e14-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-fourteen-pop">Episode 14<br>Field Cleaning
+                                        <span class="popuptext" id="episode-fourteen-slugline">Field clean a musket</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=lbdThTiKac8" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e14.jpg" alt="Civil War Digital Digest Vol.6 Episode 14" id="v6e14">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="v6e15-div">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-fifteen-pop">Episode 15<br>Starting a Fire
+                                        <span class="popuptext" id="episode-fifteen-slugline">Building a campfire </span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=QcvR2VErFJI" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/v6e15.jpg" alt="Civil War Digital Digest Vol.6 Episode 15" id="v6e15">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         
