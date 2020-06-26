@@ -4,8 +4,8 @@
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
         <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/header/b4head.php'; ?>
         <meta name="description" content="Here are the items used in CWDD episodes and links to purchase them">
-        <link rel="stylesheet" type="text/css" href="/css/b4css/b4universal.css">
-        <link rel="stylesheet" type="text/css" href="/css/b4css/general-store.css">
+        <link rel="stylesheet" type="text/css" href="css/b4css/b4universal.css">
+        <link rel="stylesheet" type="text/css" href="css/b4css/general-store.css">
         <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
         <title>
             General Store - Civil War Digital Digest

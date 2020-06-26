@@ -59,6 +59,14 @@ h1, h2, h3, h4 {
     font-family: 'IM Fell DW Pica';
 }
 
+ul {
+    padding: 0px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
 
 
 /*=== footer ===*/

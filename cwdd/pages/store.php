@@ -61,7 +61,7 @@
                     <br>
                     <img src="/images/hold-my-horse/eagle.jpg" id="eagle" class="img-responsive" />
                     <h1>
-                        <a href="http://civilwardigitaldigest.com/pages/gstore.php" rel="link to CWDD General Store">
+                        <a href="http://civilwardigitaldigest.com/general-store.php" rel="link to CWDD General Store">
                             Civil War Digital Digest General Store
                         </a>
                     </h1>
