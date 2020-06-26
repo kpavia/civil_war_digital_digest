@@ -1,0 +1,15 @@
+.no-padding {
+    padding: 0px;
+}
+
+.m-top {
+    margin-top: 50px;
+}
+
+.m-bottom {
+    margin-bottom: 50px;
+}
+
+#youtube-logo {
+    width: 200px;
+}

@@ -1,131 +1,153 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="css/second-bootstrap-stylesheet.css" >
-  <link rel="stylesheet" type="text/css" href="css/home-sheet.css">
-  <link rel="stylesheet" type="text/css" href="css/signup-popup-sheet.css">
-  <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-  
-  <title>Civil War Digital Digest</title>
+    <head>
+        <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/head/head.php'; ?>
+        <link rel="stylesheet" type="text/css" href="/css/b4css/b4universal.css">
+        <link rel="stylesheet" type="text/css" href="/css/b4css/home.css">
+        <link href='https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400,400italic' rel='stylesheet' type='text/css'>
+        <title>
+            Home - Civil War Digital Digest
+        </title>
+        <script>
+            $(document).ready(function() {
+                $("#home-dropdown").addClass("highlight-tab");
+            }); //end ready function
+        </script>
+        <!-- Google Analytics Code -->
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  <!-- Google Analytics Code -->
-            <script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-81785309-2', 'auto');
+            ga('send', 'pageview');
 
-                ga('create', 'UA-81785309-2', 'auto');
-                ga('send', 'pageview');
-            </script>
-</head>
+        </script>
+        <script src="/javascript/navbar-mousing.js"></script>
+        <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    </head> 
     <body>
-        <header>
-            <div class="container-fluid" >
-                <img src="images/cwddBanner.jpg" class="img-responsive" id="banner-img">
+        <div id="main-container" class="container-fluid">
+            <div class="row" id="header-row">
+                <header id="header" class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <img src="/images/cwddBanner.jpg" id="logo" class="img-fluid mx-auto d-block">
+                </header>
             </div>
-        </header>
-        <div class="container-fluid text-center">
-            <div class="row content" id="content-ads-holding-div">
-                <aside class="col-sm-2 sidenav" id="left-side-aside">
-                    <!-- CWDDIndexResponsive
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-5786123947739131"
-                         data-ad-slot="7423219602"
-                         data-ad-format="auto">
-                    </ins>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>  
-                    -->
+            <div class="row" id="content-row">
+                <aside class="col-12 col-md-2 justify-content-center" id="left-sidebar">
+                    <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
                 </aside>
-                <section class="col-sm-8 text-left">
-                    <h1>Welcome to the Civil War Digital Digest</h1>
-                    <p>Civil War Digital Digest is your first stop for high quality videos on American Civil War era history and living history topics.
-                        Avid living historians, relaxed armchair generals and teachers will find resources that both educate and entertain.
-                    </p>
-                    <br>
-                    <h2>Our Latest Episode</h2>
-                    <div id="current-video-div">
-                        <iframe id="current-video" src="https://www.youtube.com/embed/QcvR2VErFJI" frameborder="0" allowfullscreen></iframe>
-                        <br>
+                <div class="col-12 col-md-8" id="content">
+                    <div class="row m-top">
+                        <div class="col-12 center">
+                            <h1 id="top-title">Welcome to the Civil War Digital Digest</h1>
+                            <p>Civil War Digital Digest is your first stop for high quality videos on American Civil War era history and living history topics.
+                                Avid living historians, relaxed armchair generals and teachers will find resources that both educate and entertain.
+                            </p>
+                        </div>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <div>
-                    <a href="http://civilwardigitaldigest.com/volumes/v6/v6-episodes.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="episodes-menu-button" src="/images/new-episodes-button.jpg" alt="episodes menu button">
-                    </a>
-                    <a href="http://civilwardigitaldigest.com/pages/research/research-v6.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="research-menu-button" src="/images/new-research-button.jpg" alt="research menu button" >
-                    </a>
-                    <!-- <img class="img-responsive" id="jeremy-homepage-photo" src="/images/jeremy-front.jpeg" alt="Jeremy cooking on camera"> -->
-                    
-                    <a href="http://civilwardigitaldigest.com/pages/store.php" media="screen, handheld" target="_blank">
-                        <img class="img-responsive menu-buttons" id="store-menu-button" src="/images/new-store-button.jpg" alt="store episodes menu button">
-                    </a>
-                    <a href="http://civilwardigitaldigest.com/pages/support.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="support-menu-button" src="/images/new-support-button.jpg" alt="support menu button">
-                    </a>
-                    
-                    <!-- <img class="img-responsive" id="will-homepage-photo" src="/images/will-bottom.jpeg" alt="Will on a TV screen"> -->
-                    
-                    <a href="http://civilwardigitaldigest.com/pages/communicate.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="communicate-menu-button" src="/images/new-communicate-button.jpg" alt="communicate menu button">
-                    </a>
-                    <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/new-links-button.jpg" alt="links menu button">
-                    </a>
-                    <a href="https://historytunes.net" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/music.JPG" alt="History Tunes menu button">
-                    </a>
-                    <a href="http://civilwardigitaldigest.com/holdmyhorse.php" media="screen, handheld">
-                        <img class="img-responsive menu-buttons" id="links-menu-button" src="/images/movies-link.jpg" alt="History Tunes menu button">
-                    </a>
+                    <div class="row m-bottom">
+                        <div class="col-md-2 col-lg-3">
+                            
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-6 center no-padding">
+                            <h2>Our Latest Episode</h2>
+                            <div id="current-video-div" class="embed-responsive embed-responsive-16by9">
+                                <iframe id="current-video" class="embed-responsive-item mx-auto" src="https://www.youtube.com/embed/QcvR2VErFJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <br>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-lg-3">
+                            
+                        </div>
                     </div>
-                    <br>
-                    <br>
-                    <br>
-                    <h2>Our Introduction Episode</h2>
-                    <div id="intro-video-div">
-                        <iframe id="intro-video" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allowfullscreen></iframe>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/volumes/v6/v6-episodes.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="episodes-menu-button" src="/images/new-episodes-button.jpg" alt="episodes menu button">
+                            </a>
+                        </div>
                     </div>
-                    <br><br>
-                    <p>
-                        <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank">
-                            <img src="images/YouTube-logo-full_color.png" class="act img-responsive" id="youtube-logo" />
-                        </a>
-                    </p>
-                    <br><br>
-                </section>
-                <aside class="col-sm-2 sidenav" id="right-side-aside">
-                    <!-- CWDDIndexResponsive
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                    
-                    <ins class="adsbygoogle"
-                         style="display:block"
-                         data-ad-client="ca-pub-5786123947739131"
-                         data-ad-slot="7423219602"
-                         data-ad-format="auto">
-                    </ins>
-                    <script>
-                        (adsbygoogle = window.adsbygoogle || []).push({});
-                    </script>
-                    -->
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/pages/research/research-v6.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="research-menu-button" src="/images/new-research-button.jpg" alt="research menu button" >
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/pages/store.php" media="screen, handheld" target="_blank">
+                                <img class="img-fluid menu-buttons" id="store-menu-button" src="/images/new-store-button.jpg" alt="store episodes menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/pages/support.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="support-menu-button" src="/images/new-support-button.jpg" alt="support menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/pages/communicate.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="communicate-menu-button" src="/images/new-communicate-button.jpg" alt="communicate menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="links-menu-button" src="/images/new-links-button.jpg" alt="links menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="https://historytunes.net" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="links-menu-button" src="/images/music.JPG" alt="History Tunes menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row center">
+                        <div class="col-12">
+                            <a href="http://civilwardigitaldigest.com/holdmyhorse.php" media="screen, handheld">
+                                <img class="img-fluid menu-buttons" id="links-menu-button" src="/images/movies-link.jpg" alt="History Tunes menu button">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row m-top">
+                        <div class="col-md-2 col-lg-3">
+                            
+                        </div>
+                        <div class="col-12 col-md-8 col-lg-6 center no-padding">
+                            <h2>Our Introduction Episode</h2>
+                            <div id="current-video-div" class="embed-responsive embed-responsive-16by9">
+                                <iframe id="current-video" class="embed-responsive-item mx-auto" src="https://www.youtube.com/embed/XkTll5DyPbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <br>
+                            </div>
+                        </div>
+                        <div class="col-md-2 col-lg-3">
+                            
+                        </div>
+                    </div>
+                    <div class="row m-bottom center">
+                        <div class="col-12">
+                            <a href="https://www.youtube.com/channel/UCR419HGD33ONzukp3c-WNPA/videos" media="screen, handheld" target="_blank">
+                                <img src="/images/YouTube-logo-full_color.png" class="act img-fluid" id="youtube-logo" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <aside class="col-12 col-md-2 justify-content-center" id="right-sidebar">
+                    <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
                 </aside>
+            </div>
+            <div class="row" id="footer-row">
+                <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/b4-footer.php'; ?>
             </div>
         </div>
-        <footer class="container-fluid text-center">
-            <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/footer/footer.php'; ?>
-        </footer>
     </body>
 </html>
