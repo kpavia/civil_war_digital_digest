@@ -35,7 +35,7 @@
     <body>
         <div id="main-container" class="container-fluid">
             <div class="row" id="header-row">
-                <header id="header" class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <header id="header" class="col-12">
                     <img src="/images/cwddBanner.jpg" id="logo" class="img-fluid mx-auto d-block">
                 </header>
             </div>
@@ -43,10 +43,10 @@
                 <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/b4-nav-bar.php'; ?>
             </div>
             <div class="row" id="content-row">
-                <aside class="col-md-2 col-lg-2 justify-content-center" id="left-sidebar">
+                <aside class="col-12 col-md-2 col-lg-2 justify-content-center" id="left-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
                 </aside>
-                <div class="col-md-8 col-lg-8" id="content">
+                <div class="col-12 col-md-8 col-lg-8" id="content">
                     <div class="row">
                         <div class="col-12 center">
                             <br>
@@ -55,13 +55,16 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
-                        <div id="video-wrapper" class="col-12 col-md-4 col-lg-6 center embed-responsive">
-                            <iframe src="https://www.youtube.com/embed/BKPltjbZ_7Y" frameborder="0"></iframe>
+                        <div id="video-wrapper" class="col-12 col-lg-10 col-xl-6 justify-content-center embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item"
+                                    src="https://www.youtube.com/embed/BKPltjbZ_7Y"
+                                    frameborder="0">
+                            </iframe>
                         </div>
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
                     </div>
@@ -87,12 +90,19 @@
                                 <li>Broil it on a ramrod</li>
                             </ul>
                             <p>For an in-depth guide on how to prepare and cook your salt pork ration, watch our video above.</p>
-                            <h3 class="underline">Example Recipe for Boiling Salt Pork</h3>
-                            <p>This recipe comes from Eliza Smith in <i>The Complete Housewife</i>, published in London, 1758.</p>
-                            <p>With a pot of water, put in salt pork while the water is still cold.
-                                <br>If using fresh meat, wait until the water is boiling.
+                            <h3 class="underline">Example Recipe for Cooking Salt Pork</h3>
+                            <p>This recipe comes from Capt. Egbert L. Viele in <i>
+                                    <a href="https://books.google.com/books?id=5mkNAQAAMAAJ&pg=PA77&source=gbs_toc_r&cad=4#v=onepage&q&f=false"
+                                       target="_blank">
+                                        Handbook for Active Service
+                                    </a></i>, published in 1861.</p>
+                            <p>In a very hot frying pan, melt some pork fat. Then fry the meat in the fat.
                                 <br>
-                               For time, boil for 15 minutes per pound of meat.
+                                For seasoning, add a teaspoon of salt and 1/4 teaspoon of pepper for every pound of meat.
+                                <br>
+                                When cooked, set the meat aside in a dish. Add a pint of water to the remaining fat in the pan along with
+                                slices of onion or 2 teaspoons of vinegar. Thicken with flour to complete the gravy. Pour over your cooked
+                                ration and enjoy.
                             </p>
                             <p>
                                 For other recipes on how to prepare and cook salt pork, download the 

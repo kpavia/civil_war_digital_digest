@@ -35,7 +35,7 @@
     <body>
         <div id="main-container" class="container-fluid">
             <div class="row" id="header-row">
-                <header id="header" class="col-12 col-sm-12 col-md-12 col-lg-12">
+                <header id="header" class="col-12">
                     <img src="/images/cwddBanner.jpg" id="logo" class="img-fluid mx-auto d-block">
                 </header>
             </div>
@@ -43,7 +43,7 @@
                 <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/nav/b4-nav-bar.php'; ?>
             </div>
             <div class="row" id="content-row">
-                <aside class="col-md-2 col-lg-2 justify-content-center" id="left-sidebar">
+                <aside class="col-12 col-md-2 col-lg-2 justify-content-center" id="left-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>
                 </aside>
                 <div class="col-md-8 col-lg-8" id="content">
@@ -54,13 +54,16 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
-                        <div id="video-wrapper" class="col-12 col-md-4 col-lg-6 center embed-responsive">
-                            <iframe src="https://www.youtube.com/embed/fZKuzP8fqAg" frameborder="0"></iframe>
+                        <div id="video-wrapper" class="col-12 col-lg-10 col-xl-6 justify-content-center embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item"
+                                    src="https://www.youtube.com/embed/fZKuzP8fqAg"
+                                    frameborder="0">
+                            </iframe>
                         </div>
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
                     </div>

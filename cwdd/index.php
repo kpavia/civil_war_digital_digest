@@ -47,18 +47,18 @@
                             </p>
                         </div>
                     </div>
-                    <div class="row m-bottom">
-                        <div class="col-md-2 col-lg-3">
+                    <div class="row m-bottom justify-content-center">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
-                        <div class="col-12 col-md-8 col-lg-6 center no-padding">
-                            <h2>Our Latest Episode</h2>
+                        <div class="col-12 col-md-12 col-lg-10 col-xl-6 no-padding">
+                            <h2 class="center">Our Latest Episode</h2>
                             <div id="current-video-div" class="embed-responsive embed-responsive-16by9">
                                 <iframe id="current-video" class="embed-responsive-item mx-auto" src="https://www.youtube.com/embed/QcvR2VErFJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br>
                             </div>
                         </div>
-                        <div class="col-md-2 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                     </div>
                     <div class="row center">
                         <div class="col-12">
-                            <a href="http://civilwardigitaldigest.com/pages/links.php" media="screen, handheld">
+                            <a href="http://civilwardigitaldigest.com/links.php" media="screen, handheld">
                                 <img class="img-fluid menu-buttons" id="links-menu-button" src="/images/new-links-button.jpg" alt="links menu button">
                             </a>
                         </div>

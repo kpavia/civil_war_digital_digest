@@ -40,7 +40,7 @@
                 <a id="communicate-dropdown" href="http://civilwardigitaldigest.com/pages/communicate.php" class="nav-link">Communicate</a>
             </li>
             <li class="nav-item">
-                <a id="links-dropdown" href="http://civilwardigitaldigest.com/pages/links.php" class="nav-link">Links</a>
+                <a id="links-dropdown" href="http://civilwardigitaldigest.com/links.php" class="nav-link">Links</a>
             </li>
             <li class="nav-item">
                 <a id="music" class="nav-link" href="https://historytunes.net/">Music</a>

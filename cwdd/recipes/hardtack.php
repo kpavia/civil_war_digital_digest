@@ -55,13 +55,16 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
-                        <div id="video-wrapper" class="col-12 col-md-4 col-lg-6 center embed-responsive">
-                            <iframe src="https://www.youtube.com/embed/Hs13B13o0Fg" frameborder="0"></iframe>
+                        <div id="video-wrapper" class="col-12 col-lg-10 col-xl-6 justify-content-center embed-responsive embed-responsive-16by9">
+                            <iframe class="embed-responsive-item"
+                                    src="https://www.youtube.com/embed/Hs13B13o0Fg"
+                                    frameborder="0">
+                            </iframe>
                         </div>
-                        <div class="col-md-4 col-lg-3">
+                        <div class="d-none d-lg-block col-lg-1 col-xl-3">
                             
                         </div>
                     </div>
