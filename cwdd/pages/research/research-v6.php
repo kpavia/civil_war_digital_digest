@@ -288,6 +288,37 @@
                         </div>
                     </div>
                     <br>
+                    <div class="row episodes-row">
+                        <div class="col-12 align-content-center episodes-col">
+                            <h4 class="center">
+                                <a href="#live-0708" data-toggle="collapse" class="research-collapsibles">Livestream 07/08/2020<br>Medical Advances</a>
+                            </h4>
+                            <div id="live-0708" class="collapse center">
+                                <h4>Books</h4>
+                                <p class="link-size">
+                                    <a href="https://www.civilwarmed.org/explore/bibs/" target="_blank">
+                                        Civil War Medicine Bibliographies
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://amzn.to/3fAkTxi" target="_blank">
+                                        An Equal Burden: The Men of the Royal Army Medical Corps in the First World War
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://taubhistory.com/blog/morris-polskys-diary?fbclid=IwAR3hpxfGPyWRE_mIuvCmXmFVmkhNawrLjB1BXKe7_4zmah4EYZnAL792bmI" target="_blank">
+                                        Morris Polsky's Diary
+                                    </a>
+                                </p>
+                                <p class="link-size">
+                                    <a href="https://books.google.com/books/about/Wade_In_Sanitary.html?id=SfkaAAAAYAAJ" target="_blank">
+                                        Wade In, Sanitary! The Story of a Division Surgeon in France
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
                 </div>
                 <aside class="col-md-2 col-lg-2 justify-content-center" id="right-sidebar">
                     <?php include $_SERVER['DOCUMENT_ROOT'].'/php_modules/sidebar/sidebar-ad.php'; ?>

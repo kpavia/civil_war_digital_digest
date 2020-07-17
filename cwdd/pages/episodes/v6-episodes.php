@@ -210,6 +210,22 @@
                                         <img class="episode-pic" src="/images/v6-episodes/v6e15.jpg" alt="Civil War Digital Digest Vol.6 Episode 15" id="v6e15">
                                     </a>
                                 </div>
+                                <div class="episode-div" id="live-0610">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live5-pop">Livestream 06/10/2020<br>Cardomania
+                                        <span class="popuptext" id="episode-live5-slugline">CDVs & the Civil War</span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=cPhyJy4A29M" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0610.jpg" alt="Civil War Digital Digest 10 June 2020 Livestream" id="live5">
+                                    </a>
+                                </div>
+                                <div class="episode-div" id="live-0708">
+                                    <p class="popup episode-title" onclick="popup()" id="episode-live6-pop">Livestream 07/8/2020<br>Medical Advances
+                                        <span class="popuptext" id="episode-live5-slugline"></span>
+                                    </p>
+                                    <a href="https://www.youtube.com/watch?v=Bs-oY47phvQ" target="_blank">
+                                        <img class="episode-pic" src="/images/v6-episodes/live_0708.jpg" alt="Civil War Digital Digest 8 July 2020 Livestream" id="live6">
+                                    </a>
+                                </div>
                             </div>
                         </div>
                         
