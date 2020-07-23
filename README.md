@@ -1,2 +1,2 @@
 # clwadydv
-These are the files for the site Civil War Digital Digest, a website I'm building for the company Look Around You Ventures, LLC.
+These are the files for the site cwdd, a website I'm building for the company Look Around You Ventures, LLC.
